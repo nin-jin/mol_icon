@@ -3,11 +3,11 @@ node_js:
   - "9"
 install:
   - cd ..
-  - git clone mol https://github.com/eigenmethod/mol.git
+  - git clone https://github.com/eigenmethod/mol.git mol
+  - mv mol_icon mol/icon
   - git init
   - git remote add origin https://github.com/eigenmethod/mam.git
   - git pull origin master
-  - mv mol_icon mol/icon
   - npm install
 script:
   - npm start mol/icon/demo
