@@ -1,6 +1,7 @@
-$mol_icon_demo $mol_demo_large
+$mol_icon_demo $mol_page
 	title @ \All $mol icons
 	sub /
+		<= Head
 		<= Icons_filter $mol_search
 			query?val <=> icons_filter?val \
 		<= Output $mol_grid
