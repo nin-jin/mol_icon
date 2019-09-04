@@ -1,6 +1,10 @@
 namespace $.$$ {
 	export class $mol_icon_demo extends $.$mol_icon_demo {
 
+		icons_filter( next? : string ) {
+			return this.$.$mol_state_arg.value( 'filter' , next ) || ''
+		}
+
 		@ $mol_mem_key
 		Icon( name : string ) {
 			return new ( this.$[ name ] as typeof $mol_icon )
