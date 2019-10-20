@@ -4,7 +4,7 @@ This is collection of SVG icons. Ported from [google/material-design-icons](http
 
 Used icons will be compiled to JS and bundled with other scripts.
 
-**[Online demo](https://eigenmethod.github.io/mol/#demo=mol_icon)**
+**[Online demo](https://nin-jin.github.io/mol_icon/)**
 
 ## Usage
 
