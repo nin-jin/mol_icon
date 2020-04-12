@@ -4,6 +4,7 @@
 	width: 1em;
 	height: 1em;
 	flex: 0 0 auto;
-	vertical-align: -.1em;
+	vertical-align: top;
 	will-change: transform;
+	margin: .25rem 0;
 }
