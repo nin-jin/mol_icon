@@ -6,5 +6,6 @@
 	flex: 0 0 auto;
 	vertical-align: top;
 	will-change: transform;
-	margin: .25rem 0;
+	margin: .25em 0;
+	display: inline-block;
 }
