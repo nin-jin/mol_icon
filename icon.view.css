@@ -7,4 +7,5 @@
 	vertical-align: top;
 	margin: .25em 0;
 	display: inline-block;
+	filter: drop-shadow(0px 1px 1px var(--mol_theme_back));
 }
