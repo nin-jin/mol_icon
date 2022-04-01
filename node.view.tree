@@ -57,6 +57,8 @@ $mol_page $mol_view
 			dom_name \footer
 			sub <= foot /$mol_view
 
+$mol_row $mol_view
+
 $mol_icon_alpha $mol_icon path \M18.08,17.8C17.62,17.93 17.21,18 16.85,18C15.65,18 14.84,17.12 14.43,15.35H14.38C13.39,17.26 12,18.21 10.25,18.21C8.94,18.21 7.89,17.72 7.1,16.73C6.31,15.74 5.92,14.5 5.92,13C5.92,11.25 6.37,9.85 7.26,8.76C8.15,7.67 9.36,7.12 10.89,7.12C11.71,7.12 12.45,7.35 13.09,7.8C13.73,8.26 14.22,8.9 14.56,9.73H14.6L15.31,7.33H17.87L15.73,12.65C15.97,13.89 16.22,14.74 16.5,15.19C16.74,15.64 17.08,15.87 17.5,15.87C17.74,15.87 17.93,15.83 18.1,15.76L18.08,17.8M13.82,12.56C13.61,11.43 13.27,10.55 12.81,9.95C12.36,9.34 11.81,9.04 11.18,9.04C10.36,9.04 9.7,9.41 9.21,10.14C8.72,10.88 8.5,11.79 8.5,12.86C8.5,13.84 8.69,14.65 9.12,15.31C9.54,15.97 10.11,16.29 10.82,16.29C11.42,16.29 11.97,16 12.46,15.45C12.96,14.88 13.37,14.05 13.7,12.96L13.82,12.56Z
 
 $mol_icon_alpha_t $mol_icon path \M9,7V9H11V17H13V9H15V7H9Z
@@ -8032,10 +8034,26 @@ $mol_search $mol_pop
 				haystack <= suggest_label!id \
 				needle <= query?val \
 
-$mol_float $mol_view
-	style *
+$mol_link $mol_view
+	dom_name \a
+	attr *
 		^
-		minHeight \auto
+		href <= uri \
+		title <= hint \
+		target <= target \_self
+		download <= file_name \
+		mol_link_current <= current false
+	sub /$mol_view_content
+		<= title
+	arg *
+	event *
+		^
+		click?event <=> click?event <=> event_click?event null
+
+$mol_link_source $mol_link
+	hint @ \Source code
+	sub /
+		<= Icon $mol_icon_github_circle
 
 $mol_check $mol_button_minor
 	attr *
@@ -8050,80 +8068,38 @@ $mol_check $mol_button_minor
 				sub /
 					<= title \
 
-$mol_check_expand $mol_check
-	minimal_height 40
-	Icon $mol_icon_chevron
-	level 0
-	style *
-		^
-		paddingLeft <= level_style \0px
-	checked?val <=> expanded?val false
-	enabled <= expandable false
+$mol_check_icon $mol_check
 
-$mol_grid $mol_view
-	row_height 32
-	row_ids /string[]
-	row_id!index null
-	col_ids /
-	records *
-	record!id null
-	hierarchy null
-	hierarchy_col \
-	minimal_width 0
-	-
-	sub /
-		<= Head
-		<= Table $mol_grid_table
-			sub <= rows /$mol_view
-	Head $mol_grid_row
-		cells <= head_cells /$mol_view
-	Row!id $mol_grid_row
-		minimal_height <= row_height
-		minimal_width <= minimal_width
-		cells <= cells!id /$mol_view
-	-
-	Cell!id $mol_view
-	cell!id null
-	Cell_text!id $mol_grid_cell
-		sub <= cell_content_text!id <= cell_content!id /$mol_view_content
-	Cell_number!id $mol_grid_number
-		sub <= cell_content_number!id <= cell_content!id /$mol_view_content
-	Col_head!id $mol_float
-		dom_name \th
-		sub <= col_head_content!id /$mol_view_content
-	Cell_branch!id $mol_check_expand
-		level <= cell_level!id 0
-		label <= cell_content!id /$mol_view_content
-		expanded?val <=> cell_expanded!id?val false
-	Cell_content!id /
-		<= Cell_dimmer!id $mol_dimmer
-			needle <= needle \
-			haystack <= cell_value!id \
+$mol_lights_toggle $mol_check_icon
+	Icon <= Lights_icon $mol_icon_brightness_6
+	hint @ \Toggle lights
+	checked?val <=> lights?val false
 
-$mol_grid_table $mol_list
-	dom_name \table
-
-$mol_grid_row $mol_view
-	dom_name \tr
-	sub <= cells /$mol_view
-
-$mol_grid_cell $mol_view
-	dom_name \td
-	minimal_height 40
-
-$mol_grid_number $mol_grid_cell
+$mol_theme_auto $mol_plugin
+	attr * mol_theme <= theme \
 
 $mol_icon_demo $mol_page
-	title @ \All $mol icons
-	sub /
-		<= Head
+	title @ \$mol Icons
+	tools /
 		<= Icons_filter $mol_search
 			query?val <=> icons_filter?val \
-		<= Output $mol_grid
-			row_height 32
-			records <= records *
-			Head null
-	Icon!name $mol_icon
+		<= Github $mol_link_source
+			uri \https://github.com/nin-jin/mol_icon/
+		<= Lights $mol_lights_toggle
+	plugins /
+		<= Theme $mol_theme_auto
+	body /
+		<= Output $mol_list rows <= output /
+	Row!name $mol_row
+		minimal_height 48
+		sub /
+			<= Row_icon!name $mol_icon
+			<= Row_title!name $mol_dimmer
+				haystack <= row_title!name \
+				needle <= icons_filter
+			<= Row_descr!name $mol_dimmer
+				haystack <= row_descr!name \
+				needle <= icons_filter
 	data *
 		$mol_icon_alpha_t_circle \alphabet-t-circle letter-t-circle Alpha / Numeric
 		$mol_icon_access_point \wireless
