@@ -1,8 +1,13 @@
 $mol_icon_demo $mol_page
-	title @ \All $mol icons
+	title @ \$mol Icons
 	tools /
 		<= Icons_filter $mol_search
 			query?val <=> icons_filter?val \
+		<= Github $mol_link_source
+			uri \https://github.com/nin-jin/mol_icon/
+		<= Lights $mol_lights_toggle
+	plugins /
+		<= Theme $mol_theme_auto
 	body /
 		<= Output $mol_list rows <= output /
 	Row!name $mol_row
