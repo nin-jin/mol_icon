@@ -1,14 +1,20 @@
 $mol_icon_demo $mol_page
 	title @ \All $mol icons
-	sub /
-		<= Head
+	tools /
 		<= Icons_filter $mol_search
 			query?val <=> icons_filter?val \
-		<= Output $mol_grid
-			row_height 32
-			records <= records *
-			Head null
-	Icon!name $mol_icon
+	body /
+		<= Output $mol_list rows <= output /
+	Row!name $mol_row
+		minimal_height 48
+		sub /
+			<= Row_icon!name $mol_icon
+			<= Row_title!name $mol_dimmer
+				haystack <= row_title!name \
+				needle <= icons_filter
+			<= Row_descr!name $mol_dimmer
+				haystack <= row_descr!name \
+				needle <= icons_filter
 	data *
 		$mol_icon_alpha_t_circle \alphabet-t-circle letter-t-circle Alpha / Numeric
 		$mol_icon_access_point \wireless

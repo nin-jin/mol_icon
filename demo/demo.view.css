@@ -1,19 +1,29 @@
-[mol_icon_demo] {
-	display: flex;
-	flex-direction: column;
+[mol_icon_demo_title] {
+	flex-grow: 0;
+}
+
+[mol_icon_demo_tools] {
+	flex-grow: 1;
 }
 
 [mol_icon_demo_icons_filter] {
 	align-self: stretch;
-	flex: none;
+	flex: 1;
 }
 
-[mol_icon_demo_icon] {
+[mol_icon_demo_output] {
+	padding: var(--mol_gap_block);
+}
+
+[mol_icon_demo_row_icon] {
 	width: 24px;
 	height: 24px;
 }
 
-[mol_icon_demo_icon]:hover {
-	color: var(--mol_skin_accent);
-	transform: scale(1.5);
+:where([mol_icon_demo_row]:hover) [mol_icon_demo_row_icon] {
+	transform: scale(2);
+}
+
+[mol_icon_demo_row_title] {
+	text-shadow: 0 0 black;
 }
