@@ -1,9 +1,9 @@
 $mol_svg $mol_view
 	dom_name \svg
 	dom_name_space \http://www.w3.org/2000/svg
-	text_width?text 0
 	font_size 16
 	font_family \
+	style_size *
 
 $mol_svg_root $mol_svg
 	dom_name \svg
@@ -27,319 +27,35 @@ $mol_icon $mol_svg_root
 		<= Path $mol_svg_path
 			geometry <= path \
 
-$mol_button $mol_view
-	enabled true
-	minimal_height 40
-	click?event null
-	event_click?event null
-	event *
-		^
-		click?event <=> event_activate?event null
-		keypress?event <=> event_key_press?event null 
-	attr *
-		^
-		disabled <= disabled false
-		role \button
-		tabindex <= tab_index 0
-		title <= hint \
-	sub /
-		<= title
-
-$mol_button_typed $mol_button
-
-$mol_button_major $mol_button_typed
-	attr *
-		^
-		mol_theme \$mol_theme_accent
-
-$mol_button_minor $mol_button_typed
-
 $mol_scroll $mol_view
-	minimal_height 0
-	moving_hor?val false
-	moving_vert?val false
+	scroll_top?val 0
+	scroll_left?val 0
 	field *
 		^
-		scrollTop <= scroll_top?val 0
-		scrollLeft <= scroll_left?val 0
-		scrollBottom <= scroll_bottom?val 0
-		scrollRight <= scroll_right?val 0
-	event_async *
+		tabIndex <= tabindex -1
+	event *
 		^
 		scroll?event <=> event_scroll?event null
-		- DOMSubtreeModified?event <=> event_repos?event null
-	Strut $mol_view
-		style *
-			transform <= strut_transform \
 
 $mol_page $mol_view
+	dom_name \article
 	sub /
 		<= Head $mol_view
-			attr * mol_theme \$mol_theme_base
+			minimal_height 64
+			dom_name \header
 			sub <= head /
-				<= Title $mol_button
+				<= Title $mol_view
+					dom_name \h1
 					sub /
 						<= title
-					event_click?val <=> event_top?val null
 				<= Tools $mol_view
-					sub <= tools /
+					sub <= tools /$mol_view_content
 		<= Body $mol_scroll
-			scroll_top?val <=> body_scroll_top?val 0
-			sub <= body /
+			scroll_top?val => body_scroll_top?val
+			sub <= body /$mol_view_content
 		<= Foot $mol_view
-			attr * mol_theme \$mol_theme_base
-			sub <= foot /
-
-$mol_bar $mol_view
-
-$mol_plugin $mol_object
-	dom_node null
-	attr_static *
-	event *
-	event_async *
-
-$mol_meter $mol_plugin
-	zoom 1
-	-
-	width?val 0
-	height?val 0
-	-
-	left?val 0
-	right?val 0
-	bottom?val 0
-	top?val 0
-
-$mol_pop $mol_view
-	showed?val false
-	plugins /
-		<= Meter $mol_meter
-			top => top
-			bottom => bottom
-			left => left
-			right => right
-	sub /
-		<= Anchor null
-		<= Bubble $mol_pop_bubble
-			align <= align \bottom_center
-			content <= bubble_content /
-			height_max <= height_max 9999
-
-$mol_pop_bubble $mol_scroll
-	sub <= content /
-	style *
-		^
-		maxHeight <= height_max 9999
-	attr *
-		^
-		mol_pop_align <= align \
-		tabindex 0
-
-$mol_dimmer $mol_view
-	haystack \
-	needle \
-	sub <= parts /
-	Low!id $mol_view
-		sub /
-			<= string!id \
-
-$mol_nav $mol_plugin
-	cycle?val false
-	-
-	mod_ctrl false
-	mod_shift false
-	mod_alt false
-	-
-	keys_x?val /
-	keys_y?val /
-	-
-	current_x?val \
-	current_y?val \
-	-
-	event_up?event null
-	event_down?event null
-	event_left?event null
-	event_right?event null
-	event *
-		^
-		keydown?event <=> event_key?event null
-
-$mol_string $mol_view
-	dom_name \input
-	enabled true
-	debounce 0
-	minimal_height 40
-	field *
-		^
-		disabled <= disabled false
-		value <= value_changed?val <=> value?val \
-		placeholder <= hint \
-		type <= type?val \text
-		spellcheck <= spellcheck false
-	attr *
-		^
-		maxlength <= length_max Infinity
-	event *
-		^
-		input?event <=> event_change?event null
-		keydown?event <=> event_key_press?event null
-
-$mol_icon_chevron $mol_icon path \M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z
-
-$mol_list $mol_view
-	sub <= rows /
-	Empty null
-
-$mol_select $mol_pop
-	dictionary *
-	options /
-	value?val \
-	minimal_height 40
-	Option_row!id $mol_button_minor
-		event_click?event <=> event_select!id?event null
-		sub <= option_content!id /
-			<= Option_label!id $mol_dimmer
-				minimal_height 40
-				haystack <= option_label!id \
-				needle <= filter_pattern?val \
-	No_options $mol_view
-		sub /
-			<= no_options_message @ \No options
-	plugins /
-		<= Nav $mol_nav
-			keys_y <= nav_components /
-				<= Filter
-				<= option_rows
-			current_y?component <=> option_focused?component null
-			cycle?val <=> nav_cycle?val true
-	showed <= options_showed false
-	Anchor <= Trigger $mol_button_minor
-		sub <= trigger_content /
-			<= option_content_current /
-			<= Filter $mol_string
-				value?val <=> filter_pattern?val \
-				hint <= filter_hint <= hint @ \Search..
-				debounce <= debounce 200
-			<= Trigger_icon $mol_icon_chevron
-	bubble_content /
-		<= Menu $mol_list
-			rows <= menu_content /
-				<= Filter
-				<= option_rows /
-
-$mol_icon_cross $mol_icon path \M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z
-
-$mol_search $mol_bar
-	query?val \
-	sub /
-		<= Suggest $mol_select
-			value?val <=> suggest_selected?val \
-			filter_pattern?val <=> suggest_selected?val \
-			hint <= hint @ \Search...
-			filter_pattern?val <=> query?val
-			options_showed <= suggests_showed false
-			options <= suggests /
-			Trigger_icon null
-			debounce <= debounce 200
-		<= Clear $mol_button_minor
-			sub /
-				<= Clear_icon $mol_icon_cross
-			event_click?val <=> event_clear?val null
-
-$mol_float $mol_view
-
-$mol_check $mol_button_minor
-	attr *
-		^
-		mol_check_checked <= checked?val false
-		aria-checked <= checked?val false
-		role \checkbox
-	sub /
-		<= Icon null
-		<= label /
-			<= Title $mol_view
-				sub /
-					<= title \
-
-$mol_icon_tick $mol_icon path \M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z
-
-$mol_check_box $mol_check
-	Icon $mol_icon_tick
-
-$mol_check_expand $mol_check
-	minimal_height 32
-	Icon $mol_icon_chevron
-	level 0
-	style *
-		^
-		paddingLeft <= level_style \0px
-	checked?val <=> expanded?val false
-	enabled <= expandable false
-
-$mol_grid $mol_scroll
-	row_ids /
-	row_id!index null
-	col_ids /
-	records *
-	record!id null
-	hierarchy null
-	hierarchy_col \
-	-
-	sub /
-		<= Table $mol_grid_table
-			offset <= gap_top 0
-			sub /
-				<= rows_visible /
-	rows /
-	Head $mol_grid_row
-		height <= row_height 40
-		cells <= head_cells /
-	Row!id $mol_grid_row
-		height <= row_height 40
-		cells <= cells!id /
-	-
-	Cell!id $mol_view
-	cell!id null
-	Cell_text!id $mol_grid_cell
-		sub /
-			<= cell_content_text!id <= cell_content!id /
-	Cell_number!id $mol_grid_number
-		sub /
-			<= cell_content_number!id <= cell_content!id /
-	Col_head!id $mol_float
-		dom_name \th
-		sub /
-			<= col_head_content!id /
-	Cell_branch!id $mol_check_expand
-		level <= cell_level!id 0
-		label <= cell_content!id /
-		expanded?val <=> cell_expanded!id?val false
-	Cell_content!id /
-		<= Cell_dimmer!id $mol_dimmer
-			needle <= needle \
-			haystack <= cell_value!id \
-
-$mol_grid_table $mol_view
-	dom_name \table
-	style *
-		^
-		top <= offset 0
-
-$mol_grid_gap $mol_view
-	style *
-		^
-		top <= offset 0
-
-$mol_grid_row $mol_view
-	dom_name \tr
-	style *
-		^
-		height <= height 40
-	sub <= cells /
-
-$mol_grid_cell $mol_view
-	dom_name \td
-
-$mol_grid_number $mol_grid_cell
+			dom_name \footer
+			sub <= foot /$mol_view
 
 $mol_icon_alpha $mol_icon path \M18.08,17.8C17.62,17.93 17.21,18 16.85,18C15.65,18 14.84,17.12 14.43,15.35H14.38C13.39,17.26 12,18.21 10.25,18.21C8.94,18.21 7.89,17.72 7.1,16.73C6.31,15.74 5.92,14.5 5.92,13C5.92,11.25 6.37,9.85 7.26,8.76C8.15,7.67 9.36,7.12 10.89,7.12C11.71,7.12 12.45,7.35 13.09,7.8C13.73,8.26 14.22,8.9 14.56,9.73H14.6L15.31,7.33H17.87L15.73,12.65C15.97,13.89 16.22,14.74 16.5,15.19C16.74,15.64 17.08,15.87 17.5,15.87C17.74,15.87 17.93,15.83 18.1,15.76L18.08,17.8M13.82,12.56C13.61,11.43 13.27,10.55 12.81,9.95C12.36,9.34 11.81,9.04 11.18,9.04C10.36,9.04 9.7,9.41 9.21,10.14C8.72,10.88 8.5,11.79 8.5,12.86C8.5,13.84 8.69,14.65 9.12,15.31C9.54,15.97 10.11,16.29 10.82,16.29C11.42,16.29 11.97,16 12.46,15.45C12.96,14.88 13.37,14.05 13.7,12.96L13.82,12.56Z
 
@@ -2280,6 +1996,8 @@ $mol_icon_chess_pawn $mol_icon path \M19,22H5V20H19V22M16,18L13.2,7.74C14.72,7.0
 $mol_icon_chess_queen $mol_icon path \M18,3C19.1,3 20,3.9 20,5C20,5.81 19.5,6.5 18.83,6.82L17,13.15V18H7V13.15L5.17,6.82C4.5,6.5 4,5.81 4,5C4,3.9 4.9,3 6,3C7.1,3 8,3.9 8,5C8,5.5 7.82,5.95 7.5,6.3L10.3,9.35L10.83,5.62C10.33,5.26 10,4.67 10,4C10,2.9 10.9,2 12,2C13.1,2 14,2.9 14,4C14,4.67 13.67,5.26 13.17,5.62L13.7,9.35L16.47,6.29C16.18,5.94 16,5.5 16,5C16,3.9 16.9,3 18,3M5,20H19V22H5V20Z
 
 $mol_icon_chess_rook $mol_icon path \M5,20H19V22H5V20M17,2V5H15V2H13V5H11V2H9V5H7V2H5V8H7V18H17V8H19V2H17Z
+
+$mol_icon_chevron $mol_icon path \M10 6L8.59 7.41 13.17 12l-4.58 4.59L10 18l6-6z
 
 $mol_icon_chevron_double_down $mol_icon path \M16.59,5.59L18,7L12,13L6,7L7.41,5.59L12,10.17L16.59,5.59M16.59,11.59L18,13L12,19L6,13L7.41,11.59L12,16.17L16.59,11.59Z
 
@@ -4563,11 +4281,11 @@ $mol_icon_human $mol_icon path \M21,9H15V22H13V16H11V22H9V9H3V7H21M12,2C13.1,2 1
 
 $mol_icon_human_child $mol_icon path \M12,2C13.66,2 15,3.34 15,5C15,6.66 13.66,8 12,8C10.34,8 9,6.66 9,5C9,3.34 10.34,2 12,2M11,22H8V16H6V9H18V16H16V22H13V18H11V22Z
 
+$mol_icon_human_female_female $mol_icon path \M7.5,2C8.6,2 9.5,2.9 9.5,4C9.5,5.1 8.6,6 7.5,6C6.4,6 5.5,5.1 5.5,4C5.5,2.9 6.4,2 7.5,2M6,22V16H3L5.6,8.4C5.9,7.6 6.6,7 7.5,7C8.4,7 9.2,7.6 9.4,8.4L12,16L14.6,8.4C14.9,7.6 15.6,7 16.5,7C17.4,7 18.2,7.6 18.4,8.4L21,16H18V22H15V16H12L9,16V22H6M16.5,2C17.6,2 18.5,2.9 18.5,4C18.5,5.1 17.6,6 16.5,6C15.4,6 14.5,5.1 14.5,4C14.5,2.9 15.4,2 16.5,2Z
+
 $mol_icon_human_female $mol_icon path \M12,2C13.1,2 14,2.9 14,4C14,5.1 13.1,6 12,6C10.9,6 10,5.1 10,4C10,2.9 10.9,2 12,2M10.5,22V16H7.5L10.09,8.41C10.34,7.59 11.1,7 12,7C12.9,7 13.66,7.59 13.91,8.41L16.5,16H13.5V22H10.5Z
 
 $mol_icon_human_female_boy $mol_icon path \M7.5,2C8.6,2 9.5,2.9 9.5,4C9.5,5.1 8.6,6 7.5,6C6.4,6 5.5,5.1 5.5,4C5.5,2.9 6.4,2 7.5,2M6,22V16H3L5.6,8.4C5.9,7.6 6.6,7 7.5,7C8.4,7 9.2,7.6 9.4,8.4L12,16H9V22H6M14.5,12C14.5,10.9 15.4,10 16.5,10C17.6,10 18.5,10.9 18.5,12C18.5,13.1 17.6,14 16.5,14C15.4,14 14.5,13.1 14.5,12M13.5,15H19.5V19H18V22H15V19H13.5V15Z
-
-$mol_icon_human_female_female $mol_icon path \M7.5,2C8.6,2 9.5,2.9 9.5,4C9.5,5.1 8.6,6 7.5,6C6.4,6 5.5,5.1 5.5,4C5.5,2.9 6.4,2 7.5,2M6,22V16H3L5.6,8.4C5.9,7.6 6.6,7 7.5,7C8.4,7 9.2,7.6 9.4,8.4L12,16L14.6,8.4C14.9,7.6 15.6,7 16.5,7C17.4,7 18.2,7.6 18.4,8.4L21,16H18V22H15V16H12L9,16V22H6M16.5,2C17.6,2 18.5,2.9 18.5,4C18.5,5.1 17.6,6 16.5,6C15.4,6 14.5,5.1 14.5,4C14.5,2.9 15.4,2 16.5,2Z
 
 $mol_icon_human_female_girl $mol_icon path \M7.5,2C8.6,2 9.5,2.9 9.5,4C9.5,5.1 8.6,6 7.5,6C6.4,6 5.5,5.1 5.5,4C5.5,2.9 6.4,2 7.5,2M6,22V16H3L5.6,8.4C5.9,7.6 6.6,7 7.5,7C8.4,7 9.2,7.6 9.4,8.4L12,16H9V22H6M14.5,12C14.5,10.9 15.4,10 16.5,10C17.6,10 18.5,10.9 18.5,12C18.5,13.1 17.6,14 16.5,14C15.4,14 14.5,13.1 14.5,12M15,15H18L19.5,19H18V22H15V19H13.5L15,15Z
 
@@ -4576,6 +4294,8 @@ $mol_icon_human_greeting $mol_icon path \M1.5,4V5.5C1.5,9.65 3.71,13.28 7,15.3V2
 $mol_icon_human_handsdown $mol_icon path \M12,1C10.89,1 10,1.9 10,3C10,4.11 10.89,5 12,5C13.11,5 14,4.11 14,3C14,1.9 13.1,1 12,1M10,6C9.73,6 9.5,6.11 9.31,6.28H9.3L4,11.59L5.42,13L9,9.41V22H11V15H13V22H15V9.41L18.58,13L20,11.59L14.7,6.28C14.5,6.11 14.27,6 14,6
 
 $mol_icon_human_handsup $mol_icon path \M5,1C5,3.7 6.56,6.16 9,7.32V22H11V15H13V22H15V7.31C17.44,6.16 19,3.7 19,1H17C17,3.76 14.76,6 12,6C9.24,6 7,3.76 7,1M12,1C10.89,1 10,1.89 10,3C10,4.11 10.89,5 12,5C13.11,5 14,4.11 14,3C14,1.89 13.11,1 12,1Z
+
+$mol_icon_human_male_male $mol_icon path \M7.5,2C8.6,2 9.5,2.9 9.5,4C9.5,5.1 8.6,6 7.5,6C6.4,6 5.5,5.1 5.5,4C5.5,2.9 6.4,2 7.5,2M6,7H9C10.1,7 11,7.9 11,9V14.5H9.5V22H5.5V14.5H4V9C4,7.9 4.9,7 6,7M16.5,2C17.6,2 18.5,2.9 18.5,4C18.5,5.1 17.6,6 16.5,6C15.4,6 14.5,5.1 14.5,4C14.5,2.9 15.4,2 16.5,2M15,7H18C19.1,7 20,7.9 20,9V14.5H18.5V22H14.5V14.5H13V9C13,7.9 13.9,7 15,7Z
 
 $mol_icon_human_male $mol_icon path \M12,2C13.1,2 14,2.9 14,4C14,5.1 13.1,6 12,6C10.9,6 10,5.1 10,4C10,2.9 10.9,2 12,2M10.5,7H13.5C14.6,7 15.5,7.9 15.5,9V14.5H14V22H10V14.5H8.5V9C8.5,7.9 9.4,7 10.5,7Z
 
@@ -4588,8 +4308,6 @@ $mol_icon_human_male_girl $mol_icon path \M7.5,2C8.6,2 9.5,2.9 9.5,4C9.5,5.1 8.6
 $mol_icon_human_male_height $mol_icon path \M7,2C8.78,2 9.67,4.16 8.42,5.42C7.16,6.67 5,5.78 5,4C5,2.9 5.9,2 7,2M5.5,7H8.5C9.6,7 10.5,7.9 10.5,9V14.5H9V22H5V14.5H3.5V9C3.5,7.9 4.4,7 5.5,7M21,8H15V10H21M21,11H18V13H21M21,2H15V4H21M21,5H18V7H21M21,14H15V16H21M21,20H15V22H21M21,17H18V19H21
 
 $mol_icon_human_male_height_variant $mol_icon path \M7,2C8.78,2 9.67,4.16 8.42,5.42C7.16,6.67 5,5.78 5,4C5,2.9 5.9,2 7,2M5.5,7H8.5C9.6,7 10.5,7.9 10.5,9V14.5H9V22H5V14.5H3.5V9C3.5,7.9 4.4,7 5.5,7M19,8H21L18,4L15,8H17V16H15L18,20L21,16H19M22,2H14V4H22M22,20H14V22H22
-
-$mol_icon_human_male_male $mol_icon path \M7.5,2C8.6,2 9.5,2.9 9.5,4C9.5,5.1 8.6,6 7.5,6C6.4,6 5.5,5.1 5.5,4C5.5,2.9 6.4,2 7.5,2M6,7H9C10.1,7 11,7.9 11,9V14.5H9.5V22H5.5V14.5H4V9C4,7.9 4.9,7 6,7M16.5,2C17.6,2 18.5,2.9 18.5,4C18.5,5.1 17.6,6 16.5,6C15.4,6 14.5,5.1 14.5,4C14.5,2.9 15.4,2 16.5,2M15,7H18C19.1,7 20,7.9 20,9V14.5H18.5V22H14.5V14.5H13V9C13,7.9 13.9,7 15,7Z
 
 $mol_icon_human_pregnant $mol_icon path \M9,4C9,2.89 9.89,2 11,2C12.11,2 13,2.89 13,4C13,5.11 12.11,6 11,6C9.89,6 9,5.11 9,4M16,13C16,11.66 15.17,10.5 14,10C14,8.34 12.66,7 11,7C9.34,7 8,8.34 8,10V17H10V22H13V17H16V13Z
 
@@ -8132,6 +7850,268 @@ $mol_icon_zodiac_scorpio $mol_icon path \M17.71,15.29L16.29,16.71L17.59,18H16C14
 $mol_icon_zodiac_taurus $mol_icon path \M15.59,9C17.7,7.74 19,5.46 19,3H17C17,5.76 14.76,8 12,8C9.24,8 7,5.76 7,3H5C5,5.46 6.3,7.74 8.41,9C5.09,11 4,15.28 6,18.6C7.97,21.92 12.27,23 15.59,21C18.91,19.04 20,14.74 18,11.42C17.42,10.43 16.58,9.59 15.59,9M12,20C9.24,20 7,17.76 7,15C7,12.24 9.24,10 12,10C14.76,10 17,12.24 17,15C17,17.76 14.76,20 12,20Z
 
 $mol_icon_zodiac_virgo $mol_icon path \M18.5,19.13C20,17.77 20,15.18 20,14C20,11.79 18.21,10 16,10C15.3,10 14.6,10.2 14,10.56V6C14,4.34 12.66,3 11,3C10.25,3 9.55,3.29 9,3.78C7.86,2.76 6.14,2.76 5,3.78C4.45,3.28 3.74,3 3,3V5C3.55,5 4,5.45 4,6V16H6V6C6,5.45 6.45,5 7,5C7.55,5 8,5.45 8,6V16H10V6C10,5.45 10.45,5 11,5C11.55,5 12,5.45 12,6V14C12,15.18 12,17.77 13.5,19.13C12.72,19.54 11.88,19.84 11,20V22C12.29,22 14.84,20.74 16,20.13C17.16,20.74 19.71,22 21,22V20C20.12,19.84 19.28,19.54 18.5,19.13M16,12C17.1,12 18,12.9 18,14C18,16.92 17.46,18 16,18C14.54,18 14,16.92 14,14C14,12.9 14.9,12 16,12Z
+
+$mol_pop $mol_view
+	event * keydown?event <=> keydown?event null
+	showed?val false
+	align_vert \
+	align_hor \
+	sub /
+		<= Anchor null
+	sub_visible /
+		<= Anchor
+		<= Bubble $mol_pop_bubble
+			align <= align \bottom_center
+			content <= bubble_content /$mol_view_content
+			height_max <= height_max 9999
+
+$mol_pop_bubble $mol_scroll
+	sub <= content /$mol_view_content
+	style *
+		^
+		maxHeight <= height_max 9999
+	attr *
+		^
+		mol_pop_align <= align \
+		tabindex 0
+
+$mol_speck $mol_view
+	attr *
+		^
+		mol_theme \$mol_theme_accent
+	style *
+		^
+		minHeight \1em
+	sub /
+		<= value null
+
+$mol_button $mol_view
+	enabled true
+	minimal_height 40
+	minimal_width 40
+	click?event null
+	event_click?event null
+	event *
+		^
+		click?event <=> event_activate?event null
+		keydown?event <=> event_key_press?event null 
+	attr *
+		^
+		disabled <= disabled false
+		role \button
+		tabindex <= tab_index 0
+		title <= hint_or_error <= hint \
+	sub /$mol_view_content
+		<= title
+	Speck $mol_speck
+
+$mol_button_typed $mol_button
+
+$mol_button_minor $mol_button_typed
+
+$mol_hotkey $mol_plugin
+	event *
+		^
+		keydown?event <=> keydown?event null
+	key *
+	mod_ctrl false
+	mod_alt false
+	mod_shift false
+
+$mol_nav $mol_plugin
+	cycle?val false
+	-
+	mod_ctrl false
+	mod_shift false
+	mod_alt false
+	-
+	keys_x?val /
+	keys_y?val /
+	-
+	current_x?val null
+	current_y?val null
+	-
+	event_up?event null
+	event_down?event null
+	event_left?event null
+	event_right?event null
+	event *
+		^
+		keydown?event <=> event_key?event null
+
+$mol_string $mol_view
+	dom_name \input
+	enabled true
+	minimal_height 40
+	autocomplete false
+	selection?val /number
+	auto /
+		<= selection_watcher null
+	field *
+		^
+		disabled <= disabled false
+		value <= value_changed?val <=> value?val \
+		placeholder <= hint_visible <= hint \
+		spellcheck <= spellcheck false
+		autocomplete <= autocomplete_native \
+		selectionEnd <= selection_end 0
+		selectionStart <= selection_start 0
+	attr *
+		^
+		maxlength <= length_max Infinity
+		type <= type?val \text
+	event *
+		^
+		input?event <=> event_change?event null
+		keydown?event <=> event_key_press?event null
+	plugins /
+		<= Submit $mol_hotkey
+			key * enter?event <=> submit?event null
+
+$mol_icon_cross $mol_icon path \M19 6.41L17.59 5L12 10.59L6.41 5L5 6.41L10.59 12L5 17.59L6.41 19L12 13.41L17.59 19L19 17.59L13.41 12L19 6.41Z
+
+$mol_list $mol_view
+	render_visible_only true
+	render_over 0
+	sub <= rows /$mol_view
+	Empty $mol_view
+	Gap_before $mol_view style * paddingTop <= gap_before 0
+	Gap_after $mol_view style * paddingTop <= gap_after 0
+	view_window /
+		0
+		0
+
+$mol_paragraph $mol_view
+	line_height 24
+	letter_width 7
+	width_limit Infinity
+	sub / <= title
+
+$mol_dimmer $mol_paragraph
+	haystack \
+	needle \
+	sub <= parts /$mol_view_content
+	Low!id $mol_paragraph
+		sub /
+			<= string!id \
+	High!id $mol_paragraph
+		sub /
+			<= string!id \
+
+$mol_search $mol_pop
+	query?val \
+	suggests /string
+	plugins /$mol_plugin
+		^
+		<= Hotkey $mol_hotkey
+			key * escape?val <=> clear?val null
+		<= Nav $mol_nav
+			keys_y <= nav_components /$mol_view
+			current_y?component <=> nav_focused?component null
+	showed?val <=> suggests_showed?val false
+	align_hor \right
+	Anchor $mol_view
+		sub <= anchor_content /
+			<= Query $mol_string
+				value?val <=> query?val \
+				hint <= hint @ \Search...
+				submit?event <=> submit?event null
+				enabled <= enabled true
+			<= Clear $mol_button_minor
+				hint @ \Clear
+				click?event <=> clear?event null
+				sub /
+					<= Clear_icon $mol_icon_cross
+	bubble_content /$mol_view_content
+		<= Menu $mol_list
+			rows <= menu_items /$mol_view
+	Suggest!id $mol_button_minor
+		click?event <=> suggest_select!id?event null
+		sub <= suggest_content!id /$mol_view_content
+			<= Suggest_label!id $mol_dimmer
+				haystack <= suggest_label!id \
+				needle <= query?val \
+
+$mol_float $mol_view
+	style *
+		^
+		minHeight \auto
+
+$mol_check $mol_button_minor
+	attr *
+		^
+		mol_check_checked <= checked?val false
+		aria-checked <= checked?val false
+		role \checkbox
+	sub /$mol_view_content
+		<= Icon null
+		<= label /
+			<= Title $mol_view
+				sub /
+					<= title \
+
+$mol_check_expand $mol_check
+	minimal_height 40
+	Icon $mol_icon_chevron
+	level 0
+	style *
+		^
+		paddingLeft <= level_style \0px
+	checked?val <=> expanded?val false
+	enabled <= expandable false
+
+$mol_grid $mol_view
+	row_height 32
+	row_ids /string[]
+	row_id!index null
+	col_ids /
+	records *
+	record!id null
+	hierarchy null
+	hierarchy_col \
+	minimal_width 0
+	-
+	sub /
+		<= Head
+		<= Table $mol_grid_table
+			sub <= rows /$mol_view
+	Head $mol_grid_row
+		cells <= head_cells /$mol_view
+	Row!id $mol_grid_row
+		minimal_height <= row_height
+		minimal_width <= minimal_width
+		cells <= cells!id /$mol_view
+	-
+	Cell!id $mol_view
+	cell!id null
+	Cell_text!id $mol_grid_cell
+		sub <= cell_content_text!id <= cell_content!id /$mol_view_content
+	Cell_number!id $mol_grid_number
+		sub <= cell_content_number!id <= cell_content!id /$mol_view_content
+	Col_head!id $mol_float
+		dom_name \th
+		sub <= col_head_content!id /$mol_view_content
+	Cell_branch!id $mol_check_expand
+		level <= cell_level!id 0
+		label <= cell_content!id /$mol_view_content
+		expanded?val <=> cell_expanded!id?val false
+	Cell_content!id /
+		<= Cell_dimmer!id $mol_dimmer
+			needle <= needle \
+			haystack <= cell_value!id \
+
+$mol_grid_table $mol_list
+	dom_name \table
+
+$mol_grid_row $mol_view
+	dom_name \tr
+	sub <= cells /$mol_view
+
+$mol_grid_cell $mol_view
+	dom_name \td
+	minimal_height 40
+
+$mol_grid_number $mol_grid_cell
 
 $mol_icon_demo $mol_page
 	title @ \All $mol icons
