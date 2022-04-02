@@ -27,3 +27,7 @@
 [mol_icon_demo_row_title] {
 	text-shadow: 0 0 black;
 }
+
+[mol_icon_demo_row_descr] {
+	color: var(--mol_theme_shade);
+}
