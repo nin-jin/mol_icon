@@ -57141,7 +57141,7 @@ var $;
 "use strict";
 var $;
 (function ($) {
-    $mol_style_attach("mol/icon/demo/demo.view.css", "[mol_icon_demo_title] {\n\tflex-grow: 0;\n}\n\n[mol_icon_demo_tools] {\n\tflex-grow: 1;\n}\n\n[mol_icon_demo_icons_filter] {\n\talign-self: stretch;\n\tflex: 1;\n}\n\n[mol_icon_demo_output] {\n\tpadding: var(--mol_gap_block);\n}\n\n[mol_icon_demo_row_icon] {\n\twidth: 24px;\n\theight: 24px;\n}\n\n:where([mol_icon_demo_row]:hover) [mol_icon_demo_row_icon] {\n\ttransform: scale(2);\n}\n\n[mol_icon_demo_row_title] {\n\ttext-shadow: 0 0 black;\n}\n\n[mol_icon_demo_row_descr] {\n\tcolor: var(--mol_theme_shade);\n}\n");
+    $mol_style_attach("mol/icon/demo/demo.view.css", "[mol_icon_demo_title] {\n\tflex-grow: 0;\n}\n\n[mol_icon_demo_tools] {\n\tflex-grow: 1;\n}\n\n[mol_icon_demo_icons_filter] {\n\talign-self: stretch;\n\tflex: 1;\n}\n\n[mol_icon_demo_output] {\n\tpadding: var(--mol_gap_block);\n}\n\n[mol_icon_demo_row_icon] {\n\twidth: 24px;\n\theight: 24px;\n}\n\n:where([mol_icon_demo_row]:hover) [mol_icon_demo_row_icon] {\n\ttransform: scale(2);\n}\n\n[mol_icon_demo_row_title] {\n\ttext-shadow: 0 0;\n}\n\n[mol_icon_demo_row_descr] {\n\tcolor: var(--mol_theme_shade);\n}\n");
 })($ || ($ = {}));
 //mol/icon/demo/-css/demo.view.css.ts
 ;
