@@ -25288,7 +25288,7 @@ declare namespace $ {
         tools(): readonly any[];
         plugins(): readonly any[];
         body(): readonly any[];
-        Row(name: any): $mol_row;
+        Row(id: any): $mol_row;
         data(): {
             $mol_icon_alpha_t_circle: string;
             $mol_icon_access_point: string;
@@ -29193,11 +29193,11 @@ declare namespace $ {
         Theme(): $$.$mol_theme_auto;
         output(): readonly any[];
         Output(): $$.$mol_list;
-        Row_icon(name: any): $mol_icon;
-        row_title(name: any): string;
-        Row_title(name: any): $$.$mol_dimmer;
-        row_descr(name: any): string;
-        Row_descr(name: any): $$.$mol_dimmer;
+        Row_icon(id: any): $mol_icon;
+        row_title(id: any): string;
+        Row_title(id: any): $$.$mol_dimmer;
+        row_descr(id: any): string;
+        Row_descr(id: any): $$.$mol_dimmer;
     }
 }
 
