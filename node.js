@@ -2973,7 +2973,7 @@ var $;
 "use strict";
 var $;
 (function ($) {
-    function $mol_offline(uri = 'web.js') { }
+    function $mol_offline() { }
     $.$mol_offline = $mol_offline;
 })($ || ($ = {}));
 //mol/offline/offline.node.ts

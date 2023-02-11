@@ -2526,12 +2526,14 @@ var $;
     const blacklist = new Set([
         '//cse.google.com/adsense/search/async-ads.js'
     ]);
-    function $mol_offline(uri = 'web.js') {
+    function $mol_offline() {
         if (typeof window === 'undefined') {
             self.addEventListener('install', (event) => {
                 self['skipWaiting']();
             });
             self.addEventListener('activate', (event) => {
+                caches.delete('v1');
+                caches.delete('$mol_offline');
                 self['clients'].claim();
                 console.info('$mol_offline activated');
             });
@@ -2542,18 +2544,15 @@ var $;
                         statusText: 'Blocked'
                     }));
                 }
-                event.respondWith(fetch(event.request)
-                    .then(response => {
-                    if (event.request.method !== 'GET')
-                        return response;
-                    event.waitUntil(caches.open('v1')
-                        .then(cache => cache.put(event.request, response)));
+                if (event.request.method !== 'GET') {
+                    event.respondWith(fetch(event.request));
+                }
+                const fresh = fetch(event.request).then(response => {
+                    event.waitUntil(caches.open('$mol_offline').then(cache => cache.put(event.request, response)));
                     return response.clone();
-                })
-                    .catch(error => {
-                    return caches.match(event.request)
-                        .catch(error2 => $mol_fail_hidden(error));
-                }));
+                });
+                event.waitUntil(fresh);
+                event.respondWith(caches.match(event.request).then(response => response || fresh));
             });
             self.addEventListener('beforeinstallprompt', (event) => {
                 console.log(event);
@@ -2567,7 +2566,7 @@ var $;
             console.warn('Service Worker is not supported.');
         }
         else {
-            navigator.serviceWorker.register(uri);
+            navigator.serviceWorker.register('web.js');
         }
     }
     $.$mol_offline = $mol_offline;
