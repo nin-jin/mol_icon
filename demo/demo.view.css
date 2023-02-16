@@ -11,10 +11,6 @@
 	flex: 1;
 }
 
-[mol_icon_demo_output] {
-	padding: var(--mol_gap_block);
-}
-
 [mol_icon_demo_row_icon] {
 	width: 24px;
 	height: 24px;
