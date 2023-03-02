@@ -24882,6 +24882,7 @@ declare namespace $ {
             selectionEnd: number;
             selectionStart: number;
             inputMode: string;
+            enterkeyhint: string;
         };
         attr(): {
             maxlength: number;
@@ -24902,6 +24903,7 @@ declare namespace $ {
         selection_end(): number;
         selection_start(): number;
         keyboard(): string;
+        enter(): string;
         length_max(): number;
         type(val?: any): string;
         event_change(event?: any): any;
@@ -25137,6 +25139,8 @@ declare namespace $ {
         hint(): string;
         submit(event?: any): any;
         enabled(): boolean;
+        keyboard(): string;
+        enter(): string;
         bring(): void;
         Query(): $$.$mol_string;
         Clear_icon(): $mol_icon_cross;
