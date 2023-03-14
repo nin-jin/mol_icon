@@ -14,9 +14,12 @@ $mol_icon_demo $mol_page
 		minimal_height 48
 		sub /
 			<= Row_icon!name $mol_icon
-			<= Row_title!name $mol_dimmer
-				haystack <= row_title!name \
-				needle <= icons_filter
+			<= Copy!name $mol_button_copy
+				text <= row_title!name
+				sub /
+					<= Row_title!name $mol_dimmer
+						haystack <= row_title!name \
+						needle <= icons_filter
 			<= Row_descr!name $mol_dimmer
 				haystack <= row_descr!name \
 				needle <= icons_filter
