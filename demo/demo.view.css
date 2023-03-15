@@ -18,7 +18,7 @@
 [mol_icon_demo_row_icon] {
 	width: 24px;
 	height: 24px;
-	margin: 0.75rem;
+	margin: var(--mol_gap_text);
 }
 
 :where([mol_icon_demo_row]:hover) [mol_icon_demo_row_icon] {
