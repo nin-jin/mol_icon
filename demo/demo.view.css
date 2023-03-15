@@ -12,9 +12,7 @@
 }
 
 [mol_icon_demo_row] {
-	align-items: center;
-	padding-top: 0;
-	padding-bottom: 0;
+	flex-wrap: wrap;
 }
 
 [mol_icon_demo_row_icon] {
