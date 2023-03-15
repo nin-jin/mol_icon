@@ -1047,6 +1047,14 @@ declare namespace $.$$ {
 }
 
 declare namespace $ {
+    class $mol_row extends $mol_view {
+    }
+}
+
+declare namespace $ {
+}
+
+declare namespace $ {
     class $mol_icon_alpha extends $mol_icon {
         path(): string;
     }
@@ -25409,27 +25417,12 @@ declare namespace $.$$ {
 }
 
 declare namespace $ {
-    class $mol_button_copy extends $mol_button_minor {
-        text(): string;
-        sub(): readonly any[];
-        Icon(): $mol_icon_clipboard_outline;
-        title(): string;
-    }
-}
-
-declare namespace $.$$ {
-    class $mol_button_copy extends $.$mol_button_copy {
-        click(event?: Event): void;
-    }
-}
-
-declare namespace $ {
     class $mol_icon_demo extends $mol_page {
         title(): string;
         tools(): readonly any[];
         plugins(): readonly any[];
         body(): readonly any[];
-        Row(id: any): $mol_view;
+        Row(id: any): $mol_row;
         data(): {
             $mol_icon_alpha_t_circle: string;
             $mol_icon_access_point: string;
@@ -29337,7 +29330,6 @@ declare namespace $ {
         Row_icon(id: any): $mol_icon;
         row_title(id: any): string;
         Row_title(id: any): $$.$mol_dimmer;
-        Copy(id: any): $$.$mol_button_copy;
         row_descr(id: any): string;
         Row_descr(id: any): $$.$mol_dimmer;
     }
@@ -29362,7 +29354,7 @@ declare namespace $.$$ {
         row_descr(name: string): any;
         icons_all(): string[];
         icons_filtered(): string[];
-        output(): $mol_view[];
+        output(): $mol_row[];
     }
 }
 
