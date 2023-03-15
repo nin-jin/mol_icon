@@ -8110,7 +8110,6 @@ $mol_icon_demo $mol_page
 	body /
 		<= Output $mol_list rows <= output /
 	Row!name $mol_view
-		minimal_height 48
 		sub /
 			<= Row_icon!name $mol_icon
 			<= Copy!name $mol_button_copy

@@ -53043,7 +53043,6 @@ var $;
         }
         Row(id) {
             const obj = new this.$.$mol_view();
-            obj.minimal_height = () => 48;
             obj.sub = () => [
                 this.Row_icon(id),
                 this.Copy(id),
@@ -57176,7 +57175,7 @@ var $;
 "use strict";
 var $;
 (function ($) {
-    $mol_style_attach("mol/icon/demo/demo.view.css", "[mol_icon_demo_title] {\n\tflex-grow: 0;\n}\n\n[mol_icon_demo_tools] {\n\tflex-grow: 1;\n}\n\n[mol_icon_demo_icons_filter] {\n\talign-self: stretch;\n\tflex: 1;\n}\n\n[mol_icon_demo_row] {\n\tflex-wrap: wrap;\n}\n\n[mol_icon_demo_row_icon] {\n\twidth: 24px;\n\theight: 24px;\n\tmargin: 0.75rem;\n}\n\n:where([mol_icon_demo_row]:hover) [mol_icon_demo_row_icon] {\n\ttransform: scale(2);\n}\n\n[mol_icon_demo_row_descr] {\n\tcolor: var(--mol_theme_shade);\n\tpadding: var(--mol_gap_text);\n}\n");
+    $mol_style_attach("mol/icon/demo/demo.view.css", "[mol_icon_demo_title] {\n\tflex-grow: 0;\n}\n\n[mol_icon_demo_tools] {\n\tflex-grow: 1;\n}\n\n[mol_icon_demo_icons_filter] {\n\talign-self: stretch;\n\tflex: 1;\n}\n\n[mol_icon_demo_row] {\n\tflex-wrap: wrap;\n}\n\n[mol_icon_demo_row_icon] {\n\twidth: 24px;\n\theight: 24px;\n\tmargin: var(--mol_gap_text);\n}\n\n:where([mol_icon_demo_row]:hover) [mol_icon_demo_row_icon] {\n\ttransform: scale(2);\n}\n\n[mol_icon_demo_row_descr] {\n\tcolor: var(--mol_theme_shade);\n\tpadding: var(--mol_gap_text);\n}\n");
 })($ || ($ = {}));
 //mol/icon/demo/-css/demo.view.css.ts
 ;
