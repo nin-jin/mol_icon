@@ -11,6 +11,10 @@
 	flex: 1;
 }
 
+[mol_icon_demo_row] {
+	flex-wrap: wrap;
+}
+
 [mol_icon_demo_row_icon] {
 	width: 24px;
 	height: 24px;
