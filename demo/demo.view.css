@@ -14,16 +14,14 @@
 [mol_icon_demo_row_icon] {
 	width: 24px;
 	height: 24px;
+	margin: 0.75rem;
 }
 
 :where([mol_icon_demo_row]:hover) [mol_icon_demo_row_icon] {
 	transform: scale(2);
 }
 
-[mol_icon_demo_row_title] {
-	text-shadow: 0 0;
-}
-
 [mol_icon_demo_row_descr] {
 	color: var(--mol_theme_shade);
+	padding: var(--mol_gap_text);
 }
