@@ -10,16 +10,12 @@ $mol_icon_demo $mol_page
 		<= Theme $mol_theme_auto
 	body /
 		<= Output $mol_list rows <= output /
-	Row!name $mol_view
+	Row!name $mol_row
 		sub /
 			<= Row_icon!name $mol_icon
-			<= Copy!name $mol_button_copy
-				hint \Copy name
-				text <= row_title!name
-				sub /
-					<= Row_title!name $mol_dimmer
-						haystack <= row_title!name \
-						needle <= icons_filter
+			<= Row_title!name $mol_dimmer
+				haystack <= row_title!name \
+				needle <= icons_filter
 			<= Row_descr!name $mol_dimmer
 				haystack <= row_descr!name \
 				needle <= icons_filter
