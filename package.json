@@ -127,7 +127,6 @@
     "$mol_charset_encode",
     "$mol_mem_cached",
     "$mol_compare_array",
-    "$mol_row",
     "$mol_icon_alpha_t_circle",
     "$mol_icon_alpha_t",
     "$mol_icon_alpha",
@@ -4505,6 +4504,7 @@
     "$mol_check",
     "$mol_maybe",
     "$mol_theme_auto",
+    "$mol_button_copy",
     "$mol_match",
     "$mol_offline_install",
     "$mol_offline"
