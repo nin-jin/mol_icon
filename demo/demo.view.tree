@@ -1,5 +1,5 @@
 $mol_icon_demo $mol_page
-	title @ \$mol Icons
+	title \$mol Icons
 	tools /
 		<= Icons_filter $mol_search
 			query?val <=> icons_filter?val \
@@ -15,6 +15,7 @@ $mol_icon_demo $mol_page
 		sub /
 			<= Row_icon!name $mol_icon
 			<= Copy!name $mol_button_copy
+				hint \Copy name
 				text <= row_title!name
 				sub /
 					<= Row_title!name $mol_dimmer
