@@ -4,9 +4,14 @@
   "main": "index.js",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "start": "tsc --resolveJsonModule _index.ts && node _index.js"
+  },
   "dependencies": {
-    "@mdi/js": "^3.8.95",
-    "@mdi/svg": "3.8.95",
-    "rimraf": "2.6.3"
+    "@mdi/js": "*",
+    "@mdi/svg": "*",
+    "@types/node": "*",
+    "mol_tree2": "*",
+    "typescript": "*"
   }
 }
