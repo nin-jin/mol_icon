@@ -901,7 +901,7 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_svg_path__geometry__K7IB84HM = $mol_type_enforce<
+	type $mol_svg_path__geometry__PBHFV5YZ = $mol_type_enforce<
 		ReturnType< $mol_icon['path'] >
 		,
 		ReturnType< $mol_svg_path['geometry'] >
@@ -1018,57 +1018,57 @@ declare namespace $.$$ {
 
 declare namespace $ {
 
-	type $mol_view__dom_name__7IBOB5Y7 = $mol_type_enforce<
+	type $mol_view__dom_name__IBYQ0DDR = $mol_type_enforce<
 		string
 		,
 		ReturnType< $mol_view['dom_name'] >
 	>
-	type $mol_view__sub__2ZJG4R4X = $mol_type_enforce<
+	type $mol_view__sub__YYPNUVZ0 = $mol_type_enforce<
 		ReturnType< $mol_page['title_content'] >
 		,
 		ReturnType< $mol_view['sub'] >
 	>
-	type $mol_view__sub__ZADA3SAQ = $mol_type_enforce<
+	type $mol_view__sub__BKVU7BSU = $mol_type_enforce<
 		ReturnType< $mol_page['tools'] >
 		,
 		ReturnType< $mol_view['sub'] >
 	>
-	type $mol_view__minimal_height__NP0FXF26 = $mol_type_enforce<
+	type $mol_view__minimal_height__9UVY4TTY = $mol_type_enforce<
 		number
 		,
 		ReturnType< $mol_view['minimal_height'] >
 	>
-	type $mol_view__dom_name__QV8P8AG9 = $mol_type_enforce<
+	type $mol_view__dom_name__0YXG9S06 = $mol_type_enforce<
 		string
 		,
 		ReturnType< $mol_view['dom_name'] >
 	>
-	type $mol_view__sub__06EWE4XW = $mol_type_enforce<
+	type $mol_view__sub__FEJP16FW = $mol_type_enforce<
 		ReturnType< $mol_page['head'] >
 		,
 		ReturnType< $mol_view['sub'] >
 	>
-	type $mol_page_body_scroll_top__C2LK8ZL5 = $mol_type_enforce<
+	type $mol_page_body_scroll_top__HQSUDC54 = $mol_type_enforce<
 		Parameters< $mol_page['body_scroll_top'] >[0]
 		,
 		Parameters< ReturnType< $mol_page['Body'] >['scroll_top'] >[0]
 	>
-	type $mol_view__sub__DIBSPX89 = $mol_type_enforce<
+	type $mol_view__sub__1FU4LAHY = $mol_type_enforce<
 		ReturnType< $mol_page['body'] >
 		,
 		ReturnType< $mol_view['sub'] >
 	>
-	type $mol_scroll__sub__LCLGT05R = $mol_type_enforce<
+	type $mol_scroll__sub__LF5RESS6 = $mol_type_enforce<
 		ReturnType< $mol_page['body_content'] >
 		,
 		ReturnType< $mol_scroll['sub'] >
 	>
-	type $mol_view__dom_name__I8PRMRWK = $mol_type_enforce<
+	type $mol_view__dom_name__JJP9N2LH = $mol_type_enforce<
 		string
 		,
 		ReturnType< $mol_view['dom_name'] >
 	>
-	type $mol_view__sub__8NNHSACQ = $mol_type_enforce<
+	type $mol_view__sub__5ELGOS27 = $mol_type_enforce<
 		ReturnType< $mol_page['foot'] >
 		,
 		ReturnType< $mol_view['sub'] >
@@ -1111,17 +1111,17 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_pop_bubble__align__DY14RI5T = $mol_type_enforce<
+	type $mol_pop_bubble__align__WO2RX3FI = $mol_type_enforce<
 		ReturnType< $mol_pop['align'] >
 		,
 		ReturnType< $mol_pop_bubble['align'] >
 	>
-	type $mol_pop_bubble__content__I5AO5WFT = $mol_type_enforce<
+	type $mol_pop_bubble__content__BWMR0LYM = $mol_type_enforce<
 		ReturnType< $mol_pop['bubble_content'] >
 		,
 		ReturnType< $mol_pop_bubble['content'] >
 	>
-	type $mol_pop_bubble__height_max__AR0CN0KV = $mol_type_enforce<
+	type $mol_pop_bubble__height_max__EKBZLQP1 = $mol_type_enforce<
 		ReturnType< $mol_pop['height_max'] >
 		,
 		ReturnType< $mol_pop_bubble['height_max'] >
@@ -1625,12 +1625,12 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_hotkey__mod_ctrl__ITEL8M6I = $mol_type_enforce<
+	type $mol_hotkey__mod_ctrl__QKMQG4CV = $mol_type_enforce<
 		ReturnType< $mol_string['submit_with_ctrl'] >
 		,
 		ReturnType< $mol_hotkey['mod_ctrl'] >
 	>
-	type $mol_hotkey__key__9AH5TMWT = $mol_type_enforce<
+	type $mol_hotkey__key__8EGYWN1Q = $mol_type_enforce<
 		({ 
 			enter( next?: ReturnType< $mol_string['submit'] > ): ReturnType< $mol_string['submit'] >,
 		}) 
@@ -1735,7 +1735,7 @@ declare namespace $ {
 //# sourceMappingURL=speck.view.tree.d.ts.map
 declare namespace $ {
 
-	type $mol_speck__value__YLYLP1NH = $mol_type_enforce<
+	type $mol_speck__value__GU4S6U20 = $mol_type_enforce<
 		ReturnType< $mol_button['error'] >
 		,
 		ReturnType< $mol_speck['value'] >
@@ -1816,14 +1816,14 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_view__style__MULN1BV1 = $mol_type_enforce<
+	type $mol_view__style__BCKEU3ZF = $mol_type_enforce<
 		({ 
 			'paddingTop': ReturnType< $mol_list['gap_before'] >,
 		}) 
 		,
 		ReturnType< $mol_view['style'] >
 	>
-	type $mol_view__style__C0L9BWLF = $mol_type_enforce<
+	type $mol_view__style__7SOHW3E2 = $mol_type_enforce<
 		({ 
 			'paddingTop': ReturnType< $mol_list['gap_after'] >,
 		}) 
@@ -1991,12 +1991,12 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_paragraph__sub__0XU2UHVI = $mol_type_enforce<
+	type $mol_paragraph__sub__PAG9ECTF = $mol_type_enforce<
 		readonly(any)[]
 		,
 		ReturnType< $mol_paragraph['sub'] >
 	>
-	type $mol_paragraph__sub__A4URXUUP = $mol_type_enforce<
+	type $mol_paragraph__sub__KLICWJM5 = $mol_type_enforce<
 		readonly(any)[]
 		,
 		ReturnType< $mol_paragraph['sub'] >
@@ -2028,99 +2028,99 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_hotkey__key__IR871LC0 = $mol_type_enforce<
+	type $mol_hotkey__key__PLCHKT81 = $mol_type_enforce<
 		({ 
 			escape( next?: ReturnType< $mol_search['clear'] > ): ReturnType< $mol_search['clear'] >,
 		}) 
 		,
 		ReturnType< $mol_hotkey['key'] >
 	>
-	type $mol_nav__keys_y__F4ZD6IZ1 = $mol_type_enforce<
+	type $mol_nav__keys_y__AYK541ZR = $mol_type_enforce<
 		ReturnType< $mol_search['nav_components'] >
 		,
 		ReturnType< $mol_nav['keys_y'] >
 	>
-	type $mol_nav__current_y__DHJ7GFPT = $mol_type_enforce<
+	type $mol_nav__current_y__UEXJX2BS = $mol_type_enforce<
 		ReturnType< $mol_search['nav_focused'] >
 		,
 		ReturnType< $mol_nav['current_y'] >
 	>
-	type $mol_string__value__D48VDLZC = $mol_type_enforce<
+	type $mol_string__value__M7Z6RBJJ = $mol_type_enforce<
 		ReturnType< $mol_search['query'] >
 		,
 		ReturnType< $mol_string['value'] >
 	>
-	type $mol_string__hint__AZV8B6KF = $mol_type_enforce<
+	type $mol_string__hint__PZMV8RJV = $mol_type_enforce<
 		ReturnType< $mol_search['hint'] >
 		,
 		ReturnType< $mol_string['hint'] >
 	>
-	type $mol_string__submit__G6OIE9T9 = $mol_type_enforce<
+	type $mol_string__submit__UD7KD4OM = $mol_type_enforce<
 		ReturnType< $mol_search['submit'] >
 		,
 		ReturnType< $mol_string['submit'] >
 	>
-	type $mol_string__enabled__U1DVO96U = $mol_type_enforce<
+	type $mol_string__enabled__EVHIXWG7 = $mol_type_enforce<
 		ReturnType< $mol_search['enabled'] >
 		,
 		ReturnType< $mol_string['enabled'] >
 	>
-	type $mol_string__keyboard__HX48R9JI = $mol_type_enforce<
+	type $mol_string__keyboard__D3K3O1BF = $mol_type_enforce<
 		ReturnType< $mol_search['keyboard'] >
 		,
 		ReturnType< $mol_string['keyboard'] >
 	>
-	type $mol_string__enter__MVB4NSHO = $mol_type_enforce<
+	type $mol_string__enter__GWXGCKGK = $mol_type_enforce<
 		ReturnType< $mol_search['enter'] >
 		,
 		ReturnType< $mol_string['enter'] >
 	>
-	type $mol_button_minor__hint__RJQ827AY = $mol_type_enforce<
+	type $mol_button_minor__hint__AKE1420T = $mol_type_enforce<
 		string
 		,
 		ReturnType< $mol_button_minor['hint'] >
 	>
-	type $mol_button_minor__click__UCGRFI3C = $mol_type_enforce<
+	type $mol_button_minor__click__QPA9NDG3 = $mol_type_enforce<
 		ReturnType< $mol_search['clear'] >
 		,
 		ReturnType< $mol_button_minor['click'] >
 	>
-	type $mol_button_minor__sub__JORSR1PN = $mol_type_enforce<
+	type $mol_button_minor__sub__ADVJNKPT = $mol_type_enforce<
 		readonly(any)[]
 		,
 		ReturnType< $mol_button_minor['sub'] >
 	>
-	type $mol_list__rows__SUOI6QA8 = $mol_type_enforce<
+	type $mol_list__rows__VFUPAN20 = $mol_type_enforce<
 		ReturnType< $mol_search['menu_items'] >
 		,
 		ReturnType< $mol_list['rows'] >
 	>
-	type $mol_dimmer__haystack__E20EA05K = $mol_type_enforce<
+	type $mol_dimmer__haystack__X5XHAS7P = $mol_type_enforce<
 		ReturnType< $mol_search['suggest_label'] >
 		,
 		ReturnType< $mol_dimmer['haystack'] >
 	>
-	type $mol_dimmer__needle__PED3KLIB = $mol_type_enforce<
+	type $mol_dimmer__needle__2A8K1CSZ = $mol_type_enforce<
 		ReturnType< $mol_search['query'] >
 		,
 		ReturnType< $mol_dimmer['needle'] >
 	>
-	type $mol_search_plugins__9UU1L2OF = $mol_type_enforce<
+	type $mol_search_plugins__DBFHBQ30 = $mol_type_enforce<
 		ReturnType< $mol_pop['plugins'] >[number]
 		,
 		$mol_plugin
 	>
-	type $mol_view__sub__6F91LMON = $mol_type_enforce<
+	type $mol_view__sub__5015FY5G = $mol_type_enforce<
 		ReturnType< $mol_search['anchor_content'] >
 		,
 		ReturnType< $mol_view['sub'] >
 	>
-	type $mol_button_minor__click__8EQLL1ZV = $mol_type_enforce<
+	type $mol_button_minor__click__3UGC9FK0 = $mol_type_enforce<
 		ReturnType< $mol_search['suggest_select'] >
 		,
 		ReturnType< $mol_button_minor['click'] >
 	>
-	type $mol_button_minor__sub__ZPZLJQ6A = $mol_type_enforce<
+	type $mol_button_minor__sub__VWNUEI2Y = $mol_type_enforce<
 		ReturnType< $mol_search['suggest_content'] >
 		,
 		ReturnType< $mol_button_minor['sub'] >
@@ -2301,7 +2301,7 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_view__sub__8CM3B2NY = $mol_type_enforce<
+	type $mol_view__sub__5OY86UA4 = $mol_type_enforce<
 		readonly(any)[]
 		,
 		ReturnType< $mol_view['sub'] >
@@ -2404,6 +2404,60 @@ declare namespace $ {
 //# sourceMappingURL=row.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ab_testing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=testing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_abacus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=abacus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_abjad_arabic extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=arabic.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_abjad_hebrew extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hebrew.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_abugida_devanagari extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=devanagari.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_abugida_thai extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thai.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_access_point extends $mol_icon {
 		path( ): string
 	}
@@ -2411,6 +2465,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=point.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_access_point_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_access_point_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_access_point_network extends $mol_icon {
@@ -2429,6 +2501,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_access_point_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_access_point_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_access_point_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_account extends $mol_icon {
@@ -2450,6 +2549,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_account_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_arrow_down_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -2494,6 +2611,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_badge extends $mol_icon {
 		path( ): string
 	}
@@ -2521,6 +2656,24 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_box_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_box_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_box_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -2530,7 +2683,79 @@ declare namespace $ {
 //# sourceMappingURL=multiple.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_box_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_card extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=card.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_card_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_cash extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cash.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_cash_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -2575,6 +2800,15 @@ declare namespace $ {
 //# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_child_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_circle extends $mol_icon {
 		path( ): string
 	}
@@ -2611,6 +2845,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_convert extends $mol_icon {
 		path( ): string
 	}
@@ -2618,6 +2870,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=convert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_convert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_cowboy_hat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_cowboy_hat_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_credit_card extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=card.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_credit_card_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_account_details extends $mol_icon {
@@ -2629,6 +2926,15 @@ declare namespace $ {
 //# sourceMappingURL=details.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_details_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_edit extends $mol_icon {
 		path( ): string
 	}
@@ -2636,6 +2942,87 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_eye_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_file extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=file.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_file_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_file_text extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_file_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_filter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=filter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_filter_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_account_group extends $mol_icon {
@@ -2648,6 +3035,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_account_group_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_hard_hat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_hard_hat_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -2674,6 +3079,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_injury extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=injury.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_injury_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_key extends $mol_icon {
 		path( ): string
 	}
@@ -2684,6 +3107,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_account_key_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_lock_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -2726,6 +3185,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_multiple_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_account_multiple_minus extends $mol_icon {
@@ -2773,6 +3241,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_multiple_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_multiple_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_music extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=music.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_music_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_network extends $mol_icon {
 		path( ): string
 	}
@@ -2780,6 +3284,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=network.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_network_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_network_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_account_network_outline extends $mol_icon {
@@ -2854,6 +3376,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_reactivate extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=reactivate.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_reactivate_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_remove extends $mol_icon {
 		path( ): string
 	}
@@ -2864,6 +3404,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_account_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_school extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=school.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_school_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -2897,6 +3455,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_account_star extends $mol_icon {
@@ -2935,6 +3502,24 @@ declare namespace $ {
 //# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_supervisor_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_supervisor_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_account_switch extends $mol_icon {
 		path( ): string
 	}
@@ -2942,6 +3527,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=switch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_switch_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tag extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tag.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tag_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_account_tie extends $mol_icon {
@@ -2953,6 +3583,114 @@ declare namespace $ {
 //# sourceMappingURL=tie.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_account_tie_hat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tie_hat_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tie_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tie_voice extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=voice.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tie_voice_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tie_voice_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tie_voice_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_tie_woman extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=woman.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_voice extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=voice.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_voice_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_wrench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_account_wrench_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_adjust extends $mol_icon {
 		path( ): string
 	}
@@ -2960,6 +3698,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=adjust.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_advertisements extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=advertisements.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_advertisements_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_air_conditioner extends $mol_icon {
@@ -2989,6 +3745,24 @@ declare namespace $ {
 //# sourceMappingURL=horn.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_air_humidifier extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=humidifier.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_air_humidifier_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_air_purifier extends $mol_icon {
 		path( ): string
 	}
@@ -2996,6 +3770,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=purifier.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_air_purifier_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_airbag extends $mol_icon {
@@ -3016,6 +3799,15 @@ declare namespace $ {
 //# sourceMappingURL=airballoon.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_airballoon_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_airplane extends $mol_icon {
 		path( ): string
 	}
@@ -3023,6 +3815,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=airplane.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_airplane_landing extends $mol_icon {
@@ -3034,6 +3871,24 @@ declare namespace $ {
 //# sourceMappingURL=landing.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_airplane_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_airplane_off extends $mol_icon {
 		path( ): string
 	}
@@ -3041,6 +3896,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_airplane_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_airplane_takeoff extends $mol_icon {
@@ -3097,6 +3988,24 @@ declare namespace $ {
 //# sourceMappingURL=light.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_alarm_light_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alarm_light_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_alarm_light_outline extends $mol_icon {
 		path( ): string
 	}
@@ -3140,6 +4049,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alarm_panel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=panel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alarm_panel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_alarm_plus extends $mol_icon {
@@ -3205,6 +4132,24 @@ declare namespace $ {
 //# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_alert_circle_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_circle_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_alert_circle_outline extends $mol_icon {
 		path( ): string
 	}
@@ -3224,6 +4169,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_alert_decagram_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_minus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -3277,6 +4240,60 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_alert_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_rhombus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rhombus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alert_rhombus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_alien extends $mol_icon {
 		path( ): string
 	}
@@ -3286,6 +4303,87 @@ declare namespace $ {
 //# sourceMappingURL=alien.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_alien_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_horizontal_center extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=center.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_horizontal_distribute extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=distribute.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_horizontal_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_horizontal_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_vertical_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_vertical_center extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=center.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_vertical_distribute extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=distribute.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_align_vertical_top extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=top.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_all_inclusive extends $mol_icon {
 		path( ): string
 	}
@@ -3293,6 +4391,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=inclusive.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_all_inclusive_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_all_inclusive_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_allergy extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=allergy.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_alpha extends $mol_icon {
@@ -4474,6 +5599,60 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_alphabet_aurebesh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=aurebesh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabet_cyrillic extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cyrillic.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabet_greek extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=greek.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabet_latin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=latin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabet_piqad extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=piqad.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabet_tengwar extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tengwar.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_alphabetical extends $mol_icon {
 		path( ): string
 	}
@@ -4481,6 +5660,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=alphabetical.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabetical_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabetical_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_alphabetical_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_altimeter extends $mol_icon {
@@ -4526,6 +5732,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=amplifier.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_amplifier_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_anchor extends $mol_icon {
@@ -4636,6 +5851,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ansible extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ansible.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_antenna extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=antenna.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_anvil extends $mol_icon {
 		path( ): string
 	}
@@ -4643,6 +5876,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=anvil.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_apache_kafka extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kafka.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_api extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=api.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_api_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_apple extends $mol_icon {
@@ -4744,6 +6004,96 @@ declare namespace $ {
 //# sourceMappingURL=application.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_application_array extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=array.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_array_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_braces extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=braces.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_braces_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_brackets extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=brackets.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_brackets_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_application_export extends $mol_icon {
 		path( ): string
 	}
@@ -4760,6 +6110,87 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=import.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_parentheses extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=parentheses.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_parentheses_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_variable extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variable.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_application_variable_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_approximately_equal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=equal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_approximately_equal_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_apps extends $mol_icon {
@@ -4796,6 +6227,429 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=archive.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_eye_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_music extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=music.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_music_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_archive_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arm_flex extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flex.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arm_flex_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrange_bring_forward extends $mol_icon {
@@ -4852,6 +6706,24 @@ declare namespace $ {
 //# sourceMappingURL=left.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_bottom_left_bold_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_bottom_left_bold_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_bottom_left_bold_outline extends $mol_icon {
 		path( ): string
 	}
@@ -4870,6 +6742,24 @@ declare namespace $ {
 //# sourceMappingURL=thick.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_bottom_left_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_bottom_left_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_bottom_right extends $mol_icon {
 		path( ): string
 	}
@@ -4877,6 +6767,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_bottom_right_bold_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_bottom_right_bold_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrow_bottom_right_bold_outline extends $mol_icon {
@@ -4895,6 +6803,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=thick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_bottom_right_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_bottom_right_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrow_collapse extends $mol_icon {
@@ -5122,6 +7048,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_down_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_down_left_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_down_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_down_right_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_down_thick extends $mol_icon {
 		path( ): string
 	}
@@ -5129,6 +7091,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=thick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_down_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_down_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrow_expand extends $mol_icon {
@@ -5203,6 +7183,15 @@ declare namespace $ {
 //# sourceMappingURL=vertical.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_horizontal_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_left extends $mol_icon {
 		path( ): string
 	}
@@ -5273,6 +7262,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_left_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_left_bottom_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrow_left_box extends $mol_icon {
@@ -5356,6 +7363,78 @@ declare namespace $ {
 //# sourceMappingURL=thick.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_left_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_left_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_left_top extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=top.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_left_top_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_oscillating extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=oscillating.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_oscillating_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_projectile extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=projectile.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_projectile_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_right extends $mol_icon {
 		path( ): string
 	}
@@ -5428,6 +7507,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_right_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_right_bottom_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_right_box extends $mol_icon {
 		path( ): string
 	}
@@ -5482,6 +7579,42 @@ declare namespace $ {
 //# sourceMappingURL=thick.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_right_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_right_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_right_top extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=top.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_right_top_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_split_horizontal extends $mol_icon {
 		path( ): string
 	}
@@ -5507,6 +7640,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_top_left_bold_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_top_left_bold_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrow_top_left_bold_outline extends $mol_icon {
@@ -5545,6 +7696,24 @@ declare namespace $ {
 //# sourceMappingURL=thick.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_top_left_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_top_left_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_top_right extends $mol_icon {
 		path( ): string
 	}
@@ -5552,6 +7721,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_top_right_bold_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_top_right_bold_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrow_top_right_bold_outline extends $mol_icon {
@@ -5588,6 +7775,168 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=thick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_top_right_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_top_right_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_down_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_down_left_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_down_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_down_right_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_left_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_left_bottom_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_left_top extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=top.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_left_top_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_right_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_right_bottom_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_right_top extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=top.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_right_top_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_up_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_up_left_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_up_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_u_up_right_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_arrow_up extends $mol_icon {
@@ -5734,6 +8083,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_arrow_up_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_up_left_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_up_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_up_right_bold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_arrow_up_thick extends $mol_icon {
 		path( ): string
 	}
@@ -5741,6 +8126,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=thick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_up_thin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_up_thin_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_arrow_vertical_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_artboard extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=artboard.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_artstation extends $mol_icon {
@@ -5777,6 +8198,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=asterisk.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_asterisk_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_at extends $mol_icon {
@@ -5833,6 +8263,96 @@ declare namespace $ {
 //# sourceMappingURL=attachment.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_attachment_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_attachment_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_attachment_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_attachment_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_attachment_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_attachment_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_atv extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=atv.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_audio_input_rca extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rca.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_audio_input_stereo_minijack extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minijack.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_audio_input_xlr extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xlr.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_audio_video extends $mol_icon {
 		path( ): string
 	}
@@ -5840,6 +8360,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=video.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_audio_video_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_augmented_reality extends $mol_icon {
@@ -5851,6 +8380,24 @@ declare namespace $ {
 //# sourceMappingURL=reality.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_aurora extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=aurora.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_auto_download extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=download.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_auto_fix extends $mol_icon {
 		path( ): string
 	}
@@ -5858,6 +8405,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=fix.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_auto_mode extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mode.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_auto_upload extends $mol_icon {
@@ -5878,6 +8434,15 @@ declare namespace $ {
 //# sourceMappingURL=autorenew.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_autorenew_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_av_timer extends $mol_icon {
 		path( ): string
 	}
@@ -5885,6 +8450,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=timer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_awning extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=awning.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_awning_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_aws extends $mol_icon {
@@ -5905,6 +8488,15 @@ declare namespace $ {
 //# sourceMappingURL=axe.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_axe_battle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=battle.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_axis extends $mol_icon {
 		path( ): string
 	}
@@ -5921,6 +8513,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=arrow.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_axis_arrow_info extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=info.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_axis_arrow_lock extends $mol_icon {
@@ -6076,6 +8677,24 @@ declare namespace $ {
 //# sourceMappingURL=baby.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_baby_bottle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_baby_bottle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_baby_buggy extends $mol_icon {
 		path( ): string
 	}
@@ -6083,6 +8702,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=buggy.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_baby_buggy_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_baby_carriage extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=carriage.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_baby_carriage_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_baby_face extends $mol_icon {
@@ -6175,6 +8821,60 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_badge_account extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=account.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_badge_account_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_badge_account_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_badge_account_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_badge_account_horizontal_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_badge_account_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_badminton extends $mol_icon {
 		path( ): string
 	}
@@ -6182,6 +8882,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=badminton.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_carry_on extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=on.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_carry_on_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_carry_on_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_checked extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=checked.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bag_personal extends $mol_icon {
@@ -6218,6 +8954,96 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_personal_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_personal_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_personal_tag extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tag.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_personal_tag_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_suitcase extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=suitcase.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_suitcase_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_suitcase_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bag_suitcase_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_baguette extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=baguette.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_balcony extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=balcony.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_balloon extends $mol_icon {
@@ -6283,6 +9109,33 @@ declare namespace $ {
 //# sourceMappingURL=bank.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bank_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bank_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bank_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bank_minus extends $mol_icon {
 		path( ): string
 	}
@@ -6290,6 +9143,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bank_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bank_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bank_outline extends $mol_icon {
@@ -6355,6 +9226,15 @@ declare namespace $ {
 //# sourceMappingURL=barcode.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_barcode_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_barcode_scan extends $mol_icon {
 		path( ): string
 	}
@@ -6400,6 +9280,15 @@ declare namespace $ {
 //# sourceMappingURL=barrel.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_barrel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_baseball extends $mol_icon {
 		path( ): string
 	}
@@ -6418,6 +9307,42 @@ declare namespace $ {
 //# sourceMappingURL=bat.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_baseball_diamond extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=diamond.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_baseball_diamond_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_baseball_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bash extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bash.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_basket extends $mol_icon {
 		path( ): string
 	}
@@ -6427,6 +9352,24 @@ declare namespace $ {
 //# sourceMappingURL=basket.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_basket_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_basket_fill extends $mol_icon {
 		path( ): string
 	}
@@ -6434,6 +9377,87 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=fill.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_basket_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_basket_unfill extends $mol_icon {
@@ -6479,6 +9503,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bathtub extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bathtub.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bathtub_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_battery extends $mol_icon {
@@ -6670,6 +9712,60 @@ declare namespace $ {
 //# sourceMappingURL=bluetooth.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_battery_alert_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_alert_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_battery_bluetooth extends $mol_icon {
 		path( ): string
 	}
@@ -6785,6 +9881,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=90.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_charging_high extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=high.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_charging_low extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=low.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_charging_medium extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=medium.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_battery_charging_outline extends $mol_icon {
@@ -6904,6 +10027,114 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_battery_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_heart_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_high extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=high.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_low extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=low.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_medium extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=medium.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_battery_minus extends $mol_icon {
 		path( ): string
 	}
@@ -6913,6 +10144,24 @@ declare namespace $ {
 //# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_battery_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_minus_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_battery_negative extends $mol_icon {
 		path( ): string
 	}
@@ -6920,6 +10169,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=negative.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_battery_outline extends $mol_icon {
@@ -6940,6 +10207,24 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_battery_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_plus_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_battery_positive extends $mol_icon {
 		path( ): string
 	}
@@ -6947,6 +10232,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=positive.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_battery_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_battery_unknown extends $mol_icon {
@@ -6985,7 +10306,151 @@ declare namespace $ {
 //# sourceMappingURL=beaker.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_beaker_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_beaker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beaker_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_double extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=double.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_double_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -7003,6 +10468,114 @@ declare namespace $ {
 //# sourceMappingURL=empty.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bed_king extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=king.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_king_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_queen extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=queen.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_queen_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_single extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=single.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bed_single_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bee extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bee.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bee_flower extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flower.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beehive_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beehive_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beekeeper extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=beekeeper.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_beer extends $mol_icon {
 		path( ): string
 	}
@@ -7010,6 +10583,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=beer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_beer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bell extends $mol_icon {
@@ -7039,6 +10621,60 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bell_badge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=badge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_badge_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bell_circle extends $mol_icon {
 		path( ): string
 	}
@@ -7049,6 +10685,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_bell_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_minus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -7102,6 +10774,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bell_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bell_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bell_ring extends $mol_icon {
 		path( ): string
 	}
@@ -7138,6 +10828,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bench.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bench_back extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=back.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_beta extends $mol_icon {
 		path( ): string
 	}
@@ -7165,6 +10873,51 @@ declare namespace $ {
 //# sourceMappingURL=biathlon.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bicycle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bicycle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bicycle_basket extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=basket.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bicycle_cargo extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cargo.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bicycle_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bicycle_penny_farthing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=farthing.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bike extends $mol_icon {
 		path( ): string
 	}
@@ -7172,6 +10925,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bike.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bike_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bike_pedal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pedal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bike_pedal_clipless extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clipless.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bike_pedal_mountain extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mountain.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_billboard extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=billboard.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_billiards extends $mol_icon {
@@ -7219,6 +11017,15 @@ declare namespace $ {
 //# sourceMappingURL=biohazard.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bird extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bird.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bitbucket extends $mol_icon {
 		path( ): string
 	}
@@ -7255,6 +11062,15 @@ declare namespace $ {
 //# sourceMappingURL=blender.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_blender_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_blender_software extends $mol_icon {
 		path( ): string
 	}
@@ -7271,6 +11087,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=blinds.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_blinds_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_blinds_horizontal_closed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=closed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_blinds_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_blinds_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_blinds_vertical_closed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=closed.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_block_helper extends $mol_icon {
@@ -7417,6 +11278,15 @@ declare namespace $ {
 //# sourceMappingURL=bone.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bone_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_book extends $mol_icon {
 		path( ): string
 	}
@@ -7424,6 +11294,267 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=book.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_account extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=account.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_account_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_alphabet extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alphabet.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_cross extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cross.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_education extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=education.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_education_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_information_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_book_lock extends $mol_icon {
@@ -7444,6 +11575,42 @@ declare namespace $ {
 //# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_book_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_book_minus extends $mol_icon {
 		path( ): string
 	}
@@ -7451,6 +11618,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_minus_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_minus_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_book_multiple extends $mol_icon {
@@ -7462,6 +11656,51 @@ declare namespace $ {
 //# sourceMappingURL=multiple.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_book_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_music extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=music.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_music_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_book_open extends $mol_icon {
 		path( ): string
 	}
@@ -7469,6 +11708,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_open_blank_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_open_blank_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_book_open_outline extends $mol_icon {
@@ -7489,6 +11746,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_book_open_page_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_book_open_variant extends $mol_icon {
 		path( ): string
 	}
@@ -7496,6 +11762,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_open_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_book_outline extends $mol_icon {
@@ -7534,6 +11809,51 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_book_plus_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_plus_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_book_remove extends $mol_icon {
 		path( ): string
 	}
@@ -7541,6 +11861,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_remove_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_remove_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_book_search extends $mol_icon {
@@ -7553,6 +11900,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_book_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_book_sync_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -7579,6 +11962,42 @@ declare namespace $ {
 //# sourceMappingURL=bookmark.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bookmark_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bookmark_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bookmark_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bookmark_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bookmark_check extends $mol_icon {
 		path( ): string
 	}
@@ -7586,6 +12005,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bookmark_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bookmark_minus extends $mol_icon {
@@ -7631,6 +12059,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=music.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bookmark_music_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bookmark_off extends $mol_icon {
@@ -7687,6 +12124,24 @@ declare namespace $ {
 //# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bookmark_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bookshelf extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bookshelf.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_boom_gate extends $mol_icon {
 		path( ): string
 	}
@@ -7706,6 +12161,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_boom_gate_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_boom_gate_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_boom_gate_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_boom_gate_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_boom_gate_arrow_up_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -7748,6 +12239,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=boombox.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_boomerang extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=boomerang.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bootstrap extends $mol_icon {
@@ -7867,6 +12367,15 @@ declare namespace $ {
 //# sourceMappingURL=outside.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_border_radius extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=radius.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_border_right extends $mol_icon {
 		path( ): string
 	}
@@ -7921,6 +12430,96 @@ declare namespace $ {
 //# sourceMappingURL=vertical.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bottle_soda extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=soda.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_soda_classic extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=classic.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_soda_classic_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_soda_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_tonic extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tonic.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_tonic_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_tonic_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_tonic_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_tonic_skull extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=skull.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_tonic_skull_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bottle_wine extends $mol_icon {
 		path( ): string
 	}
@@ -7928,6 +12527,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wine.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bottle_wine_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bow_arrow extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=arrow.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bow_tie extends $mol_icon {
@@ -7946,6 +12563,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bowl.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bowl_mix extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mix.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bowl_mix_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bowl_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bowling extends $mol_icon {
@@ -7973,6 +12617,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cutter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_box_cutter_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_box_shadow extends $mol_icon {
@@ -8065,6 +12718,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_briefcase_arrow_left_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_arrow_left_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_arrow_up_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_arrow_up_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_briefcase_check extends $mol_icon {
 		path( ): string
 	}
@@ -8072,6 +12761,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_briefcase_download extends $mol_icon {
@@ -8110,6 +12826,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_briefcase_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_eye_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_briefcase_minus extends $mol_icon {
 		path( ): string
 	}
@@ -8120,6 +12854,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_briefcase_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -8209,6 +12961,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_briefcase_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_variant_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_briefcase_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_brightness_1 extends $mol_icon {
 		path( ): string
 	}
@@ -8281,6 +13069,24 @@ declare namespace $ {
 //# sourceMappingURL=percent.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_broadcast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=broadcast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_broadcast_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_broom extends $mol_icon {
 		path( ): string
 	}
@@ -8297,6 +13103,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=brush.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_brush_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_brush_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_brush_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bucket extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bucket.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bucket_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_buffet extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=buffet.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bug extends $mol_icon {
@@ -8335,6 +13195,60 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bug_pause extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bug_pause_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bug_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bug_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bug_stop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stop.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bug_stop_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bugle extends $mol_icon {
 		path( ): string
 	}
@@ -8342,6 +13256,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bugle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bulkhead_light extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=light.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bulldozer extends $mol_icon {
@@ -8389,6 +13312,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bullhorn_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bullhorn_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bullseye extends $mol_icon {
 		path( ): string
 	}
@@ -8405,6 +13346,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=arrow.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bulma extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bulma.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bunk_bed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bunk_bed_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_bus extends $mol_icon {
@@ -8461,6 +13429,33 @@ declare namespace $ {
 //# sourceMappingURL=decker.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_bus_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bus_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bus_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_bus_school extends $mol_icon {
 		path( ): string
 	}
@@ -8477,6 +13472,105 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=side.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bus_sign extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sign.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bus_stop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stop.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bus_stop_covered extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=covered.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bus_stop_uncovered extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=uncovered.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_bus_wrench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_butterfly extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=butterfly.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_butterfly_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_button_cursor extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cursor.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_button_pointer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pointer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cabin_a_frame extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=frame.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cable_data extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=data.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cached extends $mol_icon {
@@ -8524,6 +13618,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cake_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calculator extends $mol_icon {
 		path( ): string
 	}
@@ -8540,6 +13643,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calculator_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar extends $mol_icon {
@@ -8578,6 +13690,51 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_badge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=badge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_badge_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_blank extends $mol_icon {
 		path( ): string
 	}
@@ -8585,6 +13742,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=blank.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_blank_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar_blank_outline extends $mol_icon {
@@ -8623,6 +13789,51 @@ declare namespace $ {
 //# sourceMappingURL=clock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_collapse_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_collapse_horizontal_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_cursor extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cursor.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_cursor_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_edit extends $mol_icon {
 		path( ): string
 	}
@@ -8630,6 +13841,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_end extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=end.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_end_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_expand_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_expand_horizontal_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar_export extends $mol_icon {
@@ -8641,6 +13897,33 @@ declare namespace $ {
 //# sourceMappingURL=export.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_export_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_filter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=filter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_filter_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_heart extends $mol_icon {
 		path( ): string
 	}
@@ -8648,6 +13931,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar_import extends $mol_icon {
@@ -8659,6 +13951,51 @@ declare namespace $ {
 //# sourceMappingURL=import.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_import_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_minus extends $mol_icon {
 		path( ): string
 	}
@@ -8666,6 +14003,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar_month extends $mol_icon {
@@ -8713,6 +14059,15 @@ declare namespace $ {
 //# sourceMappingURL=multiselect.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_multiselect_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_outline extends $mol_icon {
 		path( ): string
 	}
@@ -8731,6 +14086,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_question extends $mol_icon {
 		path( ): string
 	}
@@ -8738,6 +14102,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar_range extends $mol_icon {
@@ -8750,6 +14123,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_calendar_range_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_refresh_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -8785,6 +14176,15 @@ declare namespace $ {
 //# sourceMappingURL=search.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_star extends $mol_icon {
 		path( ): string
 	}
@@ -8792,6 +14192,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_star_four_points extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=points.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_start extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=start.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_start_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar_text extends $mol_icon {
@@ -8821,6 +14275,15 @@ declare namespace $ {
 //# sourceMappingURL=today.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_calendar_today_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_calendar_week extends $mol_icon {
 		path( ): string
 	}
@@ -8837,6 +14300,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=begin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_week_begin_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_calendar_week_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_calendar_weekend extends $mol_icon {
@@ -8956,6 +14437,24 @@ declare namespace $ {
 //# sourceMappingURL=control.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_camera_document extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=document.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_document_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_camera_enhance extends $mol_icon {
 		path( ): string
 	}
@@ -8966,6 +14465,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_camera_enhance_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_flip extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flip.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_flip_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -9019,6 +14536,60 @@ declare namespace $ {
 //# sourceMappingURL=iris.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_camera_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_camera_metering_center extends $mol_icon {
 		path( ): string
 	}
@@ -9062,6 +14633,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_camera_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_camera_outline extends $mol_icon {
@@ -9145,6 +14725,15 @@ declare namespace $ {
 //# sourceMappingURL=switch.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_camera_switch_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_camera_timer extends $mol_icon {
 		path( ): string
 	}
@@ -9190,6 +14779,24 @@ declare namespace $ {
 //# sourceMappingURL=cancel.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_candelabra extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=candelabra.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_candelabra_fire extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fire.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_candle extends $mol_icon {
 		path( ): string
 	}
@@ -9197,6 +14804,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=candle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_candy extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=candy.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_candy_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_candy_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_candy_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_candycane extends $mol_icon {
@@ -9217,6 +14860,15 @@ declare namespace $ {
 //# sourceMappingURL=cannabis.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cannabis_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_caps_lock extends $mol_icon {
 		path( ): string
 	}
@@ -9233,6 +14885,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=car.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_2_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_3_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_car_back extends $mol_icon {
@@ -9271,6 +14959,15 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_car_brake_fluid_level extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=level.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_car_brake_hold extends $mol_icon {
 		path( ): string
 	}
@@ -9280,6 +14977,15 @@ declare namespace $ {
 //# sourceMappingURL=hold.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_car_brake_low_pressure extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pressure.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_car_brake_parking extends $mol_icon {
 		path( ): string
 	}
@@ -9287,6 +14993,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=parking.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_brake_retarder extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=retarder.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_brake_temperature extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=temperature.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_brake_worn_linings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=linings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_child_seat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=seat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_clutch extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clutch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_car_connected extends $mol_icon {
@@ -9305,6 +15074,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=convertible.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_coolant_level extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=level.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_car_cruise_control extends $mol_icon {
@@ -9343,6 +15121,24 @@ declare namespace $ {
 //# sourceMappingURL=door.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_car_door_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_door_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_car_electric extends $mol_icon {
 		path( ): string
 	}
@@ -9350,6 +15146,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_electric_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_emergency extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=emergency.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_car_esp extends $mol_icon {
@@ -9379,6 +15193,15 @@ declare namespace $ {
 //# sourceMappingURL=hatchback.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_car_info extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=info.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_car_key extends $mol_icon {
 		path( ): string
 	}
@@ -9386,6 +15209,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=key.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_lifted_pickup extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pickup.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_light_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_car_light_dimmed extends $mol_icon {
@@ -9442,6 +15283,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_car_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_car_parking_lights extends $mol_icon {
 		path( ): string
 	}
@@ -9460,6 +15310,78 @@ declare namespace $ {
 //# sourceMappingURL=pickup.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_car_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_seat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=seat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_seat_cooler extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cooler.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_seat_heater extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heater.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_select extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=select.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_shift_pattern extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pattern.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_car_side extends $mol_icon {
 		path( ): string
 	}
@@ -9467,6 +15389,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=side.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_speed_limiter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=limiter.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_car_sports extends $mol_icon {
@@ -9496,6 +15427,15 @@ declare namespace $ {
 //# sourceMappingURL=control.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_car_turbocharger extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=turbocharger.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_car_wash extends $mol_icon {
 		path( ): string
 	}
@@ -9503,6 +15443,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wash.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_windshield extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=windshield.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_windshield_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_wireless extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wireless.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_car_wrench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_carabiner extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=carabiner.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_caravan extends $mol_icon {
@@ -9521,6 +15506,78 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=card.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_details extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=details.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_details_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_details_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_details_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_mail extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mail.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_mail_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_phone extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=phone.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_account_phone_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_card_bulleted extends $mol_icon {
@@ -9577,7 +15634,115 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_card_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_card_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_card_search_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -9622,6 +15787,15 @@ declare namespace $ {
 //# sourceMappingURL=club.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cards_club_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cards_diamond extends $mol_icon {
 		path( ): string
 	}
@@ -9629,6 +15803,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=diamond.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_diamond_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cards_heart extends $mol_icon {
@@ -9640,7 +15823,133 @@ declare namespace $ {
 //# sourceMappingURL=heart.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cards_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cards_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=playing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_club extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=club.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_club_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_club_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_club_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_diamond extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=diamond.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_diamond_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_diamond_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_diamond_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_heart_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_heart_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_heart_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -9658,6 +15967,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cards_playing_spade extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spade.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_spade_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_spade_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_playing_spade_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cards_spade extends $mol_icon {
 		path( ): string
 	}
@@ -9665,6 +16010,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=spade.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cards_spade_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cards_variant extends $mol_icon {
@@ -9721,6 +16075,24 @@ declare namespace $ {
 //# sourceMappingURL=up.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cart_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cart_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cart_minus extends $mol_icon {
 		path( ): string
 	}
@@ -9748,6 +16120,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cart_percent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=percent.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cart_plus extends $mol_icon {
 		path( ): string
 	}
@@ -9764,6 +16145,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cart_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_case_sensitive_alt extends $mol_icon {
@@ -9793,6 +16183,60 @@ declare namespace $ {
 //# sourceMappingURL=100.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cash_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cash_marker extends $mol_icon {
 		path( ): string
 	}
@@ -9802,6 +16246,15 @@ declare namespace $ {
 //# sourceMappingURL=marker.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cash_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cash_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -9809,6 +16262,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cash_refund extends $mol_icon {
@@ -9829,6 +16300,24 @@ declare namespace $ {
 //# sourceMappingURL=register.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cash_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cash_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cassette extends $mol_icon {
 		path( ): string
 	}
@@ -9845,6 +16334,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cast_audio extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=audio.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cast_audio_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cast_connected extends $mol_icon {
@@ -9874,6 +16381,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cast_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_castle extends $mol_icon {
 		path( ): string
 	}
@@ -9901,6 +16417,33 @@ declare namespace $ {
 //# sourceMappingURL=cctv.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cctv_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ceiling_fan extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fan.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ceiling_fan_light extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=light.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ceiling_light extends $mol_icon {
 		path( ): string
 	}
@@ -9908,6 +16451,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=light.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ceiling_light_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ceiling_light_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ceiling_light_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cellphone extends $mol_icon {
@@ -9928,6 +16498,15 @@ declare namespace $ {
 //# sourceMappingURL=down.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cellphone_arrow_down_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cellphone_basic extends $mol_icon {
 		path( ): string
 	}
@@ -9937,6 +16516,33 @@ declare namespace $ {
 //# sourceMappingURL=basic.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cellphone_charging extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=charging.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cellphone_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cellphone_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cellphone_dock extends $mol_icon {
 		path( ): string
 	}
@@ -9944,6 +16550,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=dock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cellphone_information extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=information.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cellphone_key extends $mol_icon {
@@ -9982,6 +16597,15 @@ declare namespace $ {
 //# sourceMappingURL=lock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cellphone_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cellphone_message extends $mol_icon {
 		path( ): string
 	}
@@ -9989,6 +16613,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=message.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cellphone_message_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cellphone_nfc extends $mol_icon {
@@ -10000,6 +16633,15 @@ declare namespace $ {
 //# sourceMappingURL=nfc.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cellphone_nfc_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cellphone_off extends $mol_icon {
 		path( ): string
 	}
@@ -10007,6 +16649,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cellphone_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cellphone_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cellphone_screenshot extends $mol_icon {
@@ -10054,6 +16714,15 @@ declare namespace $ {
 //# sourceMappingURL=wireless.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_centos extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=centos.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_certificate extends $mol_icon {
 		path( ): string
 	}
@@ -10061,6 +16730,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=certificate.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_certificate_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chair_rolling extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rolling.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chair_school extends $mol_icon {
@@ -10072,6 +16759,15 @@ declare namespace $ {
 //# sourceMappingURL=school.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_chandelier extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=chandelier.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_charity extends $mol_icon {
 		path( ): string
 	}
@@ -10079,6 +16775,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=charity.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_charity_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chart_arc extends $mol_icon {
@@ -10133,6 +16838,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=curve.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_bell_curve_cumulative extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cumulative.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_box_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chart_bubble extends $mol_icon {
@@ -10216,6 +16975,15 @@ declare namespace $ {
 //# sourceMappingURL=multiline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_chart_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_chart_pie extends $mol_icon {
 		path( ): string
 	}
@@ -10223,6 +16991,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pie.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_pie_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_ppf extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ppf.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_sankey extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sankey.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_sankey_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chart_scatter_plot extends $mol_icon {
@@ -10261,6 +17065,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_chart_timeline_variant_shimmer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shimmer.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_chart_tree extends $mol_icon {
 		path( ): string
 	}
@@ -10268,6 +17081,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=tree.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chart_waterfall extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=waterfall.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chat extends $mol_icon {
@@ -10288,7 +17110,52 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_chat_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_chat_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_plus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -10304,6 +17171,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=processing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_processing_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_sleep extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sleep.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chat_sleep_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_check extends $mol_icon {
@@ -10358,6 +17288,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=decagram.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_check_decagram_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_check_network extends $mol_icon {
@@ -10423,6 +17362,24 @@ declare namespace $ {
 //# sourceMappingURL=checkbook.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_checkbook_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbook_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_checkbox_blank extends $mol_icon {
 		path( ): string
 	}
@@ -10430,6 +17387,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=blank.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbox_blank_badge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=badge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbox_blank_badge_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_checkbox_blank_circle extends $mol_icon {
@@ -10442,6 +17417,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_checkbox_blank_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbox_blank_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbox_blank_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -10468,6 +17461,15 @@ declare namespace $ {
 //# sourceMappingURL=intermediate.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_checkbox_intermediate_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_checkbox_marked extends $mol_icon {
 		path( ): string
 	}
@@ -10486,7 +17488,34 @@ declare namespace $ {
 //# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_checkbox_marked_circle_auto_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbox_marked_circle_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_checkbox_marked_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbox_marked_circle_plus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -10576,6 +17605,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_checkbox_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkbox_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_checkerboard extends $mol_icon {
 		path( ): string
 	}
@@ -10583,6 +17630,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=checkerboard.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkerboard_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkerboard_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_checkerboard_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cheese extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cheese.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cheese_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chef_hat extends $mol_icon {
@@ -10918,6 +18010,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_chili_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chili_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_chili_hot extends $mol_icon {
 		path( ): string
 	}
@@ -10925,6 +18035,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=hot.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chili_hot_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chili_medium extends $mol_icon {
@@ -10936,6 +18055,15 @@ declare namespace $ {
 //# sourceMappingURL=medium.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_chili_medium_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_chili_mild extends $mol_icon {
 		path( ): string
 	}
@@ -10943,6 +18071,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=mild.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chili_mild_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chili_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_chili_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_chip extends $mol_icon {
@@ -10963,6 +18118,33 @@ declare namespace $ {
 //# sourceMappingURL=church.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_church_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cigar extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cigar.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cigar_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_circle extends $mol_icon {
 		path( ): string
 	}
@@ -10970,6 +18152,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_circle_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_circle_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_circle_double extends $mol_icon {
@@ -10999,6 +18199,24 @@ declare namespace $ {
 //# sourceMappingURL=expand.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_circle_half extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=half.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_circle_half_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_circle_medium extends $mol_icon {
 		path( ): string
 	}
@@ -11006,6 +18224,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=medium.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_circle_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_circle_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_circle_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_circle_opacity extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=opacity.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_circle_outline extends $mol_icon {
@@ -11114,6 +18368,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=city.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_city_switch extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=switch.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_city_variant extends $mol_icon {
@@ -11260,7 +18523,79 @@ declare namespace $ {
 //# sourceMappingURL=check.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_clipboard_check_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_check_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_clipboard_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_file extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=file.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_file_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -11276,6 +18611,87 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=flow.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_flow_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_list extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=list.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_list_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_clipboard_outline extends $mol_icon {
@@ -11296,6 +18712,24 @@ declare namespace $ {
 //# sourceMappingURL=play.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_clipboard_play_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_play_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_clipboard_play_outline extends $mol_icon {
 		path( ): string
 	}
@@ -11312,6 +18746,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_clipboard_pulse extends $mol_icon {
@@ -11332,6 +18775,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_clipboard_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_clipboard_text extends $mol_icon {
 		path( ): string
 	}
@@ -11339,6 +18818,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_clipboard_text_outline extends $mol_icon {
@@ -11360,6 +18893,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_clipboard_text_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clipboard_text_search_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -11404,6 +18955,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_clock_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_clock_digital extends $mol_icon {
 		path( ): string
 	}
@@ -11411,6 +18980,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=digital.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_clock_end extends $mol_icon {
@@ -11440,6 +19027,24 @@ declare namespace $ {
 //# sourceMappingURL=in.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_clock_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_clock_out extends $mol_icon {
 		path( ): string
 	}
@@ -11458,6 +19063,60 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_clock_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_star_four_points extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=points.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_star_four_points_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_clock_start extends $mol_icon {
 		path( ): string
 	}
@@ -11465,6 +19124,222 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=start.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_eight extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eight.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_eight_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_eleven extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eleven.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_eleven_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_five extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=five.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_five_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_four extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=four.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_four_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_nine extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=nine.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_nine_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_one_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_seven extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=seven.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_seven_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_six extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=six.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_six_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_ten extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ten.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_ten_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_three extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=three.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_three_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_twelve extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=twelve.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_twelve_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_two extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=two.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clock_time_two_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_close extends $mol_icon {
@@ -11521,6 +19396,24 @@ declare namespace $ {
 //# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_close_circle_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_close_circle_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_close_circle_outline extends $mol_icon {
 		path( ): string
 	}
@@ -11575,6 +19468,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_close_thick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thick.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_closed_caption extends $mol_icon {
 		path( ): string
 	}
@@ -11611,6 +19513,87 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cloud_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cloud_braces extends $mol_icon {
 		path( ): string
 	}
@@ -11618,6 +19601,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=braces.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cloud_check extends $mol_icon {
@@ -11629,6 +19630,33 @@ declare namespace $ {
 //# sourceMappingURL=check.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cloud_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_check_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_check_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cloud_circle extends $mol_icon {
 		path( ): string
 	}
@@ -11636,6 +19664,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cloud_download extends $mol_icon {
@@ -11656,6 +19729,87 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cloud_key extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=key.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_key_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cloud_off_outline extends $mol_icon {
 		path( ): string
 	}
@@ -11666,6 +19820,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_cloud_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_percent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=percent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_percent_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_plus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -11701,6 +19891,69 @@ declare namespace $ {
 //# sourceMappingURL=question.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cloud_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_refresh_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_refresh_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cloud_search extends $mol_icon {
 		path( ): string
 	}
@@ -11726,6 +19979,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cloud_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cloud_tags extends $mol_icon {
@@ -11755,6 +20017,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_clouds extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clouds.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_clover extends $mol_icon {
 		path( ): string
 	}
@@ -11762,6 +20033,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=clover.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_clover_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coach_lamp extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lamp.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coach_lamp_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coat_rack extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rack.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_code_array extends $mol_icon {
@@ -11773,6 +20080,42 @@ declare namespace $ {
 //# sourceMappingURL=array.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_code_block_braces extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=braces.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_code_block_brackets extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=brackets.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_code_block_parentheses extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=parentheses.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_code_block_tags extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tags.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_code_braces extends $mol_icon {
 		path( ): string
 	}
@@ -11780,6 +20123,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=braces.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_code_braces_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_code_brackets extends $mol_icon {
@@ -11816,6 +20168,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=equal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_code_json extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=json.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_code_less_than extends $mol_icon {
@@ -11863,6 +20224,15 @@ declare namespace $ {
 //# sourceMappingURL=parentheses.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_code_parentheses_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_code_string extends $mol_icon {
 		path( ): string
 	}
@@ -11908,6 +20278,60 @@ declare namespace $ {
 //# sourceMappingURL=coffee.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_coffee_maker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=maker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coffee_maker_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coffee_maker_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coffee_maker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coffee_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coffee_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_coffee_outline extends $mol_icon {
 		path( ): string
 	}
@@ -11926,6 +20350,15 @@ declare namespace $ {
 //# sourceMappingURL=go.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_coffee_to_go_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_coffin extends $mol_icon {
 		path( ): string
 	}
@@ -11933,6 +20366,177 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=coffin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_clockwise extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clockwise.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_counterclockwise extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=counterclockwise.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_pause extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_pause_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_stop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stop.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_stop_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_transfer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=transfer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cog_transfer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cogs extends $mol_icon {
@@ -12106,6 +20710,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_comment_bookmark extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bookmark.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_bookmark_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_comment_check extends $mol_icon {
 		path( ): string
 	}
@@ -12116,6 +20738,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_comment_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_edit_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -12142,6 +20782,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_comment_flash extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flash.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_flash_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_comment_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -12152,6 +20828,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_comment_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -12215,6 +20909,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_comment_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_quote extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=quote.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_comment_quote_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -12304,6 +21016,33 @@ declare namespace $ {
 //# sourceMappingURL=compare.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_compare_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_compare_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_compare_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_compass extends $mol_icon {
 		path( ): string
 	}
@@ -12338,6 +21077,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_compass_rose extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rose.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_compost extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=compost.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cone extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cone.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cone_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_connection extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=connection.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_console extends $mol_icon {
@@ -12376,6 +21160,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_consolidate extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=consolidate.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_contactless_payment extends $mol_icon {
 		path( ): string
 	}
@@ -12385,6 +21178,24 @@ declare namespace $ {
 //# sourceMappingURL=payment.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_contactless_payment_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_contactless_payment_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_contacts extends $mol_icon {
 		path( ): string
 	}
@@ -12392,6 +21203,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=contacts.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_contacts_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_contain extends $mol_icon {
@@ -12466,6 +21286,24 @@ declare namespace $ {
 //# sourceMappingURL=save.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_content_save_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_content_save_all extends $mol_icon {
 		path( ): string
 	}
@@ -12473,6 +21311,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=all.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_all_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_content_save_edit extends $mol_icon {
@@ -12485,6 +21368,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_content_save_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_minus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -12511,7 +21412,43 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_content_save_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_content_save_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_content_save_plus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -12565,6 +21502,15 @@ declare namespace $ {
 //# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_controller extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=controller.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_controller_classic extends $mol_icon {
 		path( ): string
 	}
@@ -12583,6 +21529,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_controller_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cookie extends $mol_icon {
 		path( ): string
 	}
@@ -12590,6 +21545,249 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cookie.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cookie_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_coolant_temperature extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=temperature.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_copyleft extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=copyleft.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_copyright extends $mol_icon {
@@ -12619,6 +21817,24 @@ declare namespace $ {
 //# sourceMappingURL=corn.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_corn_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cosine_wave extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wave.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_counter extends $mol_icon {
 		path( ): string
 	}
@@ -12628,6 +21844,24 @@ declare namespace $ {
 //# sourceMappingURL=counter.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_countertop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=countertop.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_countertop_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cow extends $mol_icon {
 		path( ): string
 	}
@@ -12635,6 +21869,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cow.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cow_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cpu_32_bit extends $mol_icon {
@@ -12655,6 +21898,24 @@ declare namespace $ {
 //# sourceMappingURL=bit.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cradle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cradle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cradle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_crane extends $mol_icon {
 		path( ): string
 	}
@@ -12671,6 +21932,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=creation.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_creation_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_creative_commons extends $mol_icon {
@@ -12691,6 +21961,42 @@ declare namespace $ {
 //# sourceMappingURL=card.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_credit_card_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_chip extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=chip.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_chip_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_credit_card_clock extends $mol_icon {
 		path( ): string
 	}
@@ -12709,6 +22015,60 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_credit_card_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_fast_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_credit_card_marker extends $mol_icon {
 		path( ): string
 	}
@@ -12716,6 +22076,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_credit_card_multiple extends $mol_icon {
@@ -12727,6 +22114,15 @@ declare namespace $ {
 //# sourceMappingURL=multiple.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_credit_card_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_credit_card_off extends $mol_icon {
 		path( ): string
 	}
@@ -12734,6 +22130,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_credit_card_plus extends $mol_icon {
@@ -12745,6 +22159,33 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_credit_card_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_credit_card_refund extends $mol_icon {
 		path( ): string
 	}
@@ -12752,6 +22193,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=refund.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_refund_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_credit_card_scan extends $mol_icon {
@@ -12763,6 +22231,33 @@ declare namespace $ {
 //# sourceMappingURL=scan.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_credit_card_scan_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_credit_card_settings extends $mol_icon {
 		path( ): string
 	}
@@ -12772,6 +22267,33 @@ declare namespace $ {
 //# sourceMappingURL=settings.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_credit_card_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_credit_card_wireless extends $mol_icon {
 		path( ): string
 	}
@@ -12779,6 +22301,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wireless.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_wireless_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_wireless_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_credit_card_wireless_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cricket extends $mol_icon {
@@ -12844,6 +22393,33 @@ declare namespace $ {
 //# sourceMappingURL=square.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cross_bolnisi extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bolnisi.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cross_celtic extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=celtic.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cross_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_crosshairs extends $mol_icon {
 		path( ): string
 	}
@@ -12862,6 +22438,33 @@ declare namespace $ {
 //# sourceMappingURL=gps.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_crosshairs_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_crosshairs_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_crowd extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=crowd.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_crown extends $mol_icon {
 		path( ): string
 	}
@@ -12869,6 +22472,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=crown.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_crown_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_crown_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_crown_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cryengine extends $mol_icon {
@@ -12896,6 +22526,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cube.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cube_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cube_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cube_outline extends $mol_icon {
@@ -12952,6 +22600,24 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cup_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cup_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cup_water extends $mol_icon {
 		path( ): string
 	}
@@ -12959,6 +22625,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=water.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cupboard extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cupboard.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cupboard_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_cupcake extends $mol_icon {
@@ -13033,6 +22717,24 @@ declare namespace $ {
 //# sourceMappingURL=eur.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_currency_eur_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_currency_fra extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fra.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_currency_gbp extends $mol_icon {
 		path( ): string
 	}
@@ -13087,6 +22789,15 @@ declare namespace $ {
 //# sourceMappingURL=kzt.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_currency_mnt extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mnt.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_currency_ngn extends $mol_icon {
 		path( ): string
 	}
@@ -13123,6 +22834,15 @@ declare namespace $ {
 //# sourceMappingURL=rub.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_currency_rupee extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rupee.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_currency_sign extends $mol_icon {
 		path( ): string
 	}
@@ -13130,6 +22850,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sign.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_currency_thb extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thb.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_currency_try extends $mol_icon {
@@ -13148,6 +22877,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=twd.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_currency_uah extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=uah.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_currency_usd extends $mol_icon {
@@ -13213,6 +22951,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_cursor_default_gesture extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gesture.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cursor_default_gesture_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_cursor_default_outline extends $mol_icon {
 		path( ): string
 	}
@@ -13249,6 +23005,114 @@ declare namespace $ {
 //# sourceMappingURL=text.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_curtains extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=curtains.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_curtains_closed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=closed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cylinder extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cylinder.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_cylinder_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dance_ballroom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ballroom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dance_pole extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pole.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_data_matrix extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=matrix.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_data_matrix_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_data_matrix_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_data_matrix_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_data_matrix_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_data_matrix_scan extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scan.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_database extends $mol_icon {
 		path( ): string
 	}
@@ -13256,6 +23120,96 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=database.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_database_check extends $mol_icon {
@@ -13267,6 +23221,51 @@ declare namespace $ {
 //# sourceMappingURL=check.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_database_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_database_edit extends $mol_icon {
 		path( ): string
 	}
@@ -13274,6 +23273,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_database_export extends $mol_icon {
@@ -13285,6 +23293,51 @@ declare namespace $ {
 //# sourceMappingURL=export.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_database_export_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_eye_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_eye_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_eye_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_database_import extends $mol_icon {
 		path( ): string
 	}
@@ -13292,6 +23345,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=import.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_import_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_database_lock extends $mol_icon {
@@ -13303,6 +23365,33 @@ declare namespace $ {
 //# sourceMappingURL=lock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_database_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_database_minus extends $mol_icon {
 		path( ): string
 	}
@@ -13310,6 +23399,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_database_plus extends $mol_icon {
@@ -13321,6 +23446,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_database_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_database_refresh extends $mol_icon {
 		path( ): string
 	}
@@ -13328,6 +23462,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_database_remove extends $mol_icon {
@@ -13339,6 +23482,15 @@ declare namespace $ {
 //# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_database_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_database_search extends $mol_icon {
 		path( ): string
 	}
@@ -13348,6 +23500,15 @@ declare namespace $ {
 //# sourceMappingURL=search.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_database_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_database_settings extends $mol_icon {
 		path( ): string
 	}
@@ -13355,6 +23516,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_database_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_death_star extends $mol_icon {
@@ -13438,6 +23626,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_decimal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=decimal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_decimal_comma extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=comma.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_decimal_comma_decrease extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=decrease.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_decimal_comma_increase extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=increase.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_decimal_decrease extends $mol_icon {
 		path( ): string
 	}
@@ -13465,6 +23689,24 @@ declare namespace $ {
 //# sourceMappingURL=delete.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_delete_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_delete_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_delete_circle extends $mol_icon {
 		path( ): string
 	}
@@ -13475,6 +23717,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_delete_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_delete_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_delete_clock_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -13511,6 +23771,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_delete_forever_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_delete_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_delete_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -13573,6 +23851,15 @@ declare namespace $ {
 //# sourceMappingURL=delta.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_desk extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=desk.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_desk_lamp extends $mol_icon {
 		path( ): string
 	}
@@ -13580,6 +23867,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lamp.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_desk_lamp_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_desk_lamp_on extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=on.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_deskphone extends $mol_icon {
@@ -13654,6 +23959,33 @@ declare namespace $ {
 //# sourceMappingURL=deviantart.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_devices extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=devices.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dharmachakra extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dharmachakra.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_diabetes extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=diabetes.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dialpad extends $mol_icon {
 		path( ): string
 	}
@@ -13717,6 +24049,15 @@ declare namespace $ {
 //# sourceMappingURL=stone.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_diaper_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dice_1 extends $mol_icon {
 		path( ): string
 	}
@@ -13724,6 +24065,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dice_1_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dice_2 extends $mol_icon {
@@ -13735,6 +24085,15 @@ declare namespace $ {
 //# sourceMappingURL=2.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dice_2_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dice_3 extends $mol_icon {
 		path( ): string
 	}
@@ -13742,6 +24101,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=3.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dice_3_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dice_4 extends $mol_icon {
@@ -13753,6 +24121,15 @@ declare namespace $ {
 //# sourceMappingURL=4.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dice_4_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dice_5 extends $mol_icon {
 		path( ): string
 	}
@@ -13760,6 +24137,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=5.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dice_5_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dice_6 extends $mol_icon {
@@ -13771,6 +24157,15 @@ declare namespace $ {
 //# sourceMappingURL=6.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dice_6_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dice_d10 extends $mol_icon {
 		path( ): string
 	}
@@ -13778,6 +24173,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=d10.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dice_d10_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dice_d12 extends $mol_icon {
@@ -13789,6 +24193,15 @@ declare namespace $ {
 //# sourceMappingURL=d12.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dice_d12_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dice_d20 extends $mol_icon {
 		path( ): string
 	}
@@ -13796,6 +24209,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=d20.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dice_d20_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dice_d4 extends $mol_icon {
@@ -13807,6 +24229,15 @@ declare namespace $ {
 //# sourceMappingURL=d4.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dice_d4_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dice_d6 extends $mol_icon {
 		path( ): string
 	}
@@ -13814,6 +24245,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=d6.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dice_d6_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dice_d8 extends $mol_icon {
@@ -13825,6 +24265,15 @@ declare namespace $ {
 //# sourceMappingURL=d8.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dice_d8_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dice_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -13832,6 +24281,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dice_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_digital_ocean extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ocean.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dip_switch extends $mol_icon {
@@ -13897,6 +24364,24 @@ declare namespace $ {
 //# sourceMappingURL=dishwasher.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dishwasher_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dishwasher_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_disqus extends $mol_icon {
 		path( ): string
 	}
@@ -13904,6 +24389,78 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=disqus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_distribute_horizontal_center extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=center.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_distribute_horizontal_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_distribute_horizontal_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_distribute_vertical_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_distribute_vertical_center extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=center.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_distribute_vertical_top extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=top.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_diversify extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=diversify.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_diving extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=diving.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_diving_flippers extends $mol_icon {
@@ -13940,6 +24497,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=flag.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_diving_scuba_mask extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mask.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_diving_scuba_tank extends $mol_icon {
@@ -14023,6 +24589,51 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dock_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dock_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dock_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dock_top extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=top.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dock_window extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=window.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_docker extends $mol_icon {
 		path( ): string
 	}
@@ -14068,6 +24679,15 @@ declare namespace $ {
 //# sourceMappingURL=side.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dog_side_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_dolby extends $mol_icon {
 		path( ): string
 	}
@@ -14086,6 +24706,15 @@ declare namespace $ {
 //# sourceMappingURL=dolly.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_dolphin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dolphin.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_domain extends $mol_icon {
 		path( ): string
 	}
@@ -14102,6 +24731,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_domain_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_domain_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_domain_switch extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=switch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dome_light extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=light.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_domino_mask extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mask.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_donkey extends $mol_icon {
@@ -14131,6 +24805,24 @@ declare namespace $ {
 //# sourceMappingURL=closed.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_door_closed_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_door_closed_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_door_open extends $mol_icon {
 		path( ): string
 	}
@@ -14138,6 +24830,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_door_sliding extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sliding.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_door_sliding_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_door_sliding_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_doorbell extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=doorbell.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_doorbell_video extends $mol_icon {
@@ -14156,6 +24884,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=net.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dots_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dots_grid extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=grid.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dots_hexagon extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hexagon.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dots_horizontal extends $mol_icon {
@@ -14183,6 +24938,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dots_square extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=square.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dots_triangle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=triangle.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_dots_vertical extends $mol_icon {
@@ -14221,6 +24994,60 @@ declare namespace $ {
 //# sourceMappingURL=download.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_download_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_download_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -14228,6 +25055,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_download_network extends $mol_icon {
@@ -14240,6 +25076,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_download_network_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_download_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -14275,6 +25129,15 @@ declare namespace $ {
 //# sourceMappingURL=horizontal.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_drag_horizontal_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_drag_variant extends $mol_icon {
 		path( ): string
 	}
@@ -14293,6 +25156,15 @@ declare namespace $ {
 //# sourceMappingURL=vertical.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_drag_vertical_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_drama_masks extends $mol_icon {
 		path( ): string
 	}
@@ -14300,6 +25172,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=masks.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_draw extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=draw.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_draw_pen extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pen.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_drawing extends $mol_icon {
@@ -14318,6 +25208,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dresser extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dresser.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_dresser_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_drone extends $mol_icon {
@@ -14383,6 +25291,15 @@ declare namespace $ {
 //# sourceMappingURL=hearing.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ear_hearing_loop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=loop.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ear_hearing_off extends $mol_icon {
 		path( ): string
 	}
@@ -14390,6 +25307,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earbuds extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=earbuds.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earbuds_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earbuds_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earbuds_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_earth extends $mol_icon {
@@ -14401,6 +25354,42 @@ declare namespace $ {
 //# sourceMappingURL=earth.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_earth_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_earth_box extends $mol_icon {
 		path( ): string
 	}
@@ -14408,6 +25397,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_box_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_earth_box_off extends $mol_icon {
@@ -14419,6 +25417,33 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_earth_box_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_box_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_earth_off extends $mol_icon {
 		path( ): string
 	}
@@ -14426,6 +25451,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_earth_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_egg extends $mol_icon {
@@ -14446,6 +25489,51 @@ declare namespace $ {
 //# sourceMappingURL=easter.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_egg_fried extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fried.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_egg_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_egg_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_egg_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eiffel_tower extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tower.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_eight_track extends $mol_icon {
 		path( ): string
 	}
@@ -14464,6 +25552,24 @@ declare namespace $ {
 //# sourceMappingURL=eject.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_eject_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eject_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_eject_outline extends $mol_icon {
 		path( ): string
 	}
@@ -14480,6 +25586,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=switch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_electric_switch_closed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=closed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_electron_framework extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=framework.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_elephant extends $mol_icon {
@@ -14518,6 +25642,60 @@ declare namespace $ {
 //# sourceMappingURL=elevator.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_elevator_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_elevator_passenger extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=passenger.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_elevator_passenger_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_elevator_passenger_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_elevator_passenger_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_elevator_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ellipse extends $mol_icon {
 		path( ): string
 	}
@@ -14552,6 +25730,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_email_box extends $mol_icon {
@@ -14599,6 +25822,33 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_email_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_fast_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_email_lock extends $mol_icon {
 		path( ): string
 	}
@@ -14606,6 +25856,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_email_mark_as_unread extends $mol_icon {
@@ -14653,6 +25912,33 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_email_newsletter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=newsletter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_email_open extends $mol_icon {
 		path( ): string
 	}
@@ -14660,6 +25946,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_open_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_email_open_multiple extends $mol_icon {
@@ -14716,6 +26011,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_email_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_seal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=seal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_seal_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_email_search extends $mol_icon {
 		path( ): string
 	}
@@ -14726,6 +26057,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_email_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_email_sync_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -14780,6 +26129,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_emoticon_angry_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_confused extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=confused.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_confused_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -14878,6 +26245,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_emoticon_frown extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=frown.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_frown_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_emoticon_happy extends $mol_icon {
 		path( ): string
 	}
@@ -14914,6 +26299,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_emoticon_lol extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lol.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_lol_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_emoticon_neutral extends $mol_icon {
 		path( ): string
 	}
@@ -14941,6 +26362,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_emoticon_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_emoticon_poop extends $mol_icon {
 		path( ): string
 	}
@@ -14959,6 +26398,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_emoticon_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_emoticon_sad extends $mol_icon {
 		path( ): string
 	}
@@ -14969,6 +26426,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_emoticon_sad_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_sick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_emoticon_sick_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -15049,6 +26524,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_epsilon extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=epsilon.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_equal extends $mol_icon {
 		path( ): string
 	}
@@ -15112,6 +26596,33 @@ declare namespace $ {
 //# sourceMappingURL=escalator.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_escalator_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_escalator_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_escalator_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_eslint extends $mol_icon {
 		path( ): string
 	}
@@ -15166,6 +26677,69 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ethernet_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ev_plug_ccs1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ccs1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ev_plug_ccs2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ccs2.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ev_plug_chademo extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=chademo.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ev_plug_tesla extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tesla.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ev_plug_type1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=type1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ev_plug_type2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=type2.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ev_station extends $mol_icon {
 		path( ): string
 	}
@@ -15184,6 +26758,15 @@ declare namespace $ {
 //# sourceMappingURL=evernote.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_excavator extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=excavator.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_exclamation extends $mol_icon {
 		path( ): string
 	}
@@ -15191,6 +26774,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=exclamation.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_exclamation_thick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thick.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_exit_run extends $mol_icon {
@@ -15227,6 +26819,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_expansion_card extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=card.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_expansion_card_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_exponent extends $mol_icon {
@@ -15274,6 +26884,42 @@ declare namespace $ {
 //# sourceMappingURL=eye.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_eye_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_eye_check extends $mol_icon {
 		path( ): string
 	}
@@ -15302,6 +26948,69 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_eye_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_closed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=closed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_minus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -15355,6 +27064,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_eye_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eye_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_eye_settings extends $mol_icon {
 		path( ): string
 	}
@@ -15380,6 +27125,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=eyedropper.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eyedropper_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eyedropper_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eyedropper_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_eyedropper_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_eyedropper_variant extends $mol_icon {
@@ -15409,6 +27190,69 @@ declare namespace $ {
 //# sourceMappingURL=agent.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_face_man extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=man.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_man_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_man_profile extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=profile.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_man_shimmer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shimmer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_man_shimmer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_mask extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mask.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_mask_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_face_recognition extends $mol_icon {
 		path( ): string
 	}
@@ -15418,6 +27262,51 @@ declare namespace $ {
 //# sourceMappingURL=recognition.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_face_woman extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=woman.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_woman_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_woman_profile extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=profile.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_woman_shimmer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shimmer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_face_woman_shimmer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_facebook extends $mol_icon {
 		path( ): string
 	}
@@ -15425,6 +27314,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=facebook.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_facebook_gaming extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gaming.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_facebook_messenger extends $mol_icon {
@@ -15454,6 +27352,15 @@ declare namespace $ {
 //# sourceMappingURL=factory.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_family_tree extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tree.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fan extends $mol_icon {
 		path( ): string
 	}
@@ -15463,6 +27370,60 @@ declare namespace $ {
 //# sourceMappingURL=fan.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fan_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_chevron_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_chevron_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fan_off extends $mol_icon {
 		path( ): string
 	}
@@ -15470,6 +27431,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_speed_1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_speed_2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=2.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fan_speed_3 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=3.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_fast_forward extends $mol_icon {
@@ -15490,6 +27496,15 @@ declare namespace $ {
 //# sourceMappingURL=10.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fast_forward_15 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=15.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fast_forward_30 extends $mol_icon {
 		path( ): string
 	}
@@ -15499,6 +27514,33 @@ declare namespace $ {
 //# sourceMappingURL=30.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fast_forward_45 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=45.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fast_forward_5 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=5.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fast_forward_60 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=60.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fast_forward_outline extends $mol_icon {
 		path( ): string
 	}
@@ -15506,6 +27548,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_faucet extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=faucet.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_faucet_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_fax extends $mol_icon {
@@ -15553,6 +27613,33 @@ declare namespace $ {
 //# sourceMappingURL=fedora.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fence extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fence.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fence_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fencing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fencing.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ferris_wheel extends $mol_icon {
 		path( ): string
 	}
@@ -15589,6 +27676,15 @@ declare namespace $ {
 //# sourceMappingURL=account.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_account_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_alert extends $mol_icon {
 		path( ): string
 	}
@@ -15599,6 +27695,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_file_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_arrow_left_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_arrow_left_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_arrow_up_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_arrow_up_down_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -15652,6 +27784,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_certificate extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=certificate.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_certificate_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_chart extends $mol_icon {
 		path( ): string
 	}
@@ -15659,6 +27809,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=chart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_chart_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_chart_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_chart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_check extends $mol_icon {
@@ -15679,6 +27856,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_cloud extends $mol_icon {
 		path( ): string
 	}
@@ -15686,6 +27881,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cloud.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_cloud_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_code extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=code.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_code_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_compare extends $mol_icon {
@@ -15724,6 +27964,60 @@ declare namespace $ {
 //# sourceMappingURL=document.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_document_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_document_edit extends $mol_icon {
 		path( ): string
 	}
@@ -15742,7 +28036,97 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_document_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_document_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_document_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -15769,6 +28153,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_excel extends $mol_icon {
 		path( ): string
 	}
@@ -15787,6 +28189,24 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_excel_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_excel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_export extends $mol_icon {
 		path( ): string
 	}
@@ -15794,6 +28214,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=export.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_export_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_eye extends $mol_icon {
@@ -15832,6 +28261,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_gif_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_hidden extends $mol_icon {
 		path( ): string
 	}
@@ -15850,7 +28288,79 @@ declare namespace $ {
 //# sourceMappingURL=image.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_image_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_image_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_image_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_image_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_image_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_image_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_image_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_image_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_image_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -15868,6 +28378,60 @@ declare namespace $ {
 //# sourceMappingURL=import.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_import_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_jpg_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_key extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=key.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_key_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_link extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=link.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_link_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_lock extends $mol_icon {
 		path( ): string
 	}
@@ -15875,6 +28439,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_move extends $mol_icon {
@@ -15886,6 +28513,15 @@ declare namespace $ {
 //# sourceMappingURL=move.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_move_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -15893,6 +28529,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_music extends $mol_icon {
@@ -15949,6 +28594,33 @@ declare namespace $ {
 //# sourceMappingURL=percent.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_percent_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_phone extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=phone.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_phone_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_plus extends $mol_icon {
 		path( ): string
 	}
@@ -15965,6 +28637,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_png_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_powerpoint extends $mol_icon {
@@ -15985,6 +28666,24 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_powerpoint_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_powerpoint_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_presentation_box extends $mol_icon {
 		path( ): string
 	}
@@ -16003,6 +28702,33 @@ declare namespace $ {
 //# sourceMappingURL=question.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_remove extends $mol_icon {
 		path( ): string
 	}
@@ -16010,6 +28736,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_replace extends $mol_icon {
@@ -16039,6 +28774,51 @@ declare namespace $ {
 //# sourceMappingURL=restore.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_restore_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_rotate_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_rotate_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_rotate_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_rotate_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_search extends $mol_icon {
 		path( ): string
 	}
@@ -16066,6 +28846,114 @@ declare namespace $ {
 //# sourceMappingURL=send.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_send_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_sign extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sign.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_star_four_points extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=points.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_star_four_points_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_swap extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=swap.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_swap_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_table extends $mol_icon {
 		path( ): string
 	}
@@ -16073,6 +28961,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=table.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_table_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_table_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_table_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_table_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_table_outline extends $mol_icon {
@@ -16093,6 +29017,15 @@ declare namespace $ {
 //# sourceMappingURL=tree.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_tree_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_undo extends $mol_icon {
 		path( ): string
 	}
@@ -16100,6 +29033,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=undo.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_undo_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_file_upload extends $mol_icon {
@@ -16156,6 +29098,24 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_file_word_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_word_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_file_xml extends $mol_icon {
 		path( ): string
 	}
@@ -16163,6 +29123,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=xml.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_file_xml_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_film extends $mol_icon {
@@ -16183,6 +29152,24 @@ declare namespace $ {
 //# sourceMappingURL=filmstrip.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_filmstrip_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filmstrip_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_filmstrip_off extends $mol_icon {
 		path( ): string
 	}
@@ -16201,6 +29188,60 @@ declare namespace $ {
 //# sourceMappingURL=filter.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_filter_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_menu extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=menu.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_menu_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_filter_minus extends $mol_icon {
 		path( ): string
 	}
@@ -16211,6 +29252,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_filter_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -16264,6 +29341,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_filter_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_filter_variant extends $mol_icon {
 		path( ): string
 	}
@@ -16271,6 +29366,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_variant_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_variant_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_filter_variant_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_finance extends $mol_icon {
@@ -16318,6 +29440,24 @@ declare namespace $ {
 //# sourceMappingURL=fire.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fire_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fire_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fire_extinguisher extends $mol_icon {
 		path( ): string
 	}
@@ -16325,6 +29465,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=extinguisher.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fire_hydrant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hydrant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fire_hydrant_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fire_hydrant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fire_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fire_station extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=station.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_fire_truck extends $mol_icon {
@@ -16372,6 +29557,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_firewire extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=firewire.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_firework extends $mol_icon {
 		path( ): string
 	}
@@ -16381,6 +29575,15 @@ declare namespace $ {
 //# sourceMappingURL=firework.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_firework_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fish extends $mol_icon {
 		path( ): string
 	}
@@ -16388,6 +29591,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=fish.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fish_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_fishbowl extends $mol_icon {
@@ -16426,6 +29638,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fit_to_screen extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=screen.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fit_to_screen_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_flag extends $mol_icon {
 		path( ): string
 	}
@@ -16453,6 +29683,33 @@ declare namespace $ {
 //# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_flag_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_flag_outline extends $mol_icon {
 		path( ): string
 	}
@@ -16471,6 +29728,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_flag_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_flag_remove extends $mol_icon {
 		path( ): string
 	}
@@ -16478,6 +29744,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_flag_triangle extends $mol_icon {
@@ -16498,7 +29773,79 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_flag_variant_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_variant_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_variant_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_flag_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_variant_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_variant_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_variant_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flag_variant_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -16561,6 +29908,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_flash_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_flash_outline extends $mol_icon {
 		path( ): string
 	}
@@ -16577,6 +29933,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flash_triangle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=triangle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flash_triangle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_flashlight extends $mol_icon {
@@ -16615,7 +29989,115 @@ declare namespace $ {
 //# sourceMappingURL=empty.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_flask_empty_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_empty_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_empty_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_empty_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_flask_empty_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_empty_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_empty_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_empty_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_empty_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -16631,6 +30113,96 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_round_bottom extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_round_bottom_empty extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=empty.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_round_bottom_empty_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flask_round_bottom_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fleur_de_lis extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lis.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flip_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_flip_to_back extends $mol_icon {
@@ -16651,6 +30223,15 @@ declare namespace $ {
 //# sourceMappingURL=front.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_flip_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_floor_lamp extends $mol_icon {
 		path( ): string
 	}
@@ -16658,6 +30239,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lamp.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_floor_lamp_dual extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dual.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_floor_lamp_dual_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_floor_lamp_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_floor_lamp_torchiere extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=torchiere.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_floor_lamp_torchiere_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_floor_lamp_torchiere_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_floor_lamp_torchiere_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_floor_plan extends $mol_icon {
@@ -16705,6 +30349,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_flower_pollen extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pollen.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_flower_pollen_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_flower_poppy extends $mol_icon {
 		path( ): string
 	}
@@ -16730,6 +30392,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_focus_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_focus_field extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=field.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_focus_field_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_focus_field_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_folder extends $mol_icon {
@@ -16777,6 +30475,150 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_left_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_left_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_up_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_up_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_clock extends $mol_icon {
 		path( ): string
 	}
@@ -16795,6 +30637,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_download extends $mol_icon {
 		path( ): string
 	}
@@ -16802,6 +30662,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=download.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_download_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_folder_edit extends $mol_icon {
@@ -16822,6 +30691,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_eye_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_file extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=file.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_file_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_google_drive extends $mol_icon {
 		path( ): string
 	}
@@ -16831,6 +30736,51 @@ declare namespace $ {
 //# sourceMappingURL=drive.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_hidden extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hidden.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_home extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=home.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_home_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_image extends $mol_icon {
 		path( ): string
 	}
@@ -16838,6 +30788,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=image.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_information extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=information.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_information_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_folder_key extends $mol_icon {
@@ -16867,6 +30835,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_key_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_lock extends $mol_icon {
 		path( ): string
 	}
@@ -16885,6 +30862,60 @@ declare namespace $ {
 //# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_move extends $mol_icon {
 		path( ): string
 	}
@@ -16892,6 +30923,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=move.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_move_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_folder_multiple extends $mol_icon {
@@ -16921,6 +30961,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_multiple_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_multiple_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_music extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=music.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_music_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_network extends $mol_icon {
 		path( ): string
 	}
@@ -16931,6 +31007,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_folder_network_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -16958,6 +31052,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_folder_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_play_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -17002,6 +31114,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_remove extends $mol_icon {
 		path( ): string
 	}
@@ -17038,6 +31186,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_star extends $mol_icon {
 		path( ): string
 	}
@@ -17047,7 +31213,43 @@ declare namespace $ {
 //# sourceMappingURL=star.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_folder_star_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_star_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_folder_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_swap extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=swap.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_swap_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -17066,6 +31268,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_folder_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_table extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=table.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_table_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -17099,6 +31319,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=upload.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_upload_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_wrench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_wrench_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_zip extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=zip.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_folder_zip_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_font_awesome extends $mol_icon {
@@ -17146,6 +31411,42 @@ declare namespace $ {
 //# sourceMappingURL=croissant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_food_drumstick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=drumstick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_drumstick_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_drumstick_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_drumstick_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_food_fork_drink extends $mol_icon {
 		path( ): string
 	}
@@ -17153,6 +31454,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=drink.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_halal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=halal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_hot_dog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_kosher extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kosher.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_food_off extends $mol_icon {
@@ -17164,6 +31492,69 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_food_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_steak extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=steak.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_steak_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_takeout_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_takeout_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_turkey extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=turkey.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_food_variant extends $mol_icon {
 		path( ): string
 	}
@@ -17171,6 +31562,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_food_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_foot_print extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=print.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_football extends $mol_icon {
@@ -17200,6 +31609,24 @@ declare namespace $ {
 //# sourceMappingURL=helmet.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_forest extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=forest.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_forest_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_forklift extends $mol_icon {
 		path( ): string
 	}
@@ -17207,6 +31634,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=forklift.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_form_dropdown extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dropdown.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_form_select extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=select.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_form_textarea extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=textarea.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_form_textbox extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=textbox.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_form_textbox_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_form_textbox_password extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=password.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_align_bottom extends $mol_icon {
@@ -17324,6 +31805,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=highlight.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_color_marker_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_color_text extends $mol_icon {
@@ -17578,6 +32068,60 @@ declare namespace $ {
 //# sourceMappingURL=upper.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_letter_ends_with extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=with.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_letter_matches extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=matches.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_letter_spacing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spacing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_letter_spacing_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_letter_starts_with extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=with.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_line_height extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=height.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_line_spacing extends $mol_icon {
 		path( ): string
 	}
@@ -17623,6 +32167,15 @@ declare namespace $ {
 //# sourceMappingURL=square.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_list_bulleted_triangle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=triangle.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_list_bulleted_type extends $mol_icon {
 		path( ): string
 	}
@@ -17650,6 +32203,24 @@ declare namespace $ {
 //# sourceMappingURL=checks.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_list_group extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=group.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_list_group_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_list_numbered extends $mol_icon {
 		path( ): string
 	}
@@ -17666,6 +32237,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=rtl.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_list_text extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=text.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_overline extends $mol_icon {
@@ -17686,6 +32266,15 @@ declare namespace $ {
 //# sourceMappingURL=break.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_page_split extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=split.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_paint extends $mol_icon {
 		path( ): string
 	}
@@ -17704,6 +32293,15 @@ declare namespace $ {
 //# sourceMappingURL=paragraph.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_paragraph_spacing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spacing.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_pilcrow extends $mol_icon {
 		path( ): string
 	}
@@ -17711,6 +32309,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pilcrow.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_pilcrow_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_pilcrow_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_quote_close extends $mol_icon {
@@ -17722,6 +32338,15 @@ declare namespace $ {
 //# sourceMappingURL=close.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_quote_close_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_quote_open extends $mol_icon {
 		path( ): string
 	}
@@ -17729,6 +32354,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_quote_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_rotate_90 extends $mol_icon {
@@ -17803,6 +32437,24 @@ declare namespace $ {
 //# sourceMappingURL=text.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_text_rotation_angle_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_text_rotation_angle_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_text_rotation_down extends $mol_icon {
 		path( ): string
 	}
@@ -17810,6 +32462,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_text_rotation_down_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_text_rotation_none extends $mol_icon {
@@ -17821,6 +32482,24 @@ declare namespace $ {
 //# sourceMappingURL=none.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_format_text_rotation_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_text_rotation_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_format_text_variant extends $mol_icon {
 		path( ): string
 	}
@@ -17828,6 +32507,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_text_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_text_wrapping_clip extends $mol_icon {
@@ -17882,6 +32570,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=underline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_format_underline_wavy extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wavy.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_format_vertical_align_bottom extends $mol_icon {
@@ -17956,7 +32653,61 @@ declare namespace $ {
 //# sourceMappingURL=forum.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_forum_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_forum_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_forum_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_forum_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_forum_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_forum_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_forum_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -18010,6 +32761,15 @@ declare namespace $ {
 //# sourceMappingURL=tip.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fraction_one_half extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=half.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_freebsd extends $mol_icon {
 		path( ): string
 	}
@@ -18017,6 +32777,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=freebsd.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_french_fries extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fries.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_frequently_asked_questions extends $mol_icon {
@@ -18037,6 +32806,24 @@ declare namespace $ {
 //# sourceMappingURL=fridge.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fridge_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fridge_bottom extends $mol_icon {
 		path( ): string
 	}
@@ -18044,6 +32831,78 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bottom.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_industrial extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=industrial.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_industrial_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_industrial_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_industrial_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_industrial_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_industrial_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_fridge_outline extends $mol_icon {
@@ -18064,6 +32923,141 @@ declare namespace $ {
 //# sourceMappingURL=top.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fridge_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_variant_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_variant_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_variant_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fridge_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_cherries extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cherries.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_cherries_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_citrus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=citrus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_citrus_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_grapes extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=grapes.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_grapes_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_pear extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pear.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_pineapple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pineapple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fruit_watermelon extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=watermelon.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fuel extends $mol_icon {
 		path( ): string
 	}
@@ -18071,6 +33065,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=fuel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fuel_cell extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cell.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_fullscreen extends $mol_icon {
@@ -18109,6 +33112,24 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_furigana_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_furigana_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fuse extends $mol_icon {
 		path( ): string
 	}
@@ -18118,6 +33139,15 @@ declare namespace $ {
 //# sourceMappingURL=fuse.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_fuse_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_fuse_blade extends $mol_icon {
 		path( ): string
 	}
@@ -18125,6 +33155,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=blade.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_fuse_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gamepad extends $mol_icon {
@@ -18206,6 +33245,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gamepad_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gamepad_right extends $mol_icon {
@@ -18316,6 +33364,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gamma extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gamma.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_gantry_crane extends $mol_icon {
 		path( ): string
 	}
@@ -18343,6 +33400,24 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_garage_alert_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_garage_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_garage_open extends $mol_icon {
 		path( ): string
 	}
@@ -18350,6 +33425,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_garage_open_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_garage_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_garage_variant_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gas_burner extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=burner.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gas_cylinder extends $mol_icon {
@@ -18370,6 +33481,42 @@ declare namespace $ {
 //# sourceMappingURL=station.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gas_station_in_use extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=use.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gas_station_in_use_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gas_station_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gas_station_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_gas_station_outline extends $mol_icon {
 		path( ): string
 	}
@@ -18388,6 +33535,15 @@ declare namespace $ {
 //# sourceMappingURL=gate.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gate_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_gate_and extends $mol_icon {
 		path( ): string
 	}
@@ -18395,6 +33551,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=and.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gate_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gate_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gate_buffer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=buffer.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gate_nand extends $mol_icon {
@@ -18422,6 +33605,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=not.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gate_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gate_or extends $mol_icon {
@@ -18532,6 +33724,24 @@ declare namespace $ {
 //# sourceMappingURL=female.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gender_male_female_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gender_non_binary extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=binary.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_gender_transgender extends $mol_icon {
 		path( ): string
 	}
@@ -18539,6 +33749,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=transgender.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_generator_mobile extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mobile.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_generator_portable extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=portable.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_generator_stationary extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stationary.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gentoo extends $mol_icon {
@@ -18658,6 +33895,24 @@ declare namespace $ {
 //# sourceMappingURL=tap.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gesture_tap_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gesture_tap_button extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=button.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_gesture_tap_hold extends $mol_icon {
 		path( ): string
 	}
@@ -18703,6 +33958,24 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ghost_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ghost_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_gift extends $mol_icon {
 		path( ): string
 	}
@@ -18710,6 +33983,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=gift.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gift_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gift_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gift_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gift_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gift_outline extends $mol_icon {
@@ -18730,6 +34039,15 @@ declare namespace $ {
 //# sourceMappingURL=git.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_github extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=github.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_gitlab extends $mol_icon {
 		path( ): string
 	}
@@ -18748,6 +34066,15 @@ declare namespace $ {
 //# sourceMappingURL=cocktail.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_glass_cocktail_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_glass_flute extends $mol_icon {
 		path( ): string
 	}
@@ -18757,6 +34084,15 @@ declare namespace $ {
 //# sourceMappingURL=flute.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_glass_fragile extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fragile.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_glass_mug extends $mol_icon {
 		path( ): string
 	}
@@ -18764,6 +34100,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=mug.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_glass_mug_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_glass_mug_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_glass_mug_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_glass_pint_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_glass_stange extends $mol_icon {
@@ -18800,6 +34172,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=glasses.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_globe_light extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=light.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_globe_light_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_globe_model extends $mol_icon {
@@ -18856,6 +34246,15 @@ declare namespace $ {
 //# sourceMappingURL=gog.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gold.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_golf extends $mol_icon {
 		path( ): string
 	}
@@ -18863,6 +34262,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=golf.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_golf_cart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_golf_tee extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tee.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_gondola extends $mol_icon {
@@ -18890,6 +34307,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=google.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_google_ads extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ads.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_google_analytics extends $mol_icon {
@@ -18973,6 +34399,24 @@ declare namespace $ {
 //# sourceMappingURL=classroom.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_google_cloud extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cloud.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_google_downasaur extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=downasaur.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_google_drive extends $mol_icon {
 		path( ): string
 	}
@@ -19043,6 +34487,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=maps.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_google_my_business extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=business.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_google_nearby extends $mol_icon {
@@ -19117,6 +34570,24 @@ declare namespace $ {
 //# sourceMappingURL=gradient.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gradient_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_gradient_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_grain extends $mol_icon {
 		path( ): string
 	}
@@ -19126,6 +34597,24 @@ declare namespace $ {
 //# sourceMappingURL=grain.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_graph extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=graph.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_graph_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_graphql extends $mol_icon {
 		path( ): string
 	}
@@ -19133,6 +34622,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=graphql.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_grass extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=grass.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_grave_stone extends $mol_icon {
@@ -19171,6 +34669,15 @@ declare namespace $ {
 //# sourceMappingURL=equal.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_greenhouse extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=greenhouse.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_grid extends $mol_icon {
 		path( ): string
 	}
@@ -19205,6 +34712,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=grill.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_grill_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_group extends $mol_icon {
@@ -19261,6 +34777,15 @@ declare namespace $ {
 //# sourceMappingURL=mask.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_gymnastics extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gymnastics.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hail extends $mol_icon {
 		path( ): string
 	}
@@ -19268,6 +34793,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=hail.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hair_dryer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dryer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hair_dryer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_halloween extends $mol_icon {
@@ -19288,6 +34831,51 @@ declare namespace $ {
 //# sourceMappingURL=hamburger.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hamburger_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hamburger_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hamburger_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hamburger_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hamburger_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hammer extends $mol_icon {
 		path( ): string
 	}
@@ -19297,6 +34885,33 @@ declare namespace $ {
 //# sourceMappingURL=hammer.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hammer_screwdriver extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=screwdriver.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hammer_sickle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sickle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hammer_wrench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hand extends $mol_icon {
 		path( ): string
 	}
@@ -19304,6 +34919,195 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=hand.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_left_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_left_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_right_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_right_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_back_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_clap extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clap.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_clap_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_coin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=coin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_coin_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_cycle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cycle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_extended extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=extended.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_extended_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_front_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_front_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_front_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_front_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_hand_okay extends $mol_icon {
@@ -19378,6 +35182,96 @@ declare namespace $ {
 //# sourceMappingURL=saw.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hand_wash extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wash.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_wash_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_water extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=water.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_wave extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wave.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hand_wave_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_handball extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=handball.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_handcuffs extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=handcuffs.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hands_pray extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pray.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_handshake extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=handshake.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_handshake_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hanger extends $mol_icon {
 		path( ): string
 	}
@@ -19405,6 +35299,24 @@ declare namespace $ {
 //# sourceMappingURL=harddisk.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_harddisk_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_harddisk_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hat_fedora extends $mol_icon {
 		path( ): string
 	}
@@ -19423,6 +35335,15 @@ declare namespace $ {
 //# sourceMappingURL=lights.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hdmi_port extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=port.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hdr extends $mol_icon {
 		path( ): string
 	}
@@ -19439,6 +35360,258 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=head.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_dots_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_dots_horizontal_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_flash extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flash.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_flash_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_lightbulb extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lightbulb.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_lightbulb_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_snowflake extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snowflake.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_snowflake_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_head_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_headphones extends $mol_icon {
@@ -19576,6 +35749,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_heart_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_heart_flash extends $mol_icon {
 		path( ): string
 	}
@@ -19612,6 +35803,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_heart_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_heart_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -19639,7 +35848,34 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_heart_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_plus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -19655,6 +35891,87 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pulse.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heart_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heat_pump extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pump.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heat_pump_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heat_wave extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wave.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_heating_coil extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=coil.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_helicopter extends $mol_icon {
@@ -19682,6 +35999,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_help_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_help_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_help_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_help_circle extends $mol_icon {
@@ -19738,6 +36082,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hexadecimal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hexadecimal.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hexagon extends $mol_icon {
 		path( ): string
 	}
@@ -19754,6 +36107,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hexagon_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_hexagon_outline extends $mol_icon {
@@ -19936,6 +36298,15 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_home_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_home_analytics extends $mol_icon {
 		path( ): string
 	}
@@ -19963,6 +36334,24 @@ declare namespace $ {
 //# sourceMappingURL=automation.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_home_battery extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=battery.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_battery_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_home_circle extends $mol_icon {
 		path( ): string
 	}
@@ -19970,6 +36359,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_home_city extends $mol_icon {
@@ -19982,6 +36380,51 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_home_city_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_export_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -20089,6 +36532,33 @@ declare namespace $ {
 //# sourceMappingURL=group.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_home_group_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_group_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_group_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_home_heart extends $mol_icon {
 		path( ): string
 	}
@@ -20096,6 +36566,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_import_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_lightbulb extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lightbulb.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_lightbulb_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_lightning_bolt extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bolt.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_lightning_bolt_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_home_lock extends $mol_icon {
@@ -20134,6 +36649,15 @@ declare namespace $ {
 //# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_home_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_home_modern extends $mol_icon {
 		path( ): string
 	}
@@ -20143,7 +36667,43 @@ declare namespace $ {
 //# sourceMappingURL=modern.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_home_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_home_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_percent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=percent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_percent_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -20159,6 +36719,150 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_roof extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=roof.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_silo extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=silo.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_silo_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_sound_in extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=in.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_sound_in_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_sound_out extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=out.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_sound_out_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_switch extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=switch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_switch_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_thermometer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thermometer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_home_thermometer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_home_variant extends $mol_icon {
@@ -20197,6 +36901,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hoop_house extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=house.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hops extends $mol_icon {
 		path( ): string
 	}
@@ -20204,6 +36917,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=hops.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_horizontal_rotate_clockwise extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clockwise.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_horizontal_rotate_counterclockwise extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=counterclockwise.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_horse extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horse.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_horse_human extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=human.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_horse_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_horse_variant_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_horseshoe extends $mol_icon {
@@ -20222,6 +36989,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=hospital.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hospital_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hospital_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_hospital_building extends $mol_icon {
@@ -20251,6 +37036,42 @@ declare namespace $ {
 //# sourceMappingURL=tub.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hours_12 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=12.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hours_24 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=24.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hub extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hub.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hub_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_hubspot extends $mol_icon {
 		path( ): string
 	}
@@ -20278,6 +37099,42 @@ declare namespace $ {
 //# sourceMappingURL=human.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_human_baby_changing_table extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=table.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_cane extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cane.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_capacity_decrease extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=decrease.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_capacity_increase extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=increase.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_human_child extends $mol_icon {
 		path( ): string
 	}
@@ -20285,6 +37142,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=child.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_dolly extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dolly.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_human_female_female extends $mol_icon {
@@ -20314,6 +37189,24 @@ declare namespace $ {
 //# sourceMappingURL=boy.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_human_female_dance extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dance.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_female_female_child extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=child.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_human_female_girl extends $mol_icon {
 		path( ): string
 	}
@@ -20330,6 +37223,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=greeting.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_greeting_proximity extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=proximity.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_greeting_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_human_handsdown extends $mol_icon {
@@ -20368,6 +37279,24 @@ declare namespace $ {
 //# sourceMappingURL=male.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_human_male_board extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=board.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_male_board_poll extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=poll.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_human_male_boy extends $mol_icon {
 		path( ): string
 	}
@@ -20377,6 +37306,15 @@ declare namespace $ {
 //# sourceMappingURL=boy.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_human_male_child extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=child.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_human_male_female extends $mol_icon {
 		path( ): string
 	}
@@ -20384,6 +37322,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=female.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_male_female_child extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=child.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_human_male_girl extends $mol_icon {
@@ -20413,6 +37360,24 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_human_male_male_child extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=child.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_non_binary extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=binary.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_human_pregnant extends $mol_icon {
 		path( ): string
 	}
@@ -20420,6 +37385,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pregnant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_queue extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=queue.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_scooter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scooter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_walker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=walker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_wheelchair extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wheelchair.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_human_white_cane extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cane.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_humble_bundle extends $mol_icon {
@@ -20431,6 +37441,60 @@ declare namespace $ {
 //# sourceMappingURL=bundle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_hvac extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hvac.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hvac_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hydraulic_oil_level extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=level.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hydraulic_oil_temperature extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=temperature.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hydro_power extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=power.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_hydrogen_station extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=station.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ice_cream extends $mol_icon {
 		path( ): string
 	}
@@ -20438,6 +37502,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cream.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ice_cream_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_ice_pop extends $mol_icon {
@@ -20449,6 +37522,15 @@ declare namespace $ {
 //# sourceMappingURL=pop.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_id_card extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=card.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_identifier extends $mol_icon {
 		path( ): string
 	}
@@ -20456,6 +37538,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=identifier.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ideogram_cjk extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cjk.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ideogram_cjk_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_image extends $mol_icon {
@@ -20494,6 +37594,15 @@ declare namespace $ {
 //# sourceMappingURL=close.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_image_auto_adjust extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=adjust.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_image_broken extends $mol_icon {
 		path( ): string
 	}
@@ -20510,6 +37619,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_image_filter extends $mol_icon {
@@ -20575,6 +37720,15 @@ declare namespace $ {
 //# sourceMappingURL=drama.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_image_filter_drama_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_image_filter_frames extends $mol_icon {
 		path( ): string
 	}
@@ -20591,6 +37745,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=hdr.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_filter_hdr_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_image_filter_none extends $mol_icon {
@@ -20629,6 +37792,60 @@ declare namespace $ {
 //# sourceMappingURL=frame.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_image_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_image_move extends $mol_icon {
 		path( ): string
 	}
@@ -20647,6 +37864,15 @@ declare namespace $ {
 //# sourceMappingURL=multiple.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_image_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_image_off extends $mol_icon {
 		path( ): string
 	}
@@ -20654,6 +37880,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_image_outline extends $mol_icon {
@@ -20672,6 +37907,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_image_search extends $mol_icon {
@@ -20719,6 +37999,33 @@ declare namespace $ {
 //# sourceMappingURL=small.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_image_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_image_text extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_import extends $mol_icon {
 		path( ): string
 	}
@@ -20746,6 +38053,15 @@ declare namespace $ {
 //# sourceMappingURL=down.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_inbox_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_inbox_arrow_up extends $mol_icon {
 		path( ): string
 	}
@@ -20753,6 +38069,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_inbox_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_inbox_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_inbox_full_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_inbox_multiple extends $mol_icon {
@@ -20773,6 +38116,33 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_inbox_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_inbox_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_inbox_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_incognito extends $mol_icon {
 		path( ): string
 	}
@@ -20780,6 +38150,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=incognito.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_incognito_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_incognito_circle_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_incognito_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_induction extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=induction.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_infinity extends $mol_icon {
@@ -20800,6 +38206,42 @@ declare namespace $ {
 //# sourceMappingURL=information.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_information_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_information_outline extends $mol_icon {
 		path( ): string
 	}
@@ -20807,6 +38249,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_slab_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_slab_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_slab_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_slab_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_slab_symbol extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=symbol.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_symbol extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=symbol.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_information_variant extends $mol_icon {
@@ -20818,6 +38314,42 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_information_variant_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_variant_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_variant_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_information_variant_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_instagram extends $mol_icon {
 		path( ): string
 	}
@@ -20825,6 +38357,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=instagram.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_instrument_triangle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=triangle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_integrated_circuit_chip extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=chip.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_invert_colors extends $mol_icon {
@@ -20843,6 +38393,492 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=invoice.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_export_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_fast_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_import extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=import.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_import_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_list extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=list.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_list_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_send extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=send.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_send_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_fast_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_send extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=send.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_invoice_text_send_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_iobroker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=iobroker.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_ip extends $mol_icon {
@@ -20872,6 +38908,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ip_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ipod extends $mol_icon {
 		path( ): string
 	}
@@ -20879,6 +38924,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=ipod.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_iron extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=iron.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_iron_board extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=board.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_iron_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_island extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=island.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_island_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_iv_bag extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bag.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_jabber extends $mol_icon {
@@ -20944,6 +39043,15 @@ declare namespace $ {
 //# sourceMappingURL=jsfiddle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_jump_rope extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rope.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_kabaddi extends $mol_icon {
 		path( ): string
 	}
@@ -20953,6 +39061,15 @@ declare namespace $ {
 //# sourceMappingURL=kabaddi.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_kangaroo extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kangaroo.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_karate extends $mol_icon {
 		path( ): string
 	}
@@ -20960,6 +39077,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=karate.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kayaking extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kayaking.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_keg extends $mol_icon {
@@ -20980,6 +39106,87 @@ declare namespace $ {
 //# sourceMappingURL=kettle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_kettle_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettle_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettle_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettle_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettle_pour_over extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=over.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettle_steam extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=steam.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettle_steam_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kettlebell extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kettlebell.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_key extends $mol_icon {
 		path( ): string
 	}
@@ -20989,6 +39196,51 @@ declare namespace $ {
 //# sourceMappingURL=key.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_key_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_key_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_key_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_key_chain extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=chain.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_key_chain_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_key_change extends $mol_icon {
 		path( ): string
 	}
@@ -20996,6 +39248,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=change.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_key_link extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=link.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_key_minus extends $mol_icon {
@@ -21034,6 +39295,15 @@ declare namespace $ {
 //# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_key_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_key_variant extends $mol_icon {
 		path( ): string
 	}
@@ -21041,6 +39311,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_key_wireless extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wireless.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_keyboard extends $mol_icon {
@@ -21077,6 +39356,132 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=close.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_close_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_esc extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=esc.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f10 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f10.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f11 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f11.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f12 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f12.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f2.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f3 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f3.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f4 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f4.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f5 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f5.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f6 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f6.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f7 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f7.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f8 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f8.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_f9 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=f9.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_keyboard_off extends $mol_icon {
@@ -21133,6 +39538,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_keyboard_space extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=space.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_keyboard_tab extends $mol_icon {
 		path( ): string
 	}
@@ -21140,6 +39554,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=tab.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_keyboard_tab_reverse extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=reverse.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_keyboard_variant extends $mol_icon {
@@ -21151,6 +39574,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_khanda extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=khanda.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_kickstarter extends $mol_icon {
 		path( ): string
 	}
@@ -21158,6 +39590,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=kickstarter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kite extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kite.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kite_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_kitesurfing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kitesurfing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_klingon extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=klingon.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_knife extends $mol_icon {
@@ -21178,6 +39646,24 @@ declare namespace $ {
 //# sourceMappingURL=military.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_knob extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=knob.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_koala extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=koala.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_kodi extends $mol_icon {
 		path( ): string
 	}
@@ -21187,6 +39673,15 @@ declare namespace $ {
 //# sourceMappingURL=kodi.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_kubernetes extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kubernetes.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_label extends $mol_icon {
 		path( ): string
 	}
@@ -21194,6 +39689,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=label.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_label_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_label_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_label_off extends $mol_icon {
@@ -21223,6 +39736,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_label_percent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=percent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_label_percent_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_label_variant extends $mol_icon {
 		path( ): string
 	}
@@ -21239,6 +39770,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ladder extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ladder.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_ladybug extends $mol_icon {
@@ -21268,6 +39808,33 @@ declare namespace $ {
 //# sourceMappingURL=lamp.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_lamp_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lamps extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lamps.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lamps_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lan extends $mol_icon {
 		path( ): string
 	}
@@ -21275,6 +39842,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lan.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lan_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_lan_connect extends $mol_icon {
@@ -21302,6 +39878,87 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_land_fields extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fields.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_land_plots extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plots.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_land_plots_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_land_plots_circle_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_land_plots_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_land_rows_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_land_rows_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_landslide extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=landslide.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_landslide_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_language_c extends $mol_icon {
@@ -21338,6 +39995,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=css3.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_language_fortran extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fortran.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_language_go extends $mol_icon {
@@ -21385,6 +40051,15 @@ declare namespace $ {
 //# sourceMappingURL=javascript.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_language_kotlin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=kotlin.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_language_lua extends $mol_icon {
 		path( ): string
 	}
@@ -21392,6 +40067,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lua.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_language_markdown extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=markdown.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_language_markdown_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_language_php extends $mol_icon {
@@ -21421,6 +40114,15 @@ declare namespace $ {
 //# sourceMappingURL=r.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_language_ruby extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ruby.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_language_ruby_on_rails extends $mol_icon {
 		path( ): string
 	}
@@ -21428,6 +40130,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=rails.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_language_rust extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rust.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_language_swift extends $mol_icon {
@@ -21448,6 +40159,15 @@ declare namespace $ {
 //# sourceMappingURL=typescript.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_language_xaml extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xaml.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_laptop extends $mol_icon {
 		path( ): string
 	}
@@ -21455,6 +40175,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=laptop.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_laptop_account extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=account.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_laptop_off extends $mol_icon {
@@ -21475,6 +40204,15 @@ declare namespace $ {
 //# sourceMappingURL=laravel.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_laser_pointer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pointer.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lasso extends $mol_icon {
 		path( ): string
 	}
@@ -21491,6 +40229,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lastpass.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_latitude extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=latitude.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_launch extends $mol_icon {
@@ -21518,6 +40265,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=layers.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_layers_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_layers_minus extends $mol_icon {
@@ -21574,6 +40330,42 @@ declare namespace $ {
 //# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_layers_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_layers_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_layers_triple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=triple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_layers_triple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lead_pencil extends $mol_icon {
 		path( ): string
 	}
@@ -21592,6 +40384,24 @@ declare namespace $ {
 //# sourceMappingURL=leaf.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_leaf_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_leaf_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_leaf_maple extends $mol_icon {
 		path( ): string
 	}
@@ -21599,6 +40409,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=maple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_leaf_maple_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_leaf_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_leak extends $mol_icon {
@@ -21617,6 +40445,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lectern extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lectern.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_led_off extends $mol_icon {
@@ -21655,6 +40492,24 @@ declare namespace $ {
 //# sourceMappingURL=strip.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_led_strip_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_led_strip_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_led_variant_off extends $mol_icon {
 		path( ): string
 	}
@@ -21680,6 +40535,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_leek extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=leek.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_less_than extends $mol_icon {
@@ -21709,6 +40573,15 @@ declare namespace $ {
 //# sourceMappingURL=library.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_library_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_library_shelves extends $mol_icon {
 		path( ): string
 	}
@@ -21716,6 +40589,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=shelves.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_license extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=license.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_lifebuoy extends $mol_icon {
@@ -21727,6 +40609,33 @@ declare namespace $ {
 //# sourceMappingURL=lifebuoy.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_light_flood_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_light_flood_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_light_recessed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=recessed.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_light_switch extends $mol_icon {
 		path( ): string
 	}
@@ -21736,6 +40645,15 @@ declare namespace $ {
 //# sourceMappingURL=switch.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_light_switch_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lightbulb extends $mol_icon {
 		path( ): string
 	}
@@ -21743,6 +40661,186 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lightbulb.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_auto_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_cfl extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cfl.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_cfl_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_cfl_spiral extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spiral.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_cfl_spiral_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_fluorescent_tube extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tube.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_fluorescent_tube_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_group extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=group.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_group_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_group_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_group_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_multiple_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_multiple_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_night extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=night.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_night_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_lightbulb_off extends $mol_icon {
@@ -21772,6 +40870,87 @@ declare namespace $ {
 //# sourceMappingURL=on.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_lightbulb_on_10 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=10.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_20 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=20.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_30 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=30.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_40 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=40.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_50 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=50.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_60 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=60.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_70 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=70.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_80 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=80.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_on_90 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=90.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lightbulb_on_outline extends $mol_icon {
 		path( ): string
 	}
@@ -21782,6 +40961,60 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_lightbulb_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_spot extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spot.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_spot_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightbulb_variant_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -21806,6 +41039,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=on.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightning_bolt extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bolt.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightning_bolt_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lightning_bolt_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_line_scan extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scan.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lingerie extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lingerie.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_link extends $mol_icon {
@@ -21853,6 +41131,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_link_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_link_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_link_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_link_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_link_off extends $mol_icon {
 		path( ): string
 	}
@@ -21880,6 +41194,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_link_variant_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_link_variant_off extends $mol_icon {
 		path( ): string
 	}
@@ -21887,6 +41210,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_link_variant_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_link_variant_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_linkedin extends $mol_icon {
@@ -21916,6 +41257,60 @@ declare namespace $ {
 //# sourceMappingURL=mint.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_lipstick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lipstick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_liquid_spot extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spot.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_liquor extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=liquor.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_list_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_list_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_list_status extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=status.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_litecoin extends $mol_icon {
 		path( ): string
 	}
@@ -21932,6 +41327,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=loading.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_location_enter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=enter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_location_exit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=exit.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_lock extends $mol_icon {
@@ -21952,6 +41365,33 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_lock_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lock_clock extends $mol_icon {
 		path( ): string
 	}
@@ -21959,6 +41399,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_lock_open extends $mol_icon {
@@ -21970,7 +41446,115 @@ declare namespace $ {
 //# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_lock_open_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_open_variant_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -21997,6 +41581,60 @@ declare namespace $ {
 //# sourceMappingURL=pattern.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_lock_percent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=percent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_percent_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_percent_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_percent_open_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_percent_open_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_percent_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lock_plus extends $mol_icon {
 		path( ): string
 	}
@@ -22006,6 +41644,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_lock_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_lock_question extends $mol_icon {
 		path( ): string
 	}
@@ -22013,6 +41660,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lock_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_lock_reset extends $mol_icon {
@@ -22087,6 +41752,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_longitude extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=longitude.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_looks extends $mol_icon {
 		path( ): string
 	}
@@ -22094,6 +41768,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=looks.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lotion extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lotion.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lotion_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lotion_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lotion_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_loupe extends $mol_icon {
@@ -22112,6 +41822,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lumx.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_lungs extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lungs.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mace extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mace.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_magazine_pistol extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pistol.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_magazine_rifle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rifle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_magic_staff extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=staff.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_magnet extends $mol_icon {
@@ -22148,6 +41903,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=close.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_magnify_expand extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=expand.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_magnify_minus extends $mol_icon {
@@ -22202,6 +41966,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_magnify_remove_cursor extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cursor.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_magnify_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_magnify_scan extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scan.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_mail extends $mol_icon {
@@ -22285,6 +42076,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_manjaro extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=manjaro.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map extends $mol_icon {
 		path( ): string
 	}
@@ -22348,6 +42148,24 @@ declare namespace $ {
 //# sourceMappingURL=marker.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_map_marker_account extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=account.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_account_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map_marker_alert extends $mol_icon {
 		path( ): string
 	}
@@ -22375,6 +42193,15 @@ declare namespace $ {
 //# sourceMappingURL=check.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_map_marker_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map_marker_circle extends $mol_icon {
 		path( ): string
 	}
@@ -22393,6 +42220,33 @@ declare namespace $ {
 //# sourceMappingURL=distance.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_map_marker_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map_marker_minus extends $mol_icon {
 		path( ): string
 	}
@@ -22400,6 +42254,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_map_marker_multiple extends $mol_icon {
@@ -22411,6 +42274,15 @@ declare namespace $ {
 //# sourceMappingURL=multiple.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_map_marker_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map_marker_off extends $mol_icon {
 		path( ): string
 	}
@@ -22418,6 +42290,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_map_marker_outline extends $mol_icon {
@@ -22447,6 +42328,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_map_marker_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map_marker_question extends $mol_icon {
 		path( ): string
 	}
@@ -22474,6 +42364,15 @@ declare namespace $ {
 //# sourceMappingURL=radius.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_map_marker_radius_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map_marker_remove extends $mol_icon {
 		path( ): string
 	}
@@ -22483,6 +42382,15 @@ declare namespace $ {
 //# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_map_marker_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_map_marker_remove_variant extends $mol_icon {
 		path( ): string
 	}
@@ -22490,6 +42398,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_map_marker_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_map_minus extends $mol_icon {
@@ -22627,6 +42580,51 @@ declare namespace $ {
 //# sourceMappingURL=cos.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_math_integral extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=integral.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_math_integral_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_math_log extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=log.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_math_norm extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=norm.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_math_norm_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_math_sin extends $mol_icon {
 		path( ): string
 	}
@@ -22663,6 +42661,15 @@ declare namespace $ {
 //# sourceMappingURL=medal.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_medal_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_medical_bag extends $mol_icon {
 		path( ): string
 	}
@@ -22670,6 +42677,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bag.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_medical_cotton_swab extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=swab.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_medication extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=medication.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_medication_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_meditation extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=meditation.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_memory extends $mol_icon {
@@ -22681,6 +42724,33 @@ declare namespace $ {
 //# sourceMappingURL=memory.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_memory_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_menorah extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=menorah.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_menorah_fire extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fire.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_menu extends $mol_icon {
 		path( ): string
 	}
@@ -22688,6 +42758,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=menu.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_menu_close extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=close.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_menu_down extends $mol_icon {
@@ -22789,6 +42868,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_merge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=merge.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_message extends $mol_icon {
 		path( ): string
 	}
@@ -22816,6 +42904,78 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_message_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_badge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=badge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_badge_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_bookmark extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bookmark.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_bookmark_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_message_bulleted extends $mol_icon {
 		path( ): string
 	}
@@ -22834,6 +42994,42 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_message_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_message_draw extends $mol_icon {
 		path( ): string
 	}
@@ -22843,6 +43039,42 @@ declare namespace $ {
 //# sourceMappingURL=draw.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_message_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_fast_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_flash extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flash.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_flash_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_message_image extends $mol_icon {
 		path( ): string
 	}
@@ -22850,6 +43082,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=image.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_image_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_message_outline extends $mol_icon {
@@ -22870,6 +43165,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_message_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_message_processing extends $mol_icon {
 		path( ): string
 	}
@@ -22877,6 +43181,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=processing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_processing_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_message_reply extends $mol_icon {
@@ -22888,6 +43219,15 @@ declare namespace $ {
 //# sourceMappingURL=reply.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_message_reply_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_message_reply_text extends $mol_icon {
 		path( ): string
 	}
@@ -22895,6 +43235,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_reply_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_message_settings extends $mol_icon {
@@ -22906,6 +43255,33 @@ declare namespace $ {
 //# sourceMappingURL=settings.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_message_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_message_text extends $mol_icon {
 		path( ): string
 	}
@@ -22913,6 +43289,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_text_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_text_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_text_fast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_text_fast_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_text_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_message_text_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_message_text_outline extends $mol_icon {
@@ -22940,6 +43370,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=meteor.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_meter_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_meter_electric_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_meter_gas extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gas.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_meter_gas_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_metronome extends $mol_icon {
@@ -22978,6 +43444,24 @@ declare namespace $ {
 //# sourceMappingURL=microphone.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_microphone_message extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=message.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microphone_message_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_microphone_minus extends $mol_icon {
 		path( ): string
 	}
@@ -23012,6 +43496,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microphone_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microphone_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_microphone_settings extends $mol_icon {
@@ -23059,6 +43561,42 @@ declare namespace $ {
 //# sourceMappingURL=microsoft.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_microsoft_access extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=access.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_azure extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=azure.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_azure_devops extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=devops.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_bing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bing.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_microsoft_dynamics extends $mol_icon {
 		path( ): string
 	}
@@ -23068,6 +43606,258 @@ declare namespace $ {
 //# sourceMappingURL=dynamics.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_microsoft_dynamics_365 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=365.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_edge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_excel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=excel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_internet_explorer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=explorer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_office extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=office.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_onedrive extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=onedrive.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_onenote extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=onenote.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_outlook extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outlook.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_powerpoint extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=powerpoint.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_sharepoint extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sharepoint.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_teams extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=teams.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_visual_studio extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=studio.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_visual_studio_code extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=code.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_windows extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=windows.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_windows_classic extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=classic.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_word extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=word.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xbox.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=controller.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_battery_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_battery_charging extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=charging.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_battery_empty extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=empty.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_battery_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_battery_low extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=low.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_battery_medium extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=medium.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_battery_unknown extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=unknown.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_menu extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=menu.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microsoft_xbox_controller_view extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=view.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_microwave extends $mol_icon {
 		path( ): string
 	}
@@ -23075,6 +43865,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=microwave.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_microwave_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_middleware extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=middleware.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_middleware_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_midi extends $mol_icon {
@@ -23149,6 +43966,24 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_minus_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_minus_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_minus_box_outline extends $mol_icon {
 		path( ): string
 	}
@@ -23165,6 +44000,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_minus_circle_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_minus_circle_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_minus_circle_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_minus_circle_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_minus_circle_outline extends $mol_icon {
@@ -23194,6 +44065,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_minus_thick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mirror extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mirror.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mirror_rectangle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rectangle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mirror_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_mixed_martial_arts extends $mol_icon {
 		path( ): string
 	}
@@ -23221,6 +44128,24 @@ declare namespace $ {
 //# sourceMappingURL=molecule.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_molecule_co extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=co.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_molecule_co2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=co2.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_monitor extends $mol_icon {
 		path( ): string
 	}
@@ -23228,6 +44153,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=monitor.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_account extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=account.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_arrow_down_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_monitor_cellphone extends $mol_icon {
@@ -23255,6 +44207,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=dashboard.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_monitor_lock extends $mol_icon {
@@ -23293,6 +44263,51 @@ declare namespace $ {
 //# sourceMappingURL=screenshot.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_monitor_share extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=share.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_shimmer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shimmer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_small extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=small.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_speaker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=speaker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_speaker_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_monitor_star extends $mol_icon {
 		path( ): string
 	}
@@ -23300,6 +44315,123 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_monitor_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_first_quarter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=quarter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_last_quarter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=quarter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_new extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=new.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_waning_crescent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=crescent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_waning_gibbous extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gibbous.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_waxing_crescent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=crescent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moon_waxing_gibbous extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gibbous.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moped extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=moped.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moped_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moped_electric_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_moped_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_more extends $mol_icon {
@@ -23311,6 +44443,51 @@ declare namespace $ {
 //# sourceMappingURL=more.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_mortar_pestle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pestle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mortar_pestle_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mosque extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mosque.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mosque_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mother_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_mother_nurse extends $mol_icon {
 		path( ): string
 	}
@@ -23318,6 +44495,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=nurse.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motion extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=motion.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motion_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motion_pause extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motion_pause_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motion_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motion_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_motion_sensor extends $mol_icon {
@@ -23329,6 +44560,15 @@ declare namespace $ {
 //# sourceMappingURL=sensor.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_motion_sensor_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_motorbike extends $mol_icon {
 		path( ): string
 	}
@@ -23336,6 +44576,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=motorbike.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motorbike_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_motorbike_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_mouse extends $mol_icon {
@@ -23356,6 +44614,51 @@ declare namespace $ {
 //# sourceMappingURL=bluetooth.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_mouse_left_click extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=click.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_left_click_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_move_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_move_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_move_vertical extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_mouse_off extends $mol_icon {
 		path( ): string
 	}
@@ -23363,6 +44666,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_right_click extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=click.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_right_click_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mouse_scroll_wheel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wheel.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_mouse_variant extends $mol_icon {
@@ -23410,7 +44749,367 @@ declare namespace $ {
 //# sourceMappingURL=movie.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_movie_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_filter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=filter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_filter_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_open_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_movie_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -23428,6 +45127,96 @@ declare namespace $ {
 //# sourceMappingURL=roll.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_movie_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_movie_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mower extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mower.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mower_bag extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bag.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mower_bag_on extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=on.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mower_on extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=on.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_muffin extends $mol_icon {
 		path( ): string
 	}
@@ -23435,6 +45224,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=muffin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_multicast extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multicast.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_multimedia extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multimedia.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_multiplication extends $mol_icon {
@@ -23464,6 +45271,24 @@ declare namespace $ {
 //# sourceMappingURL=mushroom.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_mushroom_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mushroom_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_mushroom_outline extends $mol_icon {
 		path( ): string
 	}
@@ -23482,6 +45307,51 @@ declare namespace $ {
 //# sourceMappingURL=music.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_music_accidental_double_flat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_accidental_double_sharp extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sharp.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_accidental_flat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_accidental_natural extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=natural.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_accidental_sharp extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sharp.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_music_box extends $mol_icon {
 		path( ): string
 	}
@@ -23489,6 +45359,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_music_box_outline extends $mol_icon {
@@ -23516,6 +45404,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_clef_alto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_clef_bass extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bass.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_clef_treble extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=treble.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_music_note extends $mol_icon {
@@ -23554,6 +45469,15 @@ declare namespace $ {
 //# sourceMappingURL=eighth.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_music_note_eighth_dotted extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dotted.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_music_note_half extends $mol_icon {
 		path( ): string
 	}
@@ -23563,6 +45487,24 @@ declare namespace $ {
 //# sourceMappingURL=half.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_music_note_half_dotted extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dotted.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_note_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_music_note_off extends $mol_icon {
 		path( ): string
 	}
@@ -23570,6 +45512,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_note_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_note_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_music_note_plus extends $mol_icon {
@@ -23590,6 +45550,15 @@ declare namespace $ {
 //# sourceMappingURL=quarter.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_music_note_quarter_dotted extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dotted.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_music_note_sixteenth extends $mol_icon {
 		path( ): string
 	}
@@ -23597,6 +45566,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sixteenth.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_note_sixteenth_dotted extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dotted.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_music_note_whole extends $mol_icon {
@@ -23608,6 +45586,15 @@ declare namespace $ {
 //# sourceMappingURL=whole.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_music_note_whole_dotted extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dotted.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_music_off extends $mol_icon {
 		path( ): string
 	}
@@ -23615,6 +45602,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_rest_eighth extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eighth.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_rest_half extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=half.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_rest_quarter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=quarter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_rest_sixteenth extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sixteenth.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_music_rest_whole extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=whole.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_mustache extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mustache.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_nail extends $mol_icon {
@@ -23653,6 +45694,15 @@ declare namespace $ {
 //# sourceMappingURL=nature.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_nature_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_nature_people extends $mol_icon {
 		path( ): string
 	}
@@ -23662,6 +45712,15 @@ declare namespace $ {
 //# sourceMappingURL=people.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_nature_people_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_navigation extends $mol_icon {
 		path( ): string
 	}
@@ -23669,6 +45728,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=navigation.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_navigation_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_navigation_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_navigation_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_near_me extends $mol_icon {
@@ -23696,6 +45782,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=needle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_needle_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_netflix extends $mol_icon {
@@ -23741,6 +45836,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_network_pos extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pos.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_network_strength_1 extends $mol_icon {
@@ -23815,6 +45919,15 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_network_strength_4_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_network_strength_off extends $mol_icon {
 		path( ): string
 	}
@@ -23860,6 +45973,15 @@ declare namespace $ {
 //# sourceMappingURL=newspaper.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_newspaper_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_newspaper_minus extends $mol_icon {
 		path( ): string
 	}
@@ -23876,6 +45998,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_newspaper_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_newspaper_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_newspaper_variant_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_newspaper_variant_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_newspaper_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_nfc extends $mol_icon {
@@ -23932,6 +46099,15 @@ declare namespace $ {
 //# sourceMappingURL=ninja.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_nintendo_game_boy extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=boy.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_nintendo_switch extends $mol_icon {
 		path( ): string
 	}
@@ -23941,6 +46117,33 @@ declare namespace $ {
 //# sourceMappingURL=switch.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_nintendo_wii extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wii.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_nintendo_wiiu extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wiiu.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_nix extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=nix.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_nodejs extends $mol_icon {
 		path( ): string
 	}
@@ -23948,6 +46151,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=nodejs.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_noodles extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=noodles.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_not_equal extends $mol_icon {
@@ -23977,6 +46189,78 @@ declare namespace $ {
 //# sourceMappingURL=note.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_note_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_note_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -23987,6 +46271,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_note_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -24022,6 +46324,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_note_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_note_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_note_text extends $mol_icon {
 		path( ): string
 	}
@@ -24031,6 +46369,15 @@ declare namespace $ {
 //# sourceMappingURL=text.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_note_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_notebook extends $mol_icon {
 		path( ): string
 	}
@@ -24038,6 +46385,78 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=notebook.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_notebook_multiple extends $mol_icon {
@@ -24050,6 +46469,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_notebook_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_notebook_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -24221,6 +46676,69 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_numeric_1_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_10 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=10.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_10_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_10_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_10_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_10_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_10_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_10_circle_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -24733,6 +47251,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_numeric_9_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_numeric_9_plus_box extends $mol_icon {
 		path( ): string
 	}
@@ -24787,6 +47314,33 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_numeric_negative_1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_numeric_positive_1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_nut extends $mol_icon {
 		path( ): string
 	}
@@ -24805,6 +47359,15 @@ declare namespace $ {
 //# sourceMappingURL=nutrition.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_nuxt extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=nuxt.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_oar extends $mol_icon {
 		path( ): string
 	}
@@ -24821,6 +47384,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=ocarina.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_oci extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=oci.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ocr extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ocr.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_octagon extends $mol_icon {
@@ -24850,6 +47431,42 @@ declare namespace $ {
 //# sourceMappingURL=octagram.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_octagram_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_octagram_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_octagram_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_octagram_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_octagram_outline extends $mol_icon {
 		path( ): string
 	}
@@ -24859,6 +47476,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_octagram_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_octagram_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_octahedron extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=octahedron.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_octahedron_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_odnoklassniki extends $mol_icon {
 		path( ): string
 	}
@@ -24866,6 +47519,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=odnoklassniki.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_offer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=offer.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_office extends $mol_icon {
@@ -24886,6 +47548,105 @@ declare namespace $ {
 //# sourceMappingURL=building.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_office_building_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_office_building_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_oil extends $mol_icon {
 		path( ): string
 	}
@@ -24904,6 +47665,15 @@ declare namespace $ {
 //# sourceMappingURL=lamp.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_oil_level extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=level.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_oil_temperature extends $mol_icon {
 		path( ): string
 	}
@@ -24911,6 +47681,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=temperature.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_om extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=om.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_omega extends $mol_icon {
@@ -25003,6 +47782,87 @@ declare namespace $ {
 //# sourceMappingURL=orbit.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_orbit_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_alphabetical_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_alphabetical_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_bool_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_bool_ascending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_bool_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_bool_descending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_numeric_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_order_numeric_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_origin extends $mol_icon {
 		path( ): string
 	}
@@ -25030,6 +47890,24 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_outdoor_lamp extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lamp.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_overscan extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=overscan.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_owl extends $mol_icon {
 		path( ): string
 	}
@@ -25055,6 +47933,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=package.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_package_down extends $mol_icon {
@@ -25091,6 +47978,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=closed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_variant_closed_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_variant_closed_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_variant_closed_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_variant_closed_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_variant_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_variant_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_package_variant_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_page_first extends $mol_icon {
@@ -25136,6 +48086,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=header.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_page_layout_header_footer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=footer.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_page_layout_sidebar_left extends $mol_icon {
@@ -25192,6 +48151,96 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pail extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pail.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pail_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_palette extends $mol_icon {
 		path( ): string
 	}
@@ -25226,6 +48275,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=swatch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_palette_swatch_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_palette_swatch_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_palm_tree extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tree.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pan extends $mol_icon {
@@ -25372,6 +48448,60 @@ declare namespace $ {
 //# sourceMappingURL=horizontal.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_panorama_horizontal_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_panorama_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_panorama_sphere extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sphere.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_panorama_sphere_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_panorama_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_panorama_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_panorama_vertical extends $mol_icon {
 		path( ): string
 	}
@@ -25379,6 +48509,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_panorama_vertical_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_panorama_wide_angle extends $mol_icon {
@@ -25390,6 +48529,15 @@ declare namespace $ {
 //# sourceMappingURL=angle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_panorama_wide_angle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_paper_cut_vertical extends $mol_icon {
 		path( ): string
 	}
@@ -25399,6 +48547,24 @@ declare namespace $ {
 //# sourceMappingURL=vertical.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_paper_roll extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=roll.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paper_roll_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_paperclip extends $mol_icon {
 		path( ): string
 	}
@@ -25406,6 +48572,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=paperclip.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paperclip_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paperclip_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paperclip_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paperclip_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paperclip_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paperclip_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_parachute extends $mol_icon {
@@ -25426,6 +48646,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_paragliding extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=paragliding.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_parking extends $mol_icon {
 		path( ): string
 	}
@@ -25433,6 +48662,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=parking.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_party_popper extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=popper.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_passport extends $mol_icon {
@@ -25444,6 +48682,15 @@ declare namespace $ {
 //# sourceMappingURL=passport.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_passport_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_passport_biometric extends $mol_icon {
 		path( ): string
 	}
@@ -25451,6 +48698,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=biometric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_passport_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_passport_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_passport_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_passport_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_passport_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pasta extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pasta.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_patio_heater extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heater.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_patreon extends $mol_icon {
@@ -25469,6 +48779,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pause_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pause_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pause_circle extends $mol_icon {
@@ -25525,6 +48853,24 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_paw_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_paw_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_peace extends $mol_icon {
 		path( ): string
 	}
@@ -25532,6 +48878,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=peace.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_peanut extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=peanut.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_peanut_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_peanut_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_peanut_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pen extends $mol_icon {
@@ -25604,6 +48986,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pencil_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pencil_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pencil_box_outline extends $mol_icon {
@@ -25732,6 +49132,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pencil_ruler extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ruler.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pencil_ruler_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_penguin extends $mol_icon {
 		path( ): string
 	}
@@ -25759,6 +49177,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pentagram extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pentagram.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_percent extends $mol_icon {
 		path( ): string
 	}
@@ -25766,6 +49193,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=percent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_percent_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_percent_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_percent_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_percent_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_percent_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_periodic_table extends $mol_icon {
@@ -25795,6 +49267,15 @@ declare namespace $ {
 //# sourceMappingURL=more.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ph extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ph.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone extends $mol_icon {
 		path( ): string
 	}
@@ -25813,6 +49294,15 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_bluetooth extends $mol_icon {
 		path( ): string
 	}
@@ -25820,6 +49310,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bluetooth.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_bluetooth_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_classic extends $mol_icon {
@@ -25831,6 +49366,42 @@ declare namespace $ {
 //# sourceMappingURL=classic.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_classic_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_dial extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dial.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_dial_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_forward extends $mol_icon {
 		path( ): string
 	}
@@ -25838,6 +49409,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=forward.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_forward_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_hangup extends $mol_icon {
@@ -25849,6 +49429,15 @@ declare namespace $ {
 //# sourceMappingURL=hangup.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_hangup_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_in_talk extends $mol_icon {
 		path( ): string
 	}
@@ -25856,6 +49445,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=talk.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_in_talk_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_incoming extends $mol_icon {
@@ -25867,6 +49465,33 @@ declare namespace $ {
 //# sourceMappingURL=incoming.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_incoming_outgoing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outgoing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_incoming_outgoing_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_incoming_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_lock extends $mol_icon {
 		path( ): string
 	}
@@ -25874,6 +49499,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_log extends $mol_icon {
@@ -25885,6 +49519,33 @@ declare namespace $ {
 //# sourceMappingURL=log.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_log_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_message extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=message.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_message_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_minus extends $mol_icon {
 		path( ): string
 	}
@@ -25892,6 +49553,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_missed extends $mol_icon {
@@ -25903,6 +49573,15 @@ declare namespace $ {
 //# sourceMappingURL=missed.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_missed_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_off extends $mol_icon {
 		path( ): string
 	}
@@ -25912,6 +49591,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_outgoing extends $mol_icon {
 		path( ): string
 	}
@@ -25919,6 +49607,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outgoing.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_outgoing_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_outline extends $mol_icon {
@@ -25939,6 +49636,15 @@ declare namespace $ {
 //# sourceMappingURL=paused.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_paused_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_plus extends $mol_icon {
 		path( ): string
 	}
@@ -25948,6 +49654,51 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_phone_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_phone_return extends $mol_icon {
 		path( ): string
 	}
@@ -25955,6 +49706,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=return.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_return_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_ring extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ring.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_ring_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_rotate_landscape extends $mol_icon {
@@ -25982,6 +49760,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_phone_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_phone_voip extends $mol_icon {
@@ -26027,6 +49832,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=piano.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_piano_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pickaxe extends $mol_icon {
@@ -26101,6 +49915,42 @@ declare namespace $ {
 //# sourceMappingURL=pig.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pig_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pig_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_piggy_bank extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bank.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_piggy_bank_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_pill extends $mol_icon {
 		path( ): string
 	}
@@ -26108,6 +49958,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pill.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pill_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pill_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pillar extends $mol_icon {
@@ -26173,6 +50041,33 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pine_tree_fire extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fire.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pine_tree_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pine_tree_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_pinterest extends $mol_icon {
 		path( ): string
 	}
@@ -26227,6 +50122,24 @@ declare namespace $ {
 //# sourceMappingURL=leak.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pipe_valve extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=valve.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pipe_wrench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_pirate extends $mol_icon {
 		path( ): string
 	}
@@ -26254,6 +50167,15 @@ declare namespace $ {
 //# sourceMappingURL=piston.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pitchfork extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pitchfork.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_pizza extends $mol_icon {
 		path( ): string
 	}
@@ -26263,6 +50185,24 @@ declare namespace $ {
 //# sourceMappingURL=pizza.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_plane_car extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=car.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_plane_train extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=train.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_play extends $mol_icon {
 		path( ): string
 	}
@@ -26270,6 +50210,78 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_play_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_play_box_outline extends $mol_icon {
@@ -26443,6 +50455,15 @@ declare namespace $ {
 //# sourceMappingURL=plex.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pliers extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pliers.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_plus extends $mol_icon {
 		path( ): string
 	}
@@ -26459,6 +50480,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_plus_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_plus_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_plus_box_outline extends $mol_icon {
@@ -26479,6 +50518,15 @@ declare namespace $ {
 //# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_plus_circle_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_plus_circle_multiple_outline extends $mol_icon {
 		path( ): string
 	}
@@ -26497,6 +50545,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_plus_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_plus_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_plus_minus extends $mol_icon {
 		path( ): string
 	}
@@ -26513,6 +50579,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_plus_minus_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_plus_network extends $mol_icon {
@@ -26540,6 +50615,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_plus_thick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thick.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pocket extends $mol_icon {
@@ -26641,6 +50725,33 @@ declare namespace $ {
 //# sourceMappingURL=polaroid.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_police_badge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=badge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_police_badge_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_police_station extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=station.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_poll extends $mol_icon {
 		path( ): string
 	}
@@ -26648,6 +50759,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=poll.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_polo extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=polo.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_polymer extends $mol_icon {
@@ -26668,6 +50788,15 @@ declare namespace $ {
 //# sourceMappingURL=pool.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pool_thermometer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thermometer.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_popcorn extends $mol_icon {
 		path( ): string
 	}
@@ -26675,6 +50804,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=popcorn.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_post extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=post.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_post_lamp extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lamp.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_post_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_postage_stamp extends $mol_icon {
@@ -26704,6 +50860,42 @@ declare namespace $ {
 //# sourceMappingURL=mix.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pot_mix_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pot_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pot_steam extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=steam.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pot_steam_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_pound extends $mol_icon {
 		path( ): string
 	}
@@ -26720,6 +50912,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pound_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_power extends $mol_icon {
@@ -26767,6 +50968,24 @@ declare namespace $ {
 //# sourceMappingURL=plug.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_power_plug_battery extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=battery.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_power_plug_battery_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_power_plug_off extends $mol_icon {
 		path( ): string
 	}
@@ -26774,6 +50993,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_power_plug_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_power_plug_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_power_settings extends $mol_icon {
@@ -26812,6 +51049,24 @@ declare namespace $ {
 //# sourceMappingURL=au.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_power_socket_ch extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_power_socket_de extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=de.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_power_socket_eu extends $mol_icon {
 		path( ): string
 	}
@@ -26819,6 +51074,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=eu.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_power_socket_fr extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fr.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_power_socket_it extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=it.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_power_socket_jp extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=jp.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_power_socket_uk extends $mol_icon {
@@ -26884,6 +51166,15 @@ declare namespace $ {
 //# sourceMappingURL=play.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_pretzel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pretzel.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_printer extends $mol_icon {
 		path( ): string
 	}
@@ -26911,6 +51202,60 @@ declare namespace $ {
 //# sourceMappingURL=nozzle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_printer_3d_nozzle_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_3d_nozzle_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_3d_nozzle_heat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_3d_nozzle_heat_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_3d_nozzle_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_3d_nozzle_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_printer_3d_nozzle_outline extends $mol_icon {
 		path( ): string
 	}
@@ -26918,6 +51263,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_3d_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_printer_alert extends $mol_icon {
@@ -26929,6 +51283,24 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_printer_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_printer_off extends $mol_icon {
 		path( ): string
 	}
@@ -26936,6 +51308,357 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pos.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_network extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=network.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_network_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_pause extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_pause_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_stop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stop.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_stop_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_wrench extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_pos_wrench_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_printer_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_printer_settings extends $mol_icon {
@@ -27010,6 +51733,15 @@ declare namespace $ {
 //# sourceMappingURL=clock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_progress_close extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=close.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_progress_download extends $mol_icon {
 		path( ): string
 	}
@@ -27017,6 +51749,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=download.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_progress_helper extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=helper.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_progress_pencil extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pencil.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_progress_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_progress_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_progress_star_four_points extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=points.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_progress_tag extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tag.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_progress_upload extends $mol_icon {
@@ -27046,6 +51832,15 @@ declare namespace $ {
 //# sourceMappingURL=projector.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_projector_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_projector_screen extends $mol_icon {
 		path( ): string
 	}
@@ -27053,6 +51848,96 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=screen.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_projector_screen_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_projector_screen_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_projector_screen_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_projector_screen_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_projector_screen_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_projector_screen_variant_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_projector_screen_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_propane_tank extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tank.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_propane_tank_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_protocol extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=protocol.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_publish extends $mol_icon {
@@ -27064,6 +51949,15 @@ declare namespace $ {
 //# sourceMappingURL=publish.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_publish_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_pulse extends $mol_icon {
 		path( ): string
 	}
@@ -27071,6 +51965,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pulse.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pump extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pump.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pump_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_pumpkin extends $mol_icon {
@@ -27109,6 +52021,78 @@ declare namespace $ {
 //# sourceMappingURL=puzzle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_puzzle_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_heart_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_puzzle_outline extends $mol_icon {
 		path( ): string
 	}
@@ -27116,6 +52100,78 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_puzzle_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pyramid extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pyramid.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_pyramid_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_qi extends $mol_icon {
@@ -27152,6 +52208,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_qrcode_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_qrcode_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_qrcode_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_qrcode_scan extends $mol_icon {
@@ -27199,6 +52282,15 @@ declare namespace $ {
 //# sourceMappingURL=medium.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_queue_first_in_last_out extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=out.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_quora extends $mol_icon {
 		path( ): string
 	}
@@ -27215,6 +52307,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=rabbit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rabbit_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rabbit_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_racing_helmet extends $mol_icon {
@@ -27307,6 +52417,15 @@ declare namespace $ {
 //# sourceMappingURL=handheld.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_radio_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_radio_tower extends $mol_icon {
 		path( ): string
 	}
@@ -27323,6 +52442,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=radioactive.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_radioactive_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_radioactive_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_radioactive_off extends $mol_icon {
@@ -27343,6 +52480,15 @@ declare namespace $ {
 //# sourceMappingURL=blank.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_radiobox_indeterminate_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_radiobox_marked extends $mol_icon {
 		path( ): string
 	}
@@ -27350,6 +52496,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=marked.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_radiology_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_radiology_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_radius extends $mol_icon {
@@ -27379,6 +52543,15 @@ declare namespace $ {
 //# sourceMappingURL=light.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rake extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rake.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_raspberry_pi extends $mol_icon {
 		path( ): string
 	}
@@ -27386,6 +52559,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pi.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_raw extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=raw.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_raw_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_ray_end extends $mol_icon {
@@ -27433,6 +52624,15 @@ declare namespace $ {
 //# sourceMappingURL=end.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ray_start_vertex_end extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=end.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ray_vertex extends $mol_icon {
 		path( ): string
 	}
@@ -27440,6 +52640,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=vertex.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_razor_double_edge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_razor_single_edge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edge.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_react extends $mol_icon {
@@ -27467,6 +52685,231 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=receipt.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_send extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=send.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_send_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_send extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=send.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_receipt_text_send_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_record extends $mol_icon {
@@ -27541,6 +52984,15 @@ declare namespace $ {
 //# sourceMappingURL=recycle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_recycle_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_reddit extends $mol_icon {
 		path( ): string
 	}
@@ -27548,6 +53000,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=reddit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_redhat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=redhat.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_redo extends $mol_icon {
@@ -27595,6 +53056,24 @@ declare namespace $ {
 //# sourceMappingURL=refresh.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_refresh_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_refresh_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_regex extends $mol_icon {
 		path( ): string
 	}
@@ -27613,6 +53092,339 @@ declare namespace $ {
 //# sourceMappingURL=trademark.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_reiterate extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=reiterate.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_many_to_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_many_to_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_many_to_one_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_many_to_only_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_many_to_zero_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_many_to_zero_or_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_or_many_to_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_or_many_to_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_or_many_to_one_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_or_many_to_only_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_or_many_to_zero_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_or_many_to_zero_or_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_to_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_to_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_to_one_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_to_only_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_to_zero_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_one_to_zero_or_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_only_one_to_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_only_one_to_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_only_one_to_one_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_only_one_to_only_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_only_one_to_zero_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_only_one_to_zero_or_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_many_to_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_many_to_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_many_to_one_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_many_to_only_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_many_to_zero_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_many_to_zero_or_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_one_to_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_one_to_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_one_to_one_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_one_to_only_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_one_to_zero_or_many extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=many.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_relation_zero_or_one_to_zero_or_one extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=one.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_relative_scale extends $mol_icon {
 		path( ): string
 	}
@@ -27629,6 +53441,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=reload.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_reload_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_reminder extends $mol_icon {
@@ -27685,6 +53506,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rename extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rename.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_rename_box extends $mol_icon {
 		path( ): string
 	}
@@ -27692,6 +53522,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rename_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rename_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_reorder_horizontal extends $mol_icon {
@@ -27739,6 +53587,15 @@ declare namespace $ {
 //# sourceMappingURL=once.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_repeat_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_replay extends $mol_icon {
 		path( ): string
 	}
@@ -27773,6 +53630,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_reply_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_reply_outline extends $mol_icon {
@@ -27847,6 +53713,15 @@ declare namespace $ {
 //# sourceMappingURL=restart.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_restart_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_restart_off extends $mol_icon {
 		path( ): string
 	}
@@ -27863,6 +53738,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=restore.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_restore_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_rewind extends $mol_icon {
@@ -27883,6 +53767,15 @@ declare namespace $ {
 //# sourceMappingURL=10.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rewind_15 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=15.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_rewind_30 extends $mol_icon {
 		path( ): string
 	}
@@ -27890,6 +53783,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=30.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rewind_45 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=45.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rewind_5 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=5.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rewind_60 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=60.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_rewind_outline extends $mol_icon {
@@ -27919,6 +53839,15 @@ declare namespace $ {
 //# sourceMappingURL=medium.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rhombus_medium_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_rhombus_outline extends $mol_icon {
 		path( ): string
 	}
@@ -27937,6 +53866,15 @@ declare namespace $ {
 //# sourceMappingURL=split.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rhombus_split_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ribbon extends $mol_icon {
 		path( ): string
 	}
@@ -27953,6 +53891,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=rice.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rickshaw extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rickshaw.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rickshaw_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_ring extends $mol_icon {
@@ -27991,6 +53947,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_robber extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=robber.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_robot extends $mol_icon {
 		path( ): string
 	}
@@ -27998,6 +53963,96 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=robot.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_angry extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=angry.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_angry_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_confused extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=confused.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_confused_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_dead extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dead.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_dead_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_excited extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=excited.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_excited_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_happy extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=happy.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_happy_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_robot_industrial extends $mol_icon {
@@ -28009,6 +54064,78 @@ declare namespace $ {
 //# sourceMappingURL=industrial.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_robot_industrial_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_love extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=love.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_love_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_mower extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=mower.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_mower_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_robot_vacuum extends $mol_icon {
 		path( ): string
 	}
@@ -28016,6 +54143,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=vacuum.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_vacuum_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_vacuum_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_robot_vacuum_variant extends $mol_icon {
@@ -28027,6 +54172,24 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_robot_vacuum_variant_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_robot_vacuum_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_rocket extends $mol_icon {
 		path( ): string
 	}
@@ -28034,6 +54197,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=rocket.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rocket_launch extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=launch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rocket_launch_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rocket_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rodent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rodent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roller_shade extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shade.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roller_shade_closed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=closed.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_roller_skate extends $mol_icon {
@@ -28045,6 +54262,15 @@ declare namespace $ {
 //# sourceMappingURL=skate.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_roller_skate_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_rollerblade extends $mol_icon {
 		path( ): string
 	}
@@ -28054,6 +54280,15 @@ declare namespace $ {
 //# sourceMappingURL=rollerblade.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rollerblade_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_rollupjs extends $mol_icon {
 		path( ): string
 	}
@@ -28061,6 +54296,114 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=rollupjs.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rolodex extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rolodex.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rolodex_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_10 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=10.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=2.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_3 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=3.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_4 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=4.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_5 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=5.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_6 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=6.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_7 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=7.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_8 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=8.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_roman_numeral_9 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=9.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_room_service extends $mol_icon {
@@ -28079,6 +54422,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_rotate_360 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=360.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_rotate_3d extends $mol_icon {
@@ -28153,6 +54505,33 @@ declare namespace $ {
 //# sourceMappingURL=corner.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_router extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=router.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_router_network extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=network.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_router_network_wireless extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wireless.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_router_wireless extends $mol_icon {
 		path( ): string
 	}
@@ -28160,6 +54539,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wireless.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_router_wireless_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_router_wireless_settings extends $mol_icon {
@@ -28178,6 +54566,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=routes.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_routes_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_rowing extends $mol_icon {
@@ -28216,6 +54613,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rug extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rug.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_rugby extends $mol_icon {
 		path( ): string
 	}
@@ -28243,6 +54649,15 @@ declare namespace $ {
 //# sourceMappingURL=square.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ruler_square_compass extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=compass.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_run extends $mol_icon {
 		path( ): string
 	}
@@ -28261,6 +54676,15 @@ declare namespace $ {
 //# sourceMappingURL=fast.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_rv_truck extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=truck.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sack extends $mol_icon {
 		path( ): string
 	}
@@ -28268,6 +54692,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sack.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sack_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_sack_percent extends $mol_icon {
@@ -28288,6 +54721,24 @@ declare namespace $ {
 //# sourceMappingURL=safe.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_safe_square extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=square.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_safe_square_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_safety_goggles extends $mol_icon {
 		path( ): string
 	}
@@ -28297,6 +54748,24 @@ declare namespace $ {
 //# sourceMappingURL=goggles.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sail_boat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=boat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sail_boat_sink extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sink.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sale extends $mol_icon {
 		path( ): string
 	}
@@ -28304,6 +54773,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sale.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sale_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_salesforce extends $mol_icon {
@@ -28360,6 +54838,15 @@ declare namespace $ {
 //# sourceMappingURL=sausage.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sausage_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_saw_blade extends $mol_icon {
 		path( ): string
 	}
@@ -28367,6 +54854,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=blade.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sawtooth_wave extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wave.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_saxophone extends $mol_icon {
@@ -28405,6 +54901,33 @@ declare namespace $ {
 //# sourceMappingURL=bathroom.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_scale_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_scale_unbalanced extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=unbalanced.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_scan_helper extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=helper.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_scanner extends $mol_icon {
 		path( ): string
 	}
@@ -28441,6 +54964,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_scent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_scent_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_school extends $mol_icon {
 		path( ): string
 	}
@@ -28450,6 +54991,15 @@ declare namespace $ {
 //# sourceMappingURL=school.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_school_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_scissors_cutting extends $mol_icon {
 		path( ): string
 	}
@@ -28457,6 +55007,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=cutting.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_scooter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scooter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_scooter_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_scoreboard extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scoreboard.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_scoreboard_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_screen_rotation extends $mol_icon {
@@ -28540,7 +55126,43 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_script_text_key extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=key.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_script_text_key_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_script_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_script_text_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_script_text_play_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -28565,6 +55187,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=seal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_seal_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_search_web extends $mol_icon {
@@ -28648,6 +55279,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_seat_passenger extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=passenger.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_seat_recline_extra extends $mol_icon {
 		path( ): string
 	}
@@ -28702,6 +55342,24 @@ declare namespace $ {
 //# sourceMappingURL=seed.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_seed_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_seed_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_seed_outline extends $mol_icon {
 		path( ): string
 	}
@@ -28709,6 +55367,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_seed_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_seed_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_seesaw extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=seesaw.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_segment extends $mol_icon {
@@ -28738,6 +55423,24 @@ declare namespace $ {
 //# sourceMappingURL=all.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_select_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_select_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_select_color extends $mol_icon {
 		path( ): string
 	}
@@ -28765,6 +55468,15 @@ declare namespace $ {
 //# sourceMappingURL=drag.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_select_group extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=group.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_select_inverse extends $mol_icon {
 		path( ): string
 	}
@@ -28774,6 +55486,33 @@ declare namespace $ {
 //# sourceMappingURL=inverse.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_select_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_select_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_select_multiple_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_select_off extends $mol_icon {
 		path( ): string
 	}
@@ -28781,6 +55520,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_select_place extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=place.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_select_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_select_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_selection extends $mol_icon {
@@ -28819,6 +55585,42 @@ declare namespace $ {
 //# sourceMappingURL=inside.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_selection_ellipse_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_selection_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_selection_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_selection_multiple_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_selection_off extends $mol_icon {
 		path( ): string
 	}
@@ -28828,6 +55630,33 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_selection_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_selection_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_semantic_web extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=web.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_send extends $mol_icon {
 		path( ): string
 	}
@@ -28835,6 +55664,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=send.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_send_circle extends $mol_icon {
@@ -28855,6 +55702,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_send_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_send_lock extends $mol_icon {
 		path( ): string
 	}
@@ -28862,6 +55727,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_variant_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_variant_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_send_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_serial_port extends $mol_icon {
@@ -28891,6 +55810,15 @@ declare namespace $ {
 //# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_server_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_server_network extends $mol_icon {
 		path( ): string
 	}
@@ -28909,6 +55837,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_server_network_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_server_off extends $mol_icon {
 		path( ): string
 	}
@@ -28918,6 +55855,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_server_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_server_plus extends $mol_icon {
 		path( ): string
 	}
@@ -28925,6 +55871,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_server_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_server_remove extends $mol_icon {
@@ -28999,6 +55954,15 @@ declare namespace $ {
 //# sourceMappingURL=right.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_set_merge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=merge.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_set_none extends $mol_icon {
 		path( ): string
 	}
@@ -29015,6 +55979,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_set_split extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=split.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_set_square extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=square.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_set_top_box extends $mol_icon {
@@ -29044,6 +56026,24 @@ declare namespace $ {
 //# sourceMappingURL=helper.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shaker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shaker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shaker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_shape extends $mol_icon {
 		path( ): string
 	}
@@ -29071,6 +56071,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shape_oval_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_shape_plus extends $mol_icon {
 		path( ): string
 	}
@@ -29078,6 +56087,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shape_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_shape_polygon_plus extends $mol_icon {
@@ -29107,6 +56125,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shape_square_rounded_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_share extends $mol_icon {
 		path( ): string
 	}
@@ -29114,6 +56141,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=share.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_share_all extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=all.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_share_all_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_share_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_share_off extends $mol_icon {
@@ -29152,6 +56206,51 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_share_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shark extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shark.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shark_fin extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fin.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shark_fin_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shark_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sheep extends $mol_icon {
 		path( ): string
 	}
@@ -29180,6 +56279,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_shield_account_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_account_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_account_variant_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -29224,6 +56341,33 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shield_bug extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bug.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_bug_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_car extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=car.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_shield_check extends $mol_icon {
 		path( ): string
 	}
@@ -29258,6 +56402,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_crown extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=crown.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_crown_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_half extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=half.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_shield_half_full extends $mol_icon {
@@ -29332,7 +56521,43 @@ declare namespace $ {
 //# sourceMappingURL=lock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shield_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_shield_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_moon extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=moon.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_moon_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -29386,6 +56611,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shield_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_shield_remove extends $mol_icon {
 		path( ): string
 	}
@@ -29413,6 +56656,87 @@ declare namespace $ {
 //# sourceMappingURL=search.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shield_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_sun extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sun.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_sun_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_sword extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sword.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_sword_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shield_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shimmer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shimmer.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ship_wheel extends $mol_icon {
 		path( ): string
 	}
@@ -29420,6 +56744,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wheel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shipping_pallet extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pallet.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shoe_ballet extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ballet.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shoe_cleat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cleat.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_shoe_formal extends $mol_icon {
@@ -29449,6 +56800,15 @@ declare namespace $ {
 //# sourceMappingURL=print.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shoe_sneaker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sneaker.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_shopping extends $mol_icon {
 		path( ): string
 	}
@@ -29465,6 +56825,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=music.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shopping_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shopping_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shopping_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_shore extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shore.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_shovel extends $mol_icon {
@@ -29539,6 +56935,24 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_shuriken extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shuriken.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sickle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sickle.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sigma extends $mol_icon {
 		path( ): string
 	}
@@ -29575,6 +56989,69 @@ declare namespace $ {
 //# sourceMappingURL=direction.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sign_direction_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sign_direction_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sign_direction_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sign_language extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=language.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sign_language_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sign_pole extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pole.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sign_real_estate extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=estate.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sign_text extends $mol_icon {
 		path( ): string
 	}
@@ -29582,6 +57059,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sign_yield extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=yield.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_signal extends $mol_icon {
@@ -29755,6 +57241,15 @@ declare namespace $ {
 //# sourceMappingURL=silo.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_silo_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_silverware extends $mol_icon {
 		path( ): string
 	}
@@ -29762,6 +57257,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=silverware.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_silverware_clean extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clean.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_silverware_fork extends $mol_icon {
@@ -29818,6 +57322,15 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sim_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sim_off extends $mol_icon {
 		path( ): string
 	}
@@ -29825,6 +57338,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sim_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sim_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_simple_icons extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=icons.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_sina_weibo extends $mol_icon {
@@ -29836,6 +57376,15 @@ declare namespace $ {
 //# sourceMappingURL=weibo.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sine_wave extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wave.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sitemap extends $mol_icon {
 		path( ): string
 	}
@@ -29845,6 +57394,87 @@ declare namespace $ {
 //# sourceMappingURL=sitemap.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sitemap_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_l extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=l.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_m extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=m.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_s extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=s.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_xl extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xl.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_xs extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xs.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_xxl extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xxl.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_xxs extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xxs.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_size_xxxl extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=xxxl.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_skate extends $mol_icon {
 		path( ): string
 	}
@@ -29852,6 +57482,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=skate.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_skate_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_skateboard extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=skateboard.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_skateboarding extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=skateboarding.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_skew_less extends $mol_icon {
@@ -29870,6 +57527,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=more.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ski extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ski.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ski_cross_country extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=country.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ski_water extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=water.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_skip_backward extends $mol_icon {
@@ -30016,6 +57700,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_skull_scan extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scan.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_skull_scan_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_skype extends $mol_icon {
 		path( ): string
 	}
@@ -30043,6 +57745,33 @@ declare namespace $ {
 //# sourceMappingURL=slack.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_slash_forward extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=forward.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_slash_forward_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sledding extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sledding.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sleep extends $mol_icon {
 		path( ): string
 	}
@@ -30059,6 +57788,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_slide extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=slide.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_slope_downhill extends $mol_icon {
@@ -30079,6 +57817,78 @@ declare namespace $ {
 //# sourceMappingURL=uphill.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_slot_machine extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=machine.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_slot_machine_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smart_card extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=card.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smart_card_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smart_card_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smart_card_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smart_card_reader extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=reader.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smart_card_reader_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_smog extends $mol_icon {
 		path( ): string
 	}
@@ -30088,6 +57898,15 @@ declare namespace $ {
 //# sourceMappingURL=smog.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_smoke extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=smoke.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_smoke_detector extends $mol_icon {
 		path( ): string
 	}
@@ -30095,6 +57914,78 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=detector.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_variant_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoke_detector_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_smoking extends $mol_icon {
@@ -30115,6 +58006,42 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_smoking_pipe extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pipe.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_smoking_pipe_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snail extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snail.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snake extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snake.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_snapchat extends $mol_icon {
 		path( ): string
 	}
@@ -30122,6 +58049,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=snapchat.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snowboard extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snowboard.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_snowflake extends $mol_icon {
@@ -30142,6 +58078,42 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_snowflake_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snowflake_melt extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=melt.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snowflake_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snowflake_thermometer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thermometer.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_snowflake_variant extends $mol_icon {
 		path( ): string
 	}
@@ -30158,6 +58130,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=snowman.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snowmobile extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snowmobile.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_snowshoeing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snowshoeing.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_soccer extends $mol_icon {
@@ -30178,6 +58168,24 @@ declare namespace $ {
 //# sourceMappingURL=field.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_social_distance_2_meters extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=meters.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_social_distance_6_feet extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=feet.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sofa extends $mol_icon {
 		path( ): string
 	}
@@ -30185,6 +58193,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sofa.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sofa_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sofa_single extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=single.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sofa_single_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_solar_panel extends $mol_icon {
@@ -30214,6 +58249,33 @@ declare namespace $ {
 //# sourceMappingURL=power.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_solar_power_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_solar_power_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_soldering_iron extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=iron.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_solid extends $mol_icon {
 		path( ): string
 	}
@@ -30221,6 +58283,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=solid.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sony_playstation extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=playstation.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_sort extends $mol_icon {
@@ -30241,6 +58312,51 @@ declare namespace $ {
 //# sourceMappingURL=alphabetical.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sort_alphabetical_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_alphabetical_ascending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_alphabetical_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_alphabetical_descending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_alphabetical_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sort_ascending extends $mol_icon {
 		path( ): string
 	}
@@ -30248,6 +58364,96 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_bool_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_bool_ascending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_bool_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_bool_descending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_calendar_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_calendar_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_clock_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_clock_ascending_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_clock_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_clock_descending_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_sort_descending extends $mol_icon {
@@ -30266,6 +58472,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=numeric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_numeric_ascending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ascending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_numeric_ascending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_numeric_descending extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=descending.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_numeric_descending_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_numeric_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_reverse_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_sort_variant extends $mol_icon {
@@ -30295,6 +58555,33 @@ declare namespace $ {
 //# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sort_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sort_variant_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_soundbar extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=soundbar.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_soundcloud extends $mol_icon {
 		path( ): string
 	}
@@ -30320,6 +58607,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=branch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_source_branch_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_source_branch_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_source_branch_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_source_branch_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_source_branch_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_source_branch_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_source_commit extends $mol_icon {
@@ -30439,6 +58780,15 @@ declare namespace $ {
 //# sourceMappingURL=sauce.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_soy_sauce_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_spa extends $mol_icon {
 		path( ): string
 	}
@@ -30464,6 +58814,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=invaders.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_space_station extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=station.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_spade extends $mol_icon {
@@ -30493,6 +58852,15 @@ declare namespace $ {
 //# sourceMappingURL=bluetooth.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_speaker_message extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=message.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_speaker_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -30511,6 +58879,33 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_speaker_pause extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_speaker_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_speaker_stop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stop.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_speaker_wireless extends $mol_icon {
 		path( ): string
 	}
@@ -30518,6 +58913,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wireless.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_spear extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spear.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_speedometer extends $mol_icon {
@@ -30529,6 +58933,24 @@ declare namespace $ {
 //# sourceMappingURL=speedometer.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_speedometer_medium extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=medium.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_speedometer_slow extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=slow.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_spellcheck extends $mol_icon {
 		path( ): string
 	}
@@ -30538,6 +58960,51 @@ declare namespace $ {
 //# sourceMappingURL=spellcheck.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sphere extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sphere.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sphere_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_spider extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=spider.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_spider_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_spider_thread extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thread.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_spider_web extends $mol_icon {
 		path( ): string
 	}
@@ -30545,6 +59012,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=web.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_spirit_level extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=level.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_spoon_sugar extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sugar.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_spotify extends $mol_icon {
@@ -30592,6 +59077,33 @@ declare namespace $ {
 //# sourceMappingURL=bottle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sprinkler extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sprinkler.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sprinkler_fire extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fire.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sprinkler_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sprout extends $mol_icon {
 		path( ): string
 	}
@@ -30617,6 +59129,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=square.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_square_edit_outline extends $mol_icon {
@@ -30646,6 +59176,33 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_square_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_opacity extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=opacity.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_square_outline extends $mol_icon {
 		path( ): string
 	}
@@ -30673,6 +59230,42 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_square_rounded extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=rounded.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_rounded_badge extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=badge.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_rounded_badge_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_rounded_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_square_small extends $mol_icon {
 		path( ): string
 	}
@@ -30680,6 +59273,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=small.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_square_wave extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wave.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_squeegee extends $mol_icon {
@@ -30718,6 +59320,15 @@ declare namespace $ {
 //# sourceMappingURL=overflow.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_stackpath extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stackpath.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_stadium extends $mol_icon {
 		path( ): string
 	}
@@ -30727,6 +59338,24 @@ declare namespace $ {
 //# sourceMappingURL=stadium.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_stadium_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_stadium_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_stairs extends $mol_icon {
 		path( ): string
 	}
@@ -30734,6 +59363,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=stairs.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_stairs_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_stairs_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_stairs_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_stamper extends $mol_icon {
@@ -30772,7 +59428,43 @@ declare namespace $ {
 //# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_star_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_star_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_check_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -30799,6 +59491,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_star_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_crescent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=crescent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_david extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=david.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_star_face extends $mol_icon {
 		path( ): string
 	}
@@ -30817,6 +59545,42 @@ declare namespace $ {
 //# sourceMappingURL=points.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_star_four_points_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_four_points_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_four_points_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_four_points_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_star_four_points_outline extends $mol_icon {
 		path( ): string
 	}
@@ -30824,6 +59588,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_four_points_small extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=small.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_star_half extends $mol_icon {
@@ -30835,6 +59608,33 @@ declare namespace $ {
 //# sourceMappingURL=half.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_star_half_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_star_off extends $mol_icon {
 		path( ): string
 	}
@@ -30844,7 +59644,88 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_star_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_shooting extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shooting.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_star_shooting_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -30869,6 +59750,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_state_machine extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=machine.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_steam extends $mol_icon {
@@ -30952,6 +59842,51 @@ declare namespace $ {
 //# sourceMappingURL=sticker.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sticker_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sticker_emoji extends $mol_icon {
 		path( ): string
 	}
@@ -30961,6 +59896,87 @@ declare namespace $ {
 //# sourceMappingURL=emoji.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sticker_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_text extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=text.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sticker_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_stocking extends $mol_icon {
 		path( ): string
 	}
@@ -30968,6 +59984,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=stocking.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_stomach extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stomach.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_stool extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stool.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_stool_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_stop extends $mol_icon {
@@ -30997,6 +60040,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_storage_tank extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tank.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storage_tank_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_store extends $mol_icon {
 		path( ): string
 	}
@@ -31015,6 +60076,339 @@ declare namespace $ {
 //# sourceMappingURL=hour.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_store_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_store_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=storefront.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_storefront_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_stove extends $mol_icon {
 		path( ): string
 	}
@@ -31022,6 +60416,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=stove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_strategy extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=strategy.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_stretch_to_page extends $mol_icon {
@@ -31042,6 +60445,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_string_lights extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lights.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_string_lights_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_subdirectory_arrow_left extends $mol_icon {
 		path( ): string
 	}
@@ -31058,6 +60479,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_submarine extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=submarine.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_subtitles extends $mol_icon {
@@ -31114,6 +60544,105 @@ declare namespace $ {
 //# sourceMappingURL=summit.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_sun_angle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=angle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_angle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_compass extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=compass.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_snowflake extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snowflake.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_snowflake_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_thermometer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thermometer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_thermometer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_wireless extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wireless.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sun_wireless_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_sunglasses extends $mol_icon {
 		path( ): string
 	}
@@ -31121,6 +60650,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sunglasses.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_surfing extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=surfing.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_surround_sound extends $mol_icon {
@@ -31141,6 +60679,15 @@ declare namespace $ {
 //# sourceMappingURL=0.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_surround_sound_2_1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_surround_sound_3_1 extends $mol_icon {
 		path( ): string
 	}
@@ -31157,6 +60704,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_surround_sound_5_1_2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=2.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_surround_sound_7_1 extends $mol_icon {
@@ -31195,6 +60751,33 @@ declare namespace $ {
 //# sourceMappingURL=bold.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_swap_horizontal_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_swap_horizontal_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_swap_horizontal_hidden extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hidden.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_swap_horizontal_variant extends $mol_icon {
 		path( ): string
 	}
@@ -31220,6 +60803,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=bold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_swap_vertical_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_swap_vertical_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_swap_vertical_variant extends $mol_icon {
@@ -31267,6 +60868,51 @@ declare namespace $ {
 //# sourceMappingURL=cross.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_syllabary_hangul extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hangul.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_syllabary_hiragana extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hiragana.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_syllabary_katakana extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=katakana.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_syllabary_katakana_halfwidth extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=halfwidth.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_symbol extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=symbol.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_symfony extends $mol_icon {
 		path( ): string
 	}
@@ -31274,6 +60920,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=symfony.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_synagogue extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=synagogue.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_synagogue_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_sync extends $mol_icon {
@@ -31292,6 +60956,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_sync_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_sync_off extends $mol_icon {
@@ -31339,6 +61012,15 @@ declare namespace $ {
 //# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tab_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tab_unselected extends $mol_icon {
 		path( ): string
 	}
@@ -31357,6 +61039,60 @@ declare namespace $ {
 //# sourceMappingURL=table.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_table_account extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=account.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_table_border extends $mol_icon {
 		path( ): string
 	}
@@ -31364,6 +61100,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=border.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_chair extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=chair.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_table_column extends $mol_icon {
@@ -31420,6 +61201,78 @@ declare namespace $ {
 //# sourceMappingURL=edit.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_table_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_eye_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_filter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=filter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_furniture extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=furniture.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_headers_eye extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=eye.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_headers_eye_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_heart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=heart.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_key extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=key.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_table_large extends $mol_icon {
 		path( ): string
 	}
@@ -31427,6 +61280,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=large.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_large_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_large_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_table_merge_cells extends $mol_icon {
@@ -31438,6 +61318,33 @@ declare namespace $ {
 //# sourceMappingURL=cells.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_table_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_network extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=network.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_table_of_contents extends $mol_icon {
 		path( ): string
 	}
@@ -31447,6 +61354,33 @@ declare namespace $ {
 //# sourceMappingURL=contents.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_table_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_picnic extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=picnic.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_pivot extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pivot.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_table_plus extends $mol_icon {
 		path( ): string
 	}
@@ -31454,6 +61388,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_table_remove extends $mol_icon {
@@ -31528,6 +61480,33 @@ declare namespace $ {
 //# sourceMappingURL=settings.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_table_split_cell extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cell.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_table_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_table_tennis extends $mol_icon {
 		path( ): string
 	}
@@ -31582,6 +61561,114 @@ declare namespace $ {
 //# sourceMappingURL=tag.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tag_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_arrow_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_arrow_left_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_arrow_right_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_arrow_up_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tag_faces extends $mol_icon {
 		path( ): string
 	}
@@ -31609,6 +61696,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tag_hidden extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hidden.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tag_minus extends $mol_icon {
 		path( ): string
 	}
@@ -31618,6 +61714,15 @@ declare namespace $ {
 //# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tag_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tag_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -31625,6 +61730,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tag_outline extends $mol_icon {
@@ -31645,6 +61777,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tag_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tag_remove extends $mol_icon {
 		path( ): string
 	}
@@ -31652,6 +61793,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tag_text extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=text.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tag_text_outline extends $mol_icon {
@@ -31663,6 +61840,69 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tailwind extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tailwind.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tally_mark_1 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=1.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tally_mark_2 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=2.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tally_mark_3 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=3.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tally_mark_4 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=4.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tally_mark_5 extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=5.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tangram extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tangram.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tank extends $mol_icon {
 		path( ): string
 	}
@@ -31670,6 +61910,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=tank.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tanker_truck extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=truck.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tape_drive extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=drive.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tape_measure extends $mol_icon {
@@ -31744,6 +62002,15 @@ declare namespace $ {
 //# sourceMappingURL=teamviewer.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_teddy_bear extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bear.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_telescope extends $mol_icon {
 		path( ): string
 	}
@@ -31760,6 +62027,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=television.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_television_ambient_light extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=light.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_television_box extends $mol_icon {
@@ -31807,6 +62083,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_television_pause extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_television_play extends $mol_icon {
 		path( ): string
 	}
@@ -31814,6 +62099,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_television_shimmer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shimmer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_television_speaker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=speaker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_television_speaker_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_television_stop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stop.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_temperature_celsius extends $mol_icon {
@@ -31843,6 +62164,42 @@ declare namespace $ {
 //# sourceMappingURL=kelvin.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_temple_buddhist extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=buddhist.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_temple_buddhist_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_temple_hindu extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hindu.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_temple_hindu_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tennis extends $mol_icon {
 		path( ): string
 	}
@@ -31861,6 +62218,15 @@ declare namespace $ {
 //# sourceMappingURL=ball.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tennis_ball_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tent extends $mol_icon {
 		path( ): string
 	}
@@ -31868,6 +62234,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=tent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_terraform extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=terraform.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_terrain extends $mol_icon {
@@ -31915,6 +62290,195 @@ declare namespace $ {
 //# sourceMappingURL=text.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_text_account extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=account.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_multiple extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_box_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_long extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=long.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_recognition extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=recognition.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_text_search_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_text_shadow extends $mol_icon {
 		path( ): string
 	}
@@ -31940,6 +62504,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=texture.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_texture_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_theater extends $mol_icon {
@@ -31978,6 +62551,33 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_thermometer_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermometer_bluetooth extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bluetooth.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermometer_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_thermometer_chevron_down extends $mol_icon {
 		path( ): string
 	}
@@ -31996,6 +62596,15 @@ declare namespace $ {
 //# sourceMappingURL=up.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_thermometer_high extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=high.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_thermometer_lines extends $mol_icon {
 		path( ): string
 	}
@@ -32003,6 +62612,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lines.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermometer_low extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=low.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_thermometer_minus extends $mol_icon {
@@ -32014,6 +62632,15 @@ declare namespace $ {
 //# sourceMappingURL=minus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_thermometer_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_thermometer_plus extends $mol_icon {
 		path( ): string
 	}
@@ -32021,6 +62648,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermometer_probe extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=probe.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermometer_probe_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermometer_water extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=water.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_thermostat extends $mol_icon {
@@ -32032,6 +62686,15 @@ declare namespace $ {
 //# sourceMappingURL=thermostat.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_thermostat_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_thermostat_box extends $mol_icon {
 		path( ): string
 	}
@@ -32039,6 +62702,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermostat_box_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_thermostat_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_thought_bubble extends $mol_icon {
@@ -32104,6 +62785,15 @@ declare namespace $ {
 //# sourceMappingURL=down.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_thumbs_up_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ticket extends $mol_icon {
 		path( ): string
 	}
@@ -32131,6 +62821,15 @@ declare namespace $ {
 //# sourceMappingURL=confirmation.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ticket_confirmation_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ticket_outline extends $mol_icon {
 		path( ): string
 	}
@@ -32147,6 +62846,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=percent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ticket_percent_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tie extends $mol_icon {
@@ -32167,6 +62875,15 @@ declare namespace $ {
 //# sourceMappingURL=tilde.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tilde_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_timelapse extends $mol_icon {
 		path( ): string
 	}
@@ -32185,7 +62902,133 @@ declare namespace $ {
 //# sourceMappingURL=timeline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_timeline_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_timeline_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timeline_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -32239,6 +63082,186 @@ declare namespace $ {
 //# sourceMappingURL=3.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_timer_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_cancel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_lock_open_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_music extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=music.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_music_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_timer_off extends $mol_icon {
 		path( ): string
 	}
@@ -32248,6 +63271,114 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_timer_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_pause extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=pause.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_pause_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_play extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=play.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_play_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_refresh_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_timer_sand extends $mol_icon {
 		path( ): string
 	}
@@ -32255,6 +63386,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sand.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_sand_complete extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=complete.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_timer_sand_empty extends $mol_icon {
@@ -32275,6 +63415,87 @@ declare namespace $ {
 //# sourceMappingURL=full.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_timer_sand_paused extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=paused.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_settings_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_star extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=star.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_star_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_stop extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=stop.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_stop_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_timer_sync_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_timetable extends $mol_icon {
 		path( ): string
 	}
@@ -32282,6 +63503,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=timetable.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tire extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tire.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toaster extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=toaster.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toaster_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_toaster_oven extends $mol_icon {
@@ -32329,6 +63577,24 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_toggle_switch_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toggle_switch_variant_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_toilet extends $mol_icon {
 		path( ): string
 	}
@@ -32356,6 +63622,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tools extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tools.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tooltip extends $mol_icon {
 		path( ): string
 	}
@@ -32374,6 +63649,33 @@ declare namespace $ {
 //# sourceMappingURL=account.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tooltip_cellphone extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cellphone.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tooltip_edit extends $mol_icon {
 		path( ): string
 	}
@@ -32381,6 +63683,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tooltip_image extends $mol_icon {
@@ -32393,6 +63704,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_tooltip_image_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_minus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -32420,6 +63749,42 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_tooltip_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_question extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=question.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_question_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tooltip_remove_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -32464,6 +63829,42 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_toothbrush extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=toothbrush.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toothbrush_electric extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=electric.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toothbrush_paste extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=paste.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_torch extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=torch.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tortoise extends $mol_icon {
 		path( ): string
 	}
@@ -32473,6 +63874,24 @@ declare namespace $ {
 //# sourceMappingURL=tortoise.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_toslink extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=toslink.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_touch_text_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tournament extends $mol_icon {
 		path( ): string
 	}
@@ -32480,6 +63899,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=tournament.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tow_truck extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=truck.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tower_beach extends $mol_icon {
@@ -32500,6 +63928,123 @@ declare namespace $ {
 //# sourceMappingURL=fire.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_town_hall extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hall.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=brick.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_search extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=search.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_toy_brick_search_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_track_light extends $mol_icon {
 		path( ): string
 	}
@@ -32507,6 +64052,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=light.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_track_light_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_trackpad extends $mol_icon {
@@ -32536,6 +64090,15 @@ declare namespace $ {
 //# sourceMappingURL=tractor.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tractor_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_trademark extends $mol_icon {
 		path( ): string
 	}
@@ -32543,6 +64106,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=trademark.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_traffic_cone extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cone.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_traffic_light extends $mol_icon {
@@ -32554,6 +64126,15 @@ declare namespace $ {
 //# sourceMappingURL=light.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_traffic_light_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_train extends $mol_icon {
 		path( ): string
 	}
@@ -32563,6 +64144,15 @@ declare namespace $ {
 //# sourceMappingURL=train.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_train_bus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_train_car extends $mol_icon {
 		path( ): string
 	}
@@ -32570,6 +64160,204 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=car.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_autorack extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=autorack.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_box_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_box_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_caboose extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=caboose.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_centerbeam extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=centerbeam.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_centerbeam_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_container extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=container.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_flatbed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flatbed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_flatbed_car extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=car.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_flatbed_tank extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tank.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_gondola extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gondola.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_gondola_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_hopper extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hopper.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_hopper_covered extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=covered.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_hopper_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_intermodal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=intermodal.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_passenger extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=passenger.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_passenger_door extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=door.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_passenger_door_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_passenger_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_train_car_tank extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tank.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_train_variant extends $mol_icon {
@@ -32590,6 +64378,15 @@ declare namespace $ {
 //# sourceMappingURL=tram.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tram_side extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=side.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_transcribe extends $mol_icon {
 		path( ): string
 	}
@@ -32606,6 +64403,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=close.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_transfer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=transfer.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_transfer_down extends $mol_icon {
@@ -32653,6 +64459,15 @@ declare namespace $ {
 //# sourceMappingURL=connection.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_transit_connection_horizontal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=horizontal.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_transit_connection_variant extends $mol_icon {
 		path( ): string
 	}
@@ -32660,6 +64475,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_transit_detour extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=detour.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_transit_skip extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=skip.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_transit_transfer extends $mol_icon {
@@ -32707,6 +64540,15 @@ declare namespace $ {
 //# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_translate_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_transmission_tower extends $mol_icon {
 		path( ): string
 	}
@@ -32714,6 +64556,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=tower.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_transmission_tower_export extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=export.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_transmission_tower_import extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=import.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_transmission_tower_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_trash_can extends $mol_icon {
@@ -32734,6 +64603,78 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tray extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tray.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tray_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tray_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tray_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tray_full extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=full.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tray_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tray_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tray_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_treasure_chest extends $mol_icon {
 		path( ): string
 	}
@@ -32741,6 +64682,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=chest.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_treasure_chest_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tree extends $mol_icon {
@@ -32806,6 +64756,24 @@ declare namespace $ {
 //# sourceMappingURL=triangle.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_triangle_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_triangle_down_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_triangle_outline extends $mol_icon {
 		path( ): string
 	}
@@ -32813,6 +64781,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_triangle_small_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_triangle_small_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_triangle_wave extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wave.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_triforce extends $mol_icon {
@@ -32887,6 +64882,33 @@ declare namespace $ {
 //# sourceMappingURL=truck.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_truck_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_cargo_container extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=container.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_truck_check extends $mol_icon {
 		path( ): string
 	}
@@ -32894,6 +64916,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_truck_delivery extends $mol_icon {
@@ -32905,6 +64936,15 @@ declare namespace $ {
 //# sourceMappingURL=delivery.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_truck_delivery_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_truck_fast extends $mol_icon {
 		path( ): string
 	}
@@ -32914,6 +64954,114 @@ declare namespace $ {
 //# sourceMappingURL=fast.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_truck_fast_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_flatbed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=flatbed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_off_road extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=road.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_off_road_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_truck_snowflake extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=snowflake.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_truck_trailer extends $mol_icon {
 		path( ): string
 	}
@@ -32921,6 +65069,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=trailer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_trumpet extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=trumpet.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tshirt_crew extends $mol_icon {
@@ -32959,6 +65116,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tsunami extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tsunami.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tumble_dryer extends $mol_icon {
 		path( ): string
 	}
@@ -32966,6 +65132,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=dryer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tumble_dryer_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tumble_dryer_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_tune extends $mol_icon {
@@ -32977,6 +65161,15 @@ declare namespace $ {
 //# sourceMappingURL=tune.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_tune_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_tune_vertical extends $mol_icon {
 		path( ): string
 	}
@@ -32984,6 +65177,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=vertical.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tune_vertical_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tunnel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=tunnel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_tunnel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_turbine extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=turbine.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_turkey extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=turkey.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_turnstile extends $mol_icon {
@@ -33067,6 +65305,24 @@ declare namespace $ {
 //# sourceMappingURL=ubuntu.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_ufo extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=ufo.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_ufo_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_ultra_high_definition extends $mol_icon {
 		path( ): string
 	}
@@ -33094,6 +65350,24 @@ declare namespace $ {
 //# sourceMappingURL=umbrella.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_umbrella_beach extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=beach.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_umbrella_beach_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_umbrella_closed extends $mol_icon {
 		path( ): string
 	}
@@ -33103,7 +65377,34 @@ declare namespace $ {
 //# sourceMappingURL=closed.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_umbrella_closed_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_umbrella_closed_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_umbrella_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_underwear_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -33184,6 +65485,33 @@ declare namespace $ {
 //# sourceMappingURL=unicode.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_unicorn extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=unicorn.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_unicorn_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_unicycle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=unicycle.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_unity extends $mol_icon {
 		path( ): string
 	}
@@ -33220,6 +65548,60 @@ declare namespace $ {
 //# sourceMappingURL=upload.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_upload_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_circle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_lock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_upload_multiple extends $mol_icon {
 		path( ): string
 	}
@@ -33227,6 +65609,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=multiple.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_multiple_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_upload_network extends $mol_icon {
@@ -33239,6 +65630,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_upload_network_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_upload_off_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -33263,6 +65672,87 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=usb.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_usb_c_port extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=port.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_usb_flash_drive extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=drive.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_usb_flash_drive_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_usb_port extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=port.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vacuum extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vacuum.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vacuum_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_valve extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=valve.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_valve_closed extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=closed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_valve_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_van_passenger extends $mol_icon {
@@ -33292,6 +65782,24 @@ declare namespace $ {
 //# sourceMappingURL=vanish.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_vanish_quarter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=quarter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vanity_light extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=light.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_variable extends $mol_icon {
 		path( ): string
 	}
@@ -33299,6 +65807,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=variable.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_variable_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_vector_arrange_above extends $mol_icon {
@@ -33418,6 +65935,15 @@ declare namespace $ {
 //# sourceMappingURL=line.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_vector_link extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=link.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_vector_point extends $mol_icon {
 		path( ): string
 	}
@@ -33425,6 +65951,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=point.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_point_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_point_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_point_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_point_select extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=select.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_vector_polygon extends $mol_icon {
@@ -33436,6 +65998,15 @@ declare namespace $ {
 //# sourceMappingURL=polygon.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_vector_polygon_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_vector_polyline extends $mol_icon {
 		path( ): string
 	}
@@ -33443,6 +66014,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=polyline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_polyline_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_polyline_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_polyline_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_polyline_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_vector_radius extends $mol_icon {
@@ -33479,6 +66086,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=square.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_square_close extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=close.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_square_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_square_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_square_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_square_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_vector_square_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_vector_triangle extends $mol_icon {
@@ -33535,6 +66196,15 @@ declare namespace $ {
 //# sourceMappingURL=video.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_video_2d extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=2d.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_video_3d extends $mol_icon {
 		path( ): string
 	}
@@ -33542,6 +66212,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=3d.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_3d_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_video_3d_variant extends $mol_icon {
@@ -33569,6 +66248,51 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=account.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_box_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_high_definition extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=definition.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_video_image extends $mol_icon {
@@ -33607,6 +66331,15 @@ declare namespace $ {
 //# sourceMappingURL=hdmi.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_video_input_scart extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=scart.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_video_input_svideo extends $mol_icon {
 		path( ): string
 	}
@@ -33616,6 +66349,24 @@ declare namespace $ {
 //# sourceMappingURL=svideo.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_video_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_marker_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_video_minus extends $mol_icon {
 		path( ): string
 	}
@@ -33623,6 +66374,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_video_off extends $mol_icon {
@@ -33661,6 +66421,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_video_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_video_stabilization extends $mol_icon {
 		path( ): string
 	}
@@ -33670,6 +66439,15 @@ declare namespace $ {
 //# sourceMappingURL=stabilization.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_video_standard_definition extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=definition.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_video_switch extends $mol_icon {
 		path( ): string
 	}
@@ -33677,6 +66455,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=switch.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_video_switch_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_video_vintage extends $mol_icon {
@@ -33715,6 +66502,15 @@ declare namespace $ {
 //# sourceMappingURL=agenda.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_agenda_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_array extends $mol_icon {
 		path( ): string
 	}
@@ -33722,6 +66518,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=array.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_array_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_view_carousel extends $mol_icon {
@@ -33733,6 +66538,15 @@ declare namespace $ {
 //# sourceMappingURL=carousel.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_carousel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_column extends $mol_icon {
 		path( ): string
 	}
@@ -33742,6 +66556,15 @@ declare namespace $ {
 //# sourceMappingURL=column.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_column_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_comfy extends $mol_icon {
 		path( ): string
 	}
@@ -33749,6 +66572,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=comfy.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_comfy_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_view_compact extends $mol_icon {
@@ -33778,6 +66610,24 @@ declare namespace $ {
 //# sourceMappingURL=dashboard.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_dashboard_edit extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=edit.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_dashboard_edit_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_dashboard_outline extends $mol_icon {
 		path( ): string
 	}
@@ -33796,6 +66646,15 @@ declare namespace $ {
 //# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_dashboard_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_day extends $mol_icon {
 		path( ): string
 	}
@@ -33805,6 +66664,33 @@ declare namespace $ {
 //# sourceMappingURL=day.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_day_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_gallery extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=gallery.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_gallery_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_grid extends $mol_icon {
 		path( ): string
 	}
@@ -33812,6 +66698,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=grid.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_grid_compact extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=compact.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_grid_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_grid_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_grid_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_view_headline extends $mol_icon {
@@ -33832,6 +66754,15 @@ declare namespace $ {
 //# sourceMappingURL=list.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_list_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_module extends $mol_icon {
 		path( ): string
 	}
@@ -33839,6 +66770,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=module.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_module_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_view_parallel extends $mol_icon {
@@ -33850,6 +66790,15 @@ declare namespace $ {
 //# sourceMappingURL=parallel.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_parallel_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_quilt extends $mol_icon {
 		path( ): string
 	}
@@ -33859,6 +66808,15 @@ declare namespace $ {
 //# sourceMappingURL=quilt.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_quilt_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_sequential extends $mol_icon {
 		path( ): string
 	}
@@ -33866,6 +66824,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=sequential.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_sequential_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_view_split_horizontal extends $mol_icon {
@@ -33895,6 +66862,15 @@ declare namespace $ {
 //# sourceMappingURL=stream.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_view_stream_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_view_week extends $mol_icon {
 		path( ): string
 	}
@@ -33902,6 +66878,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=week.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_view_week_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_vimeo extends $mol_icon {
@@ -33931,6 +66916,42 @@ declare namespace $ {
 //# sourceMappingURL=reality.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_virus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=virus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_virus_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_virus_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_virus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_vlc extends $mol_icon {
 		path( ): string
 	}
@@ -33949,6 +66970,24 @@ declare namespace $ {
 //# sourceMappingURL=voicemail.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_volcano extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=volcano.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_volcano_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_volleyball extends $mol_icon {
 		path( ): string
 	}
@@ -33956,6 +66995,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=volleyball.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_volume_equal extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=equal.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_volume_high extends $mol_icon {
@@ -34021,6 +67069,15 @@ declare namespace $ {
 //# sourceMappingURL=plus.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_volume_source extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=source.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_volume_variant_off extends $mol_icon {
 		path( ): string
 	}
@@ -34028,6 +67085,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_volume_vibrate extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=vibrate.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_vote extends $mol_icon {
@@ -34093,6 +67159,15 @@ declare namespace $ {
 //# sourceMappingURL=wall.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wall_fire extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=fire.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wall_sconce extends $mol_icon {
 		path( ): string
 	}
@@ -34111,6 +67186,78 @@ declare namespace $ {
 //# sourceMappingURL=flat.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wall_sconce_flat_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wall_sconce_flat_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wall_sconce_flat_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wall_sconce_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wall_sconce_round extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=round.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wall_sconce_round_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wall_sconce_round_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wall_sconce_round_variant_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wallet extends $mol_icon {
 		path( ): string
 	}
@@ -34118,6 +67265,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wallet.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wallet_bifold extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=bifold.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wallet_bifold_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_wallet_giftcard extends $mol_icon {
@@ -34139,6 +67304,24 @@ declare namespace $ {
 declare namespace $ {
 
 	export class $mol_icon_wallet_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wallet_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wallet_plus_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -34174,6 +67357,33 @@ declare namespace $ {
 //# sourceMappingURL=wan.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wardrobe extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wardrobe.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wardrobe_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_warehouse extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=warehouse.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_washing_machine extends $mol_icon {
 		path( ): string
 	}
@@ -34181,6 +67391,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=machine.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_washing_machine_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_washing_machine_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_watch extends $mol_icon {
@@ -34264,6 +67492,105 @@ declare namespace $ {
 //# sourceMappingURL=water.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_water_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_boiler extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=boiler.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_boiler_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_boiler_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_boiler_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_circle extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=circle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_minus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_water_off extends $mol_icon {
 		path( ): string
 	}
@@ -34271,6 +67598,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_off_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_opacity extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=opacity.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_water_outline extends $mol_icon {
@@ -34291,6 +67636,42 @@ declare namespace $ {
 //# sourceMappingURL=percent.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_water_percent_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_plus_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_polo extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=polo.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_water_pump extends $mol_icon {
 		path( ): string
 	}
@@ -34298,6 +67679,105 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=pump.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_pump_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_remove_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_thermometer extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=thermometer.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_thermometer_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_well extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=well.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_water_well_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_waterfall extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=waterfall.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_watering_can extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=can.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_watering_can_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_watermark extends $mol_icon {
@@ -34318,6 +67798,42 @@ declare namespace $ {
 //# sourceMappingURL=wave.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wave_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wave_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wave_undercurrent extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=undercurrent.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_waveform extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=waveform.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_waves extends $mol_icon {
 		path( ): string
 	}
@@ -34325,6 +67841,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=waves.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_waves_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_waves_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_waves_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_waze extends $mol_icon {
@@ -34363,6 +67906,24 @@ declare namespace $ {
 //# sourceMappingURL=right.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_weather_cloudy_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_weather_dust extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=dust.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_weather_fog extends $mol_icon {
 		path( ): string
 	}
@@ -34399,6 +67960,15 @@ declare namespace $ {
 //# sourceMappingURL=hurricane.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_weather_hurricane_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_weather_lightning extends $mol_icon {
 		path( ): string
 	}
@@ -34415,6 +67985,33 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=rainy.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_weather_moonset extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=moonset.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_weather_moonset_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_weather_moonset_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_weather_night extends $mol_icon {
@@ -34543,6 +68140,15 @@ declare namespace $ {
 //# sourceMappingURL=alert.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_weather_sunny_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_weather_sunset extends $mol_icon {
 		path( ): string
 	}
@@ -34606,6 +68212,96 @@ declare namespace $ {
 //# sourceMappingURL=web.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_web_box extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_web_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_webcam extends $mol_icon {
 		path( ): string
 	}
@@ -34613,6 +68309,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=webcam.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_webcam_off extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=off.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_webhook extends $mol_icon {
@@ -34631,6 +68336,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=webpack.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_webrtc extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=webrtc.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_wechat extends $mol_icon {
@@ -34669,6 +68383,15 @@ declare namespace $ {
 //# sourceMappingURL=kilogram.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_weight_lifter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lifter.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_weight_pound extends $mol_icon {
 		path( ): string
 	}
@@ -34687,6 +68410,24 @@ declare namespace $ {
 //# sourceMappingURL=whatsapp.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wheel_barrow extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=barrow.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wheelchair extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=wheelchair.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wheelchair_accessibility extends $mol_icon {
 		path( ): string
 	}
@@ -34703,6 +68444,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=whistle.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_whistle_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_white_balance_auto extends $mol_icon {
@@ -34750,6 +68500,15 @@ declare namespace $ {
 //# sourceMappingURL=widgets.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_widgets_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wifi extends $mol_icon {
 		path( ): string
 	}
@@ -34759,6 +68518,132 @@ declare namespace $ {
 //# sourceMappingURL=wifi.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wifi_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_arrow_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_arrow_left extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=left.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_arrow_left_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_arrow_right extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=right.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_arrow_up extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=up.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_arrow_up_down extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=down.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_cancel extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cancel.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_lock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_marker extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=marker.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_minus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=minus.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wifi_off extends $mol_icon {
 		path( ): string
 	}
@@ -34766,6 +68651,42 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=off.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_plus extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=plus.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_refresh extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=refresh.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_remove extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=remove.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_wifi_star extends $mol_icon {
@@ -34804,6 +68725,15 @@ declare namespace $ {
 //# sourceMappingURL=lock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wifi_strength_1_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wifi_strength_2 extends $mol_icon {
 		path( ): string
 	}
@@ -34829,6 +68759,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=lock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_strength_2_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_wifi_strength_3 extends $mol_icon {
@@ -34858,6 +68797,15 @@ declare namespace $ {
 //# sourceMappingURL=lock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wifi_strength_3_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wifi_strength_4 extends $mol_icon {
 		path( ): string
 	}
@@ -34885,7 +68833,25 @@ declare namespace $ {
 //# sourceMappingURL=lock.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wifi_strength_4_lock_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wifi_strength_alert_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wifi_strength_lock_open_outline extends $mol_icon {
 		path( ): string
 	}
 	
@@ -34930,6 +68896,15 @@ declare namespace $ {
 //# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wifi_sync extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=sync.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wikipedia extends $mol_icon {
 		path( ): string
 	}
@@ -34939,6 +68914,24 @@ declare namespace $ {
 //# sourceMappingURL=wikipedia.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_wind_power extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=power.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wind_power_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_wind_turbine extends $mol_icon {
 		path( ): string
 	}
@@ -34946,6 +68939,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=turbine.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wind_turbine_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wind_turbine_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_window_close extends $mol_icon {
@@ -34964,6 +68975,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=closed.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_window_closed_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_window_maximize extends $mol_icon {
@@ -34993,6 +69013,15 @@ declare namespace $ {
 //# sourceMappingURL=open.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_window_open_variant extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=variant.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_window_restore extends $mol_icon {
 		path( ): string
 	}
@@ -35000,6 +69029,69 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=restore.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_window_shutter extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=shutter.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_window_shutter_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_window_shutter_auto extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=auto.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_window_shutter_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_window_shutter_open extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=open.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_window_shutter_settings extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=settings.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_windsock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=windsock.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_wiper extends $mol_icon {
@@ -35018,6 +69110,24 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wash.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wiper_wash_alert extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=alert.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wizard_hat extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=hat.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_wordpress extends $mol_icon {
@@ -35054,6 +69164,60 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=wrench.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wrench_check extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=check.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wrench_check_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wrench_clock extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=clock.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wrench_clock_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wrench_cog extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=cog.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_wrench_cog_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_wrench_outline extends $mol_icon {
@@ -35119,6 +69283,15 @@ declare namespace $ {
 //# sourceMappingURL=yang.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_yoga extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=yoga.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_youtube extends $mol_icon {
 		path( ): string
 	}
@@ -35137,6 +69310,15 @@ declare namespace $ {
 //# sourceMappingURL=gaming.view.tree.d.ts.map
 declare namespace $ {
 
+	export class $mol_icon_youtube_studio extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=studio.view.tree.d.ts.map
+declare namespace $ {
+
 	export class $mol_icon_youtube_subscription extends $mol_icon {
 		path( ): string
 	}
@@ -35153,6 +69335,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=tv.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_yurt extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=yurt.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_z_wave extends $mol_icon {
@@ -35189,6 +69380,15 @@ declare namespace $ {
 }
 
 //# sourceMappingURL=box.view.tree.d.ts.map
+declare namespace $ {
+
+	export class $mol_icon_zip_box_outline extends $mol_icon {
+		path( ): string
+	}
+	
+}
+
+//# sourceMappingURL=outline.view.tree.d.ts.map
 declare namespace $ {
 
 	export class $mol_icon_zip_disk extends $mol_icon {
@@ -35323,42 +69523,42 @@ declare namespace $ {
 
 declare namespace $ {
 
-	type $mol_search__query__NOLBBKKM = $mol_type_enforce<
+	type $mol_search__query__0UOP4BMX = $mol_type_enforce<
 		ReturnType< $mol_icon_demo['icons_filter'] >
 		,
 		ReturnType< $mol_search['query'] >
 	>
-	type $mol_link_source__uri__G9GF33U1 = $mol_type_enforce<
+	type $mol_link_source__uri__0FGI9KXP = $mol_type_enforce<
 		string
 		,
 		ReturnType< $mol_link_source['uri'] >
 	>
-	type $mol_list__rows__7PQTKMMQ = $mol_type_enforce<
+	type $mol_list__rows__ZF3ZV555 = $mol_type_enforce<
 		ReturnType< $mol_icon_demo['output'] >
 		,
 		ReturnType< $mol_list['rows'] >
 	>
-	type $mol_dimmer__haystack__BVHRHQEU = $mol_type_enforce<
+	type $mol_dimmer__haystack__62WMQWJP = $mol_type_enforce<
 		ReturnType< $mol_icon_demo['row_title'] >
 		,
 		ReturnType< $mol_dimmer['haystack'] >
 	>
-	type $mol_dimmer__needle__IXBSOZV2 = $mol_type_enforce<
+	type $mol_dimmer__needle__4T74CVSG = $mol_type_enforce<
 		ReturnType< $mol_icon_demo['icons_filter'] >
 		,
 		ReturnType< $mol_dimmer['needle'] >
 	>
-	type $mol_dimmer__haystack__UIC9A786 = $mol_type_enforce<
+	type $mol_dimmer__haystack__SLFD3E2A = $mol_type_enforce<
 		ReturnType< $mol_icon_demo['row_descr'] >
 		,
 		ReturnType< $mol_dimmer['haystack'] >
 	>
-	type $mol_dimmer__needle__WZC5PFS0 = $mol_type_enforce<
+	type $mol_dimmer__needle__ILLZH2MP = $mol_type_enforce<
 		ReturnType< $mol_icon_demo['icons_filter'] >
 		,
 		ReturnType< $mol_dimmer['needle'] >
 	>
-	type $mol_row__sub__DSDSU9AI = $mol_type_enforce<
+	type $mol_row__sub__OCGB42FF = $mol_type_enforce<
 		readonly(any)[]
 		,
 		ReturnType< $mol_row['sub'] >
