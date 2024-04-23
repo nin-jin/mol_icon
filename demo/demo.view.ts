@@ -7,7 +7,7 @@ namespace $.$$ {
 
 		@ $mol_mem_key
 		Row_icon( name: string ) {
-			return new ( this.$[ name ] as typeof $mol_icon )
+			return new ( ( this.$ as any )[ name ] as typeof $mol_icon )
 		}
 
 		row_title( name: string ) {
@@ -15,7 +15,7 @@ namespace $.$$ {
 		}
 
 		row_descr( name: string ) {
-			return this.data()[ name ]
+			return ( this.data() as any )[ name ]
 		}
 
 		@ $mol_mem
@@ -26,7 +26,7 @@ namespace $.$$ {
 		@ $mol_mem
 		icons_filtered() {
 			const data = this.data()
-			return this.icons_all().filter( $mol_match_text( this.icons_filter() , name => [ name.replace( /^\$mol_icon_/ , '' ) , data[ name ] ] ) )
+			return this.icons_all().filter( $mol_match_text( this.icons_filter() , name => [ name.replace( /^\$mol_icon_/ , '' ) , ( data as any )[ name ] ] ) )
 		}
 		
 		@ $mol_mem
