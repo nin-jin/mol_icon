@@ -6,16 +6,16 @@ $mol_icon_demo $mol_page
 		<= Lights $mol_lights_toggle
 	plugins / <= Theme $mol_theme_auto
 	body / <= Output $mol_list rows <= output /
-	Row!name $mol_row
+	Row* $mol_row
 		minimal_width 16
 		minimal_height 24
 		sub /
-			<= Row_icon!name $mol_icon
-			<= Row_title!name $mol_dimmer
-				haystack <= row_title!name \
+			<= Row_icon* $mol_icon
+			<= Row_title* $mol_dimmer
+				haystack <= row_title* \
 				needle <= icons_filter
-			<= Row_descr!name $mol_dimmer
-				haystack <= row_descr!name \
+			<= Row_descr* $mol_dimmer
+				haystack <= row_descr* \
 				needle <= icons_filter
 	data *
 		$mol_icon_ab_testing \Developer / Languages
