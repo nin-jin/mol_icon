@@ -12,11 +12,9 @@ $mol_icon_demo $mol_page
 		sub /
 			<= Row_icon!name $mol_icon
 			<= Row_title!name $mol_dimmer
-				minimal_height 24
 				haystack <= row_title!name \
 				needle <= icons_filter
 			<= Row_descr!name $mol_dimmer
-				minimal_height 24
 				haystack <= row_descr!name \
 				needle <= icons_filter
 	data *
