@@ -15233,8 +15233,8 @@ $mol_icon_demo $mol_page
 	plugins / <= Theme $mol_theme_auto
 	body / <= Output $mol_list rows <= output /
 	Row* $mol_row
-		minimal_width 16
-		minimal_height 24
+		minimal_width 48
+		minimal_height 48
 		sub /
 			<= Row_icon* $mol_icon
 			<= Row_title* $mol_dimmer
