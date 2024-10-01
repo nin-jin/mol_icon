@@ -5,12 +5,9 @@ $mol_icon_demo $mol_page
 		<= Github $mol_link_source uri \https://github.com/nin-jin/mol_icon/
 		<= Lights $mol_lights_toggle
 	plugins / <= Theme $mol_theme_auto
-	body / <= Output $mol_list
-		minimal_height 0
-		rows <= output /
+	body / <= Output $mol_list rows <= output /
 	Row!name $mol_row
 		minimal_width 16
-		maximal_width 16
 		minimal_height 24
 		sub /
 			<= Row_icon!name $mol_icon
