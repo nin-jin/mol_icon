@@ -26,7 +26,7 @@ namespace $.$$ {
 		@ $mol_mem
 		icons_filtered() {
 			const data = this.data()
-			return this.icons_all().filter( $mol_match_text( this.icons_filter() , name => [ name.replace( /^\$mol_icon_/ , '' ) , ( data as any )[ name ] ] ) )
+			return this.icons_all().filter( $mol_match_text( this.icons_filter() , name => [ name , ( data as any )[ name ] ] ) )
 		}
 		
 		@ $mol_mem
